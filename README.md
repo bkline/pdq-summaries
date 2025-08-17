@@ -4,7 +4,7 @@ This repository contains a port of the software which published PDQ summaries to
 
 ## Runtime Options
 
-```bash
+```
 $ ./publish.py --help
 usage: publish.py [-h] [--base BASE] [--batch BATCH] [--debug] [--dump] [--ids IDS [IDS ...]]
                   [--max MAX] [--skip SKIP] [--tier TIER] [--type {cis,dis}]
