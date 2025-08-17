@@ -179,6 +179,7 @@ class Summary:
     """Base class for both type of summaries."""
 
     DESCRIPTION_MAX = 600
+    chdir(Path(__file__).resolve().parent)
 
     def __init__(self, control, path):
         """Remember the caller and where to find the XML"""
@@ -899,5 +900,4 @@ class DrupalClient:
 
 
 if __name__ == "__main__":
-    chdir(Path(__file__).resolve().parent)
     Control().run()
