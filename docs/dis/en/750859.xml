@@ -1,0 +1,60 @@
+<DrugInformationSummary id="CDR0000750859"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This combination contains the chemotherapy drugs  vincristine sulfate (Oncovin), procarbazine hydrochloride, and doxorubicin hydrochloride (Adriamycin)
+      and the steroid hormone prednisone. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/OPPA">OPPA</DrugInfoURL><TerminologyLink ref="CDR0000750875">OPPA regimen</TerminologyLink><GlossaryLink ref="CDR0000751153">OPPA</GlossaryLink><PronunciationInfo/></DrugInfoMetaData><DrugInfoTitle>OPPA</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the OPPA combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>O</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000599877" url="/about-cancer/treatment/drugs/vincristinesulfate">Vincristine Sulfate</DrugRef> (Oncovin)
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>P</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000675532" url="/about-cancer/treatment/drugs/procarbazinehydrochloride">Procarbazine Hydrochloride</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>P</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000652391" url="/about-cancer/treatment/drugs/prednisone">Prednisone</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>A</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000542867" url="/about-cancer/treatment/drugs/doxorubicinhydrochloride">Doxorubicin Hydrochloride</DrugRef> (Adriamycin)
+      </entry>
+     </Row>
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">OPPA 
+         is used to treat:</Para>
+  <ItemizedList Style="bullet" id="_7">
+   <ListItem><Strong><GlossaryTermRef href="CDR0000270800" dictionary="Cancer.gov" audience="Patient">Hodgkin lymphoma</GlossaryTermRef></Strong> in children. It is used to treat certain female patients and is often used with <GlossaryTermRef href="CDR0000044971" dictionary="Cancer.gov" audience="Patient">radiation therapy</GlossaryTermRef>.</ListItem>
+   
+   </ItemizedList>
+  <Para id="_8">This combination may also be used with other drugs or 
+         treatments or to treat other types of cancer.</Para>
+ </Section><Section id="_About"><Title>More About OPPA</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/750875">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2013-08-30</DateFirstPublished><DateLastModified>2023-05-08</DateLastModified></DrugInformationSummary>

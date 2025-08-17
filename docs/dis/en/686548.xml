@@ -1,0 +1,26 @@
+<DrugInformationSummary id="CDR0000686548"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This combination contains the chemotherapy drugs cyclophosphamide, vincristine sulfate (Oncovin), and procarbazine hydrochloride and the steroid hormone prednisone. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/COPP">COPP</DrugInfoURL><TerminologyLink ref="CDR0000656998">COPP regimen</TerminologyLink><GlossaryLink ref="CDR0000662458">COPP</GlossaryLink><PronunciationInfo><MediaLink ref="CDR0000734714" type="audio/mpeg" alt="" language="en" id="_3"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>COPP</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the COPP combination:</Title>
+   <TGroup ColSep="1" Cols="2"><ColSpec Align="Right" ColName="col1" ColNum="1" ColWidth="1.00*"/><ColSpec Align="Left" ColName="col3" ColNum="2" ColWidth="8.47*"/><TBody><Row><entry Align="Right"><Strong>C</Strong></entry><entry Align="Left">= <DrugRef href="CDR0000557430" url="/about-cancer/treatment/drugs/cyclophosphamide">Cyclophosphamide</DrugRef></entry></Row><Row><entry Align="Right"><Strong>O</Strong></entry><entry Align="Left">= <DrugRef href="CDR0000599877" url="/about-cancer/treatment/drugs/vincristinesulfate">Vincristine Sulfate</DrugRef> (Oncovin)</entry></Row><Row><entry Align="Right"><Strong>P</Strong></entry><entry Align="Left">= <DrugRef href="CDR0000675532" url="/about-cancer/treatment/drugs/procarbazinehydrochloride">Procarbazine Hydrochloride</DrugRef></entry></Row><Row><entry Align="Right"><Strong>P</Strong></entry><entry Align="Left">= <DrugRef href="CDR0000652391" url="/about-cancer/treatment/drugs/prednisone">Prednisone</DrugRef></entry></Row></TBody></TGroup>
+  </Table>
+  <Para id="_3">Each of the 
+         drugs 
+         in this
+         combination
+         is approved by the
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef>
+         to treat 
+         cancer
+         or conditions related to cancer.</Para>                          
+  
+ </Section><Section id="_6"><Title>Use in Cancer</Title><Para id="_7">COPP is used to treat:</Para><ItemizedList Style="bullet" id="_8"><ListItem><Strong><GlossaryTermRef href="CDR0000270800" dictionary="Cancer.gov" audience="Patient">Hodgkin lymphoma</GlossaryTermRef>.</Strong></ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000045148" dictionary="Cancer.gov" audience="Patient">Non-Hodgkin lymphoma</GlossaryTermRef></Strong> (NHL).</ListItem></ItemizedList><Para id="_9">This combination may also be used with other drugs or treatments or to treat other types of cancer.</Para></Section><Section id="_About"><Title>More About COPP</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/656998">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2011-01-04</DateFirstPublished><DateLastModified>2023-04-24</DateLastModified></DrugInformationSummary>

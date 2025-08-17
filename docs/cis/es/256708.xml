@@ -1,0 +1,220 @@
+<Summary id="CDR0000256708" LegacyPDQID=""><SummaryMetaData><SummaryType>Treatment</SummaryType><SummaryAudience>Health professionals</SummaryAudience><SummaryLanguage>Spanish</SummaryLanguage><SummaryDescription>Resumen de información revisada por expertos acerca del tratamiento del cáncer de intestino delgado.</SummaryDescription><SummaryURL xref="https://www.cancer.gov/espanol/tipos/intestino-delgado/pro/tratamiento-intestino-delgado-pdq">Cáncer de intestino delgado (PDQ®): Tratamiento</SummaryURL><SummaryToggleURL xref="https://www.cancer.gov/espanol/tipos/intestino-delgado/paciente/tratamiento-intestino-delgado-pdq">Cáncer de intestino delgado (PDQ®): Tratamiento</SummaryToggleURL><SummaryEditorialBoard ref="CDR0000028327">PDQ Adult Treatment Editorial Board</SummaryEditorialBoard><MainTopics><TermRef ref="CDR0000038736">small intestine cancer</TermRef></MainTopics><SummaryAbstract>
+      <Para id="_162">This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of small intestine cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions.</Para>
+      <Para id="_163">This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board, which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).</Para>
+    </SummaryAbstract><SummaryKeyWords><SummaryKeyWord>small intestine cancer</SummaryKeyWord></SummaryKeyWords></SummaryMetaData><SummaryTitle>Tratamiento del cáncer de intestino delgado (PDQ®)–Versión para profesionales de salud</SummaryTitle><AltTitle TitleType="Browser">Tratamiento del cáncer de intestino delgado (PDQ®)</AltTitle><AltTitle TitleType="CancerTypeHomePage">Tratamiento del cáncer de intestino delgado</AltTitle><SummarySection id="_1"><SectMetaData><SpecificDiagnosis ref="CDR0000038736">small intestine cancer</SpecificDiagnosis><SectionType>Prognosis--legacy</SectionType></SectMetaData><Title>Información general sobre el cáncer de intestino delgado</Title><SummarySection id="_138"><Title>Incidencia y mortalidad</Title><Para id="_103">Número estimado de casos nuevos y defunciones por cáncer de intestino delgado en los Estados Unidos para 2025:<Reference refidx="1"/></Para><ItemizedList id="_104" Style="bullet">
+        <ListItem>Casos nuevos: 13 920.</ListItem>
+        <ListItem>Defunciones: 2060.</ListItem>
+      </ItemizedList></SummarySection><Para id="_2">Los tipos de cáncer de intestino delgado incluyen adenocarcinoma, sarcoma, tumor neuroendocrino, tumor de estroma gastrointestinal y linfoma. El cáncer de intestino delgado representa el 3,8 % de todas las neoplasias del sistema digestivo.<Reference refidx="1"/><Reference refidx="2"/></Para><SummarySection id="_151"><Title>Seguimiento y supervivencia</Title><Para id="_152">Al igual que para otras neoplasias malignas gastrointestinales, la modalidad de tratamiento predominante es la cirugía (cuando la resección es posible) y la curación depende de la posibilidad de llevar a cabo una resección completa del cáncer.</Para><Para id="_154">Los tumores neuroendocrinos de intestino delgado no se describen en este resumen ya que se trata de un tipo de cáncer separado. Para obtener más información, consultar <SummaryRef href="CDR0000256700" url="/espanol/tipos/tumores-neuroendocrinos-gi/pro/tratamiento-neuroendocrinos-gi-pdq">Tratamiento de los tumores neuroendocrinos gastrointestinales</SummaryRef>.</Para></SummarySection><ReferenceSection><Citation idx="1">American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. <ExternalRef xref="https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2025/2025-cancer-facts-and-figures-acs.pdf">Available online</ExternalRef>. Last accessed January 16, 2025.</Citation><Citation idx="2">National Cancer Institute: SEER Cancer Stat Facts: Small Intestine Cancer. Bethesda, Md: National Cancer Institute. <ExternalRef xref="https://seer.cancer.gov/statfacts/html/smint.html">Available online</ExternalRef>. Last accessed March 6, 2025.</Citation></ReferenceSection></SummarySection><SummarySection id="_3"><SectMetaData><SpecificDiagnosis ref="CDR0000038736">small intestine cancer</SpecificDiagnosis><SectionType>Cellular classification--legacy</SectionType></SectMetaData><Title>Clasificación celular del cáncer de intestino delgado</Title><Para id="_4">Los tumores que surgen en el intestino delgado son los siguientes:</Para><ItemizedList id="_5" Style="bullet">
+      <ListItem>Adenocarcinoma (mayoría de los casos).</ListItem>
+      <ListItem>Linfoma (poco común), que por lo general es del tipo no Hodgkin. Para obtener más información, consultar <SummaryRef href="CDR0000817997" url="/espanol/tipos/linfoma/pro/tratamiento-linfoma-celulas-b-crecimiento-lento-pdq">Tratamiento del linfoma no Hodgkin de células B de crecimiento lento</SummaryRef>, <SummaryRef href="CDR0000817897" url="/espanol/tipos/linfoma/pro/tratamiento-linfoma-celulas-b-crecimiento-rapido-pdq">Tratamiento del linfoma no Hodgkin de células B de crecimiento rápido</SummaryRef> y <SummaryRef href="CDR0000813953" url="/espanol/tipos/linfoma/pro/tratamiento-linfoma-periferico-celulas-t-pdq">Tratamiento del linfoma no Hodgkin periférico de células T</SummaryRef> .</ListItem>
+      <ListItem>Sarcoma (el más común es el leiomiosarcoma y el menos común es el liposarcoma).</ListItem>
+      <ListItem>Tumores neuroendocrinos. Para obtener más información, consultar <SummaryRef href="CDR0000256700" url="/espanol/tipos/tumores-neuroendocrinos-gi/pro/tratamiento-neuroendocrinos-gi-pdq">Tratamiento de los tumores neuroendocrinos gastrointestinales</SummaryRef>.</ListItem>
+      <ListItem>Tumores de estroma gastrointestinal. Para obtener más información, consultar <SummaryRef href="CDR0000697331" url="/espanol/tipos/sarcoma-de-tejido-blando/pro/tratamiento-tegi-pdq">Tratamiento de los tumores de estroma gastrointestinal</SummaryRef>.</ListItem>
+    </ItemizedList><Para id="_6">Alrededor del 25 % al 50 % de los tumores primarios malignos de intestino delgado son adenocarcinomas; la mayoría de estos aparecen en el duodeno.<Reference refidx="1"/> Los carcinomas de intestino delgado se presentan de forma sincrónica o metacrónica en sitios múltiples.</Para><Para id="_7">Los leiomiosarcomas se presentan con mayor frecuencia en el íleon.</Para><Para id="_8">Cerca del 20 % de las lesiones malignas de intestino delgado son tumores neuroendocrinos, que ocurren con más frecuencia en el íleon que en el duodeno o el yeyuno y a veces son múltiples.</Para><Para id="_9">Es poco común encontrar un linfoma maligno como una lesión solitaria en el intestino delgado.</Para><ReferenceSection><Citation idx="1">Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 221–34.</Citation></ReferenceSection></SummarySection><SummarySection id="_10"><SectMetaData><SpecificDiagnosis ref="CDR0000038736">small intestine cancer</SpecificDiagnosis><SectionType>Stage explanation--legacy</SectionType></SectMetaData><Title>Información sobre los estadios del cáncer de intestino delgado</Title><Para id="_11">Las secciones de tratamiento de este resumen se organizan según el tipo histopatológico en vez del estadio.</Para><SummarySection id="_133"><Title>Agrupamiento por estadios y definiciones TNM del American Joint Committee on Cancer</Title><Para id="_134">El American Joint Committee on Cancer (AJCC) designó los estadios mediante la clasificación TNM (tumor, ganglio linfático y metástasis) para definir el cáncer de intestino delgado. Esta clasificación por estadio solo se usa para los adenocarcinomas que se originan en el duodeno fuera de la ampolla de Vater y en el intestino delgado. Se deben asignar categorías TNM para los tumores de intestino delgado que no son adenocarcinomas, pero no se asigna un estadio.<Reference refidx="1"/></Para><Table id="_184">
+        <Title>Cuadro 1.  Definiciones de tumor primario (T)<Superscript>a</Superscript></Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="11.79%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="88.20%"/>
+          <THead>
+            <Row>
+              <entry>Categoría T</entry>
+              <entry>Criterios T</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Small Intestine. En: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp. 221–34.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1"><Superscript>b</Superscript>En los tumores T3, el tejido perimuscular no peritonealizado es parte del mesenterio (yeyuno y íleo) y  parte de la interfaz con el páncreas (áreas del duodeno que no tienen serosa).</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>TX</entry>
+              <entry>Tumor primario no evaluable.</entry>
+            </Row>
+            <Row>
+              <entry>T0</entry>
+              <entry>Sin indicios de tumor primario.</entry>
+            </Row>
+            <Row>
+              <entry>Tis</entry>
+              <entry>Displasia de grado alto o carcinoma <Emphasis>in situ</Emphasis>.</entry>
+            </Row>
+            <Row>
+              <entry>T1</entry>
+              <entry>Tumor con invasión de la lámina propia o la submucosa.</entry>
+            </Row>
+            <Row>
+              <entry>−T1a</entry>
+              <entry>Tumor con invasión de la lámina propia.</entry>
+            </Row>
+            <Row>
+              <entry>−T1b</entry>
+              <entry>Tumor con invasión de la submucosa.</entry>
+            </Row>
+            <Row>
+              <entry>T2</entry>
+              <entry>Tumor con invasión de la capa muscular propia.</entry>
+            </Row>
+            <Row>
+              <entry>T3</entry>
+              <entry>Tumor con invasión de la subserosa a través de la capa muscular propia, o extensión al tejido perimuscular no peritonealizado (mesenterio o retroperitoneo) sin penetración de la membrana serosa.<Superscript>b</Superscript></entry>
+            </Row>
+            <Row>
+              <entry>T4</entry>
+              <entry>Tumor con perforación del peritoneo visceral o invasión directa de otros órganos o estructuras (por ejemplo, otras asas del intestino delgado, mesenterio de asas intestinales adyacentes, pared abdominal a través de la membrana serosa; en el duodeno, invasión del páncreas o de las vías biliares).</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_185">
+        <Title>Cuadro 2.  Definiciones de ganglio linfático regional (N)<Superscript>a</Superscript></Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="11.62%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="88.37%"/>
+          <THead>
+            <Row>
+              <entry>Categoría N</entry>
+              <entry>Criterios N</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Small Intestine. En: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp. 221–34.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>NX</entry>
+              <entry>Ganglios linfáticos regionales no evaluables.</entry>
+            </Row>
+            <Row>
+              <entry>N0</entry>
+              <entry>Sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>N1</entry>
+              <entry>Metástasis en 1 o 2 ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>N2</entry>
+              <entry>Metástasis en 3 o más ganglios linfáticos regionales.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_186">
+        <Title>Cuadro 3.  Definiciones de metástasis a distancia (M)<Superscript>a</Superscript></Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+          <THead>
+            <Row>
+              <entry>Categoría M</entry>
+              <entry>Criterios M</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Small Intestine. En: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp. 221–34.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>M0</entry>
+              <entry>Sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry>M1</entry>
+              <entry>Metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_187">
+        <Title>Cuadro 4. Grupos de estadios pronósticos para el adenocarcinoma<Superscript>a</Superscript></Title>
+        <TGroup Cols="4">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="25.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="25.00%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="25.00%"/>
+          <ColSpec ColName="col4" ColNum="4" ColWidth="25.00%"/>
+          <THead>
+            <Row>
+              <entry>Estadio</entry>
+              <entry>T</entry>
+              <entry>N</entry>
+              <entry>M</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col4" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col4" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Small Intestine. En: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp. 221–34.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>0</entry>
+              <entry>Tis</entry>
+              <entry>N0</entry>
+              <entry>M0</entry>
+            </Row>
+            <Row>
+              <entry>I</entry>
+              <entry>T1−2</entry>
+              <entry>N0</entry>
+              <entry>M0</entry>
+            </Row>
+            <Row>
+              <entry>IIA</entry>
+              <entry>T3</entry>
+              <entry>N0</entry>
+              <entry>M0</entry>
+            </Row>
+            <Row>
+              <entry>IIB</entry>
+              <entry>T4</entry>
+              <entry>N0</entry>
+              <entry>M0</entry>
+            </Row>
+            <Row>
+              <entry>IIIA</entry>
+              <entry>Cualquier T</entry>
+              <entry>N1</entry>
+              <entry>M0</entry>
+            </Row>
+            <Row>
+              <entry>IIIB</entry>
+              <entry>Cualquier T</entry>
+              <entry>N2</entry>
+              <entry>M0</entry>
+            </Row>
+            <Row>
+              <entry>IV</entry>
+              <entry>Cualquier T</entry>
+              <entry>Cualquier N</entry>
+              <entry>M1</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table></SummarySection><ReferenceSection><Citation idx="1">Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 221–34.</Citation></ReferenceSection></SummarySection><SummarySection id="_36"><SectMetaData><SpecificDiagnosis ref="CDR0000038744">small intestine adenocarcinoma</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del adenocarcinoma de intestino delgado</Title><Para id="_37">
+      <Strong>Opciones de tratamiento:</Strong>
+    </Para><OrderedList id="_83" Style="Arabic">
+      <ListItem>Para la enfermedad primaria resecable:<ItemizedList id="_39" Style="bullet"><ListItem>Resección quirúrgica radical.<Reference refidx="1"/><Reference refidx="2"/>
+</ListItem></ItemizedList></ListItem>
+      <ListItem>Para la enfermedad primaria irresecable:<ItemizedList id="_41" Style="bullet"><ListItem>Derivación quirúrgica de la lesión obstructiva.</ListItem><ListItem>Radioterapia paliativa.</ListItem><ListItem> Participación en ensayos clínicos en los que se evalúan formas de mejorar el control local, como el uso de radioterapia y radiosensibilizadores con quimioterapia sistémica o sin esta.</ListItem></ItemizedList></ListItem>
+    <ListItem>Para la enfermedad metastásica irresecable:<ItemizedList id="_193" Style="bullet">
+     <ListItem>Participación en ensayos clínicos en los que se evalúa la utilidad de nuevos medicamentos contra el cáncer y de la terapia biológica (estudios de fase I y fase II).</ListItem></ItemizedList></ListItem></OrderedList><SummarySection id="_TrialSearch_36_sid_4"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_36_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="8696551" MedlineID="96326510">Rose DM, Hochwald SN, Klimstra DS, et al.: Primary duodenal adenocarcinoma: a ten-year experience with 79 patients. J Am Coll Surg 183 (2): 89-96, 1996.</Citation><Citation idx="2" PMID="10651347">North JH, Pack MS: Malignant tumors of the small intestine: a review of 144 cases. Am Surg 66 (1): 46-51, 2000.</Citation></ReferenceSection></SummarySection><SummarySection id="_60"><SectMetaData><SpecificDiagnosis ref="CDR0000038746">small intestine leiomyosarcoma</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del leiomiosarcoma de intestino delgado</Title><Para id="_61">
+      <Strong>Opciones de tratamiento:</Strong>
+    </Para><OrderedList id="_86" Style="Arabic">
+      <ListItem>Para la enfermedad primaria resecable:<ItemizedList id="_63" Style="bullet"><ListItem>Resección quirúrgica radical.</ListItem></ItemizedList></ListItem>
+      <ListItem>Para la enfermedad primaria irresecable:<ItemizedList id="_65" Style="bullet"><ListItem>Derivación quirúrgica de la lesión obstructiva y radioterapia.</ListItem><ListItem>Participación en ensayos clínicos en los que se evalúa la utilidad de nuevos medicamentos contra el cáncer y de la terapia biológica.</ListItem></ItemizedList></ListItem>
+      <ListItem>Para la enfermedad metastásica irresecable:<ItemizedList id="_67" Style="bullet"><ListItem>Cirugía paliativa.</ListItem><ListItem>Radioterapia paliativa.</ListItem><ListItem>Quimioterapia paliativa.</ListItem><ListItem>Participación en ensayos clínicos en los que se evalúa la utilidad de nuevos medicamentos contra el cáncer y de la terapia biológica.</ListItem></ItemizedList></ListItem>
+    </OrderedList><SummarySection id="_TrialSearch_60_sid_5"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_60_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection></SummarySection><SummarySection id="_72"><SectMetaData><SpecificDiagnosis ref="CDR0000038757">recurrent small intestine cancer</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del cáncer de intestino delgado recidivante</Title><Para id="_73">
+      <Strong>Opciones de tratamiento:</Strong>
+    </Para><OrderedList id="_88" Style="Arabic">
+      <ListItem>Para el adenocarcinoma o el leiomiosarcoma metastásicos<ItemizedList id="_75" Style="bullet"><ListItem>No hay una quimioterapia estándar que sea eficaz en pacientes con adenocarcinoma o leiomiosarcoma de intestino delgado metastásico recidivante. Estos pacientes deben considerar la participación en ensayos clínicos de fase I o II en los que se evalúa la utilidad de nuevos medicamentos contra el cáncer y de la terapia biológica.</ListItem></ItemizedList></ListItem>
+      <ListItem>Para la enfermedad local recidivante:<ItemizedList id="_81" Style="bullet"><ListItem>Cirugía.</ListItem><ListItem>Radioterapia paliativa.</ListItem><ListItem>Quimioterapia paliativa.</ListItem><ListItem>Participación en ensayos clínicos en los que se evalúan formas de mejorar el control local, como el uso de radioterapia y radiosensibilizadores con quimioterapia sistémica o sin esta.</ListItem></ItemizedList>
+</ListItem>
+    </OrderedList><SummarySection id="_TrialSearch_72_sid_6"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_72_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection></SummarySection><SummarySection id="_188"><SectMetaData><SectionType>Changes to summary</SectionType></SectMetaData><Title>Actualizaciones más recientes a este resumen (04/30/2025)</Title><Para id="_189">Los resúmenes del PDQ con información sobre el cáncer se revisan con regularidad y se actualizan a medida  que se obtiene nueva información.  Esta sección describe los cambios más recientes introducidos a este resumen a partir de la fecha arriba indicada.</Para><Para id="_197">Se incorporaron cambios editoriales en este resumen</Para><Para id="_disclaimerHP_3">El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">Consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> es responsable de la redacción y actualización de este resumen y mantiene independencia editorial respecto del NCI. El resumen refleja una revisión independiente de la bibliografía médica y no representa las políticas del NCI ni de los NIH. Para obtener más  información sobre las políticas relativas a los resúmenes y la función de los  consejos editoriales  del PDQ responsables de su actualización, consultar <SummaryRef href="CDR0000256708#_AboutThis_1" url="/espanol/tipos/intestino-delgado/pro/tratamiento-intestino-delgado-pdq">Información sobre este resumen del PDQ</SummaryRef> e   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq">Información del PDQ® sobre el cáncer dirigida a profesionales de la salud</ExternalRef>.</Para></SummarySection><SummarySection id="_AboutThis_1"><Title>Información sobre este resumen del PDQ</Title><SummarySection id="_AboutThis_2"><Title>Propósito de este resumen</Title><Para id="_AboutThis_3">Este resumen de información del PDQ sobre el cáncer dirigido a profesionales de la salud proporciona información integral revisada por expertos y basada en la evidencia  sobre el tratamiento del cáncer de intestino delgado. El objetivo es servir como fuente de información y ayuda para los profesionales clínicos  durante la atención de pacientes. No  ofrece pautas ni recomendaciones formales para tomar decisiones relacionadas con la atención sanitaria.</Para></SummarySection><SummarySection id="_AboutThis_21"><Title>Revisores y actualizaciones</Title><Para id="_AboutThis_22">El   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef>, que mantiene independencia editorial respecto del  Instituto Nacional del Cáncer (NCI), revisa este resumen de manera periódica y, en caso necesario,   lo actualiza. Este resumen es el resultado de una revisión bibliográfica independiente y no constituye una declaración de política del NCI ni de los Institutos Nacionales de la Salud (NIH).</Para><Para id="_AboutThis_26">Cada mes, los integrantes de este consejo revisan los artículos  publicados recientemente para determinar lo siguiente:</Para><ItemizedList id="_AboutThis_23" Style="bullet"><ListItem>Si el artículo se debe analizar en una reunión del consejo.</ListItem><ListItem>Si conviene añadir texto acerca del artículo.</ListItem><ListItem>Si se debe reemplazar o actualizar un artículo que ya se citó.</ListItem></ItemizedList><Para id="_AboutThis_24">Los cambios en los resúmenes se deciden mediante consenso de los integrantes del consejo después de evaluar la solidez de la evidencia de los artículos publicados y determinar la forma de incorporar el artículo en el resumen.</Para><Para>Los revisores principales del sumario sobre Tratamiento del cáncer de intestino delgado son:</Para><ItemizedList Style="bullet"><ListItem>Amit Chowdhry, MD, PhD (University of Rochester Medical Center)</ListItem><ListItem>Leon Pappas, MD, PhD (Massachusetts General Hospital)</ListItem></ItemizedList><Para id="_AboutThis_25">Cualquier comentario o pregunta sobre el contenido de este resumen se debe enviar al   <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.  Por favor, no enviar preguntas o comentarios directamente a los integrantes del consejo, ya que no responderán consultas de manera individual.</Para></SummarySection><SummarySection id="_AboutThis_9"><Title>Niveles de evidencia</Title><Para id="_AboutThis_10">Algunas de las referencias bibliográficas de este resumen se acompañan del nivel de evidencia. El propósito de esto es ayudar al lector a evaluar la solidez de la evidencia que respalda el uso de  ciertas intervenciones  o abordajes. El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> emplea un <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">sistema de jerarquización formal</SummaryRef> para asignar los niveles de evidencia científica.</Para></SummarySection><SummarySection id="_AboutThis_11"><Title>Permisos para el uso de este resumen</Title><Para id="_AboutThis_12">PDQ (Physician Data Query) es una marca registrada. Se autoriza el uso del texto  de los documentos del PDQ; sin embargo, no se podrá identificar como un resumen de información sobre cáncer del PDQ del  NCI,  salvo que el resumen se reproduzca en su totalidad y se actualice de manera periódica. Por otra parte, se permitirá que un autor  escriba una oración como “En el resumen del PDQ  del NCI de información sobre la prevención del cáncer de mama se describen, de manera concisa, los siguientes riesgos: [incluir fragmento del resumen]”.</Para><Para id="_AboutThis_13">Se sugiere citar la referencia bibliográfica de este resumen del PDQ de la siguiente forma:</Para><Para id="_AboutThis_14">PDQ® sobre el tratamiento para adultos. PDQ Tratamiento del cáncer de intestino delgado. Bethesda, MD: National Cancer Institute. Actualización:  &lt;MM/DD/YYYY&gt;. Disponible en: <ExternalRef xref="https://www.cancer.gov/espanol/tipos/intestino-delgado/pro/tratamiento-intestino-delgado-pdq">https://www.cancer.gov/espanol/tipos/intestino-delgado/pro/tratamiento-intestino-delgado-pdq</ExternalRef>.  Fecha de acceso: &lt;MM/DD/YYYY&gt;. </Para><Para id="_AboutThis_15">Las imágenes  en este resumen se reproducen  con autorización del autor, el artista o la  editorial para uso exclusivo en los resúmenes del PDQ. La utilización de las imágenes fuera del  PDQ requiere la autorización del propietario, que el Instituto Nacional del Cáncer no  puede otorgar. Para obtener más información sobre el uso de las ilustraciones de este resumen o de  otras imágenes relacionadas con el cáncer, consultar <ExternalRef xref="https://visualsonline.cancer.gov/">Visuals Online</ExternalRef>, una colección de más de 2000 imágenes científicas.</Para></SummarySection><SummarySection id="_AboutThis_16"><Title>Cláusula sobre el descargo de responsabilidad</Title><Para id="_AboutThis_17">Según la solidez de la evidencia, las opciones de tratamiento se clasifican  como “estándar” o “en evaluación clínica”. Estas clasificaciones no  se deben utilizar para justificar decisiones sobre reembolsos de seguros. Para obtener más información  sobre la cobertura de seguros, consultar la página <ExternalRef xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer">Manejo de la atención del cáncer</ExternalRef> en Cancer.gov/espanol.</Para></SummarySection><SummarySection id="_AboutThis_19"><Title>Comuníquese con el Instituto Nacional del Cáncer</Title><Para id="_AboutThis_20">Para obtener más información sobre las opciones para comunicarse con el NCI, incluso la dirección de correo electrónico, el número telefónico o el chat, consultar la página del <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.</Para></SummarySection></SummarySection><TranslationOf ref="CDR0000062902"/><DateLastModified>2025-04-30</DateLastModified></Summary>

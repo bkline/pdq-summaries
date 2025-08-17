@@ -1,0 +1,19 @@
+<DrugInformationSummary id="CDR0000817726"><DrugInfoMetaData><DrugInfoType>Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This page contains brief information about vimseltinib dihydrate
+         and a collection of links to more information about the use of 
+         this drug, research results, and ongoing clinical trials.
+  </DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/vimseltinib-dihydrate">Vimseltinib Dihydrate</DrugInfoURL><FDAApproved>Yes</FDAApproved><TerminologyLink ref="CDR0000789223">vimseltinib dihydrate</TerminologyLink><GlossaryLink ref="CDR0000817606">vimseltinib dihydrate</GlossaryLink><USBrandNames><USBrandName>Romvimza</USBrandName></USBrandNames><PronunciationInfo><TermPronunciation>vim-SEL-tih-nib dy-HY-drayt</TermPronunciation><MediaLink ref="CDR0000817839" type="audio/mpeg" alt="" language="en" id="_3"/><MediaLink ref="CDR0000817840" type="audio/mpeg" alt="" language="es" id="_4"/></PronunciationInfo><FDAExternalRef xref="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f73c7a62-9601-4df0-810f-100f515d79ea&amp;audience=consumer">FDA label information for this drug is available at DailyMed.</FDAExternalRef></DrugInfoMetaData><DrugInfoTitle>Vimseltinib Dihydrate</DrugInfoTitle><Section id="_FDA"><Para><ExternalRef xref="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f73c7a62-9601-4df0-810f-100f515d79ea&amp;audience=consumer">FDA label information for this drug is available at DailyMed.</ExternalRef></Para></Section><Section id="_1"><Title>Use in Cancer</Title>                                                              
+  <Para id="_2">Vimseltinib dihydrate
+         is approved to treat adults with:</Para>                          
+  <ItemizedList Style="bullet" id="_3">
+   <ListItem><Strong><GlossaryTermRef href="CDR0000801209" dictionary="Cancer.gov" audience="Patient">tenosynovial giant cell tumor</GlossaryTermRef></Strong> that is causing symptoms. It is used when surgery may make the symptoms worse or cause severe problems.</ListItem>
+   
+   </ItemizedList>
+  <Para id="_4">Vimseltinib dihydrate
+         is also being studied in the treatment of other conditions related to cancer.</Para>
+ </Section><Section id="_About"><Title>More About Vimseltinib Dihydrate</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/789223">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section><Section id="_Research"><Title>Research Results and Related Resources</Title><Para><ExternalRef xref="https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies">Targeted Therapy to Treat Cancer</ExternalRef></Para></Section><Section id="_ClinicalTrial_1"><Title>Clinical Trials Accepting Patients</Title><Para id="_ClinicalTrial_2"><ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials/intervention/C175876">Find Clinical Trials for Vimseltinib Dihydrate</ExternalRef> - Check for trials from NCI's list of cancer clinical trials now accepting patients.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2025-04-11</DateFirstPublished></DrugInformationSummary>

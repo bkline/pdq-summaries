@@ -1,0 +1,408 @@
+<Summary id="CDR0000256704" LegacyPDQID=""><SummaryMetaData><SummaryType>Treatment</SummaryType><SummaryAudience>Health professionals</SummaryAudience><SummaryLanguage>Spanish</SummaryLanguage><SummaryDescription>Resumen de información revisada por expertos acerca del tratamiento del cáncer de pene.</SummaryDescription><SummaryURL xref="https://www.cancer.gov/espanol/tipos/pene/pro/tratamiento-pene-pdq">Cáncer de pene (PDQ®): Tratamiento</SummaryURL><SummaryToggleURL xref="https://www.cancer.gov/espanol/tipos/pene/paciente/tratamiento-pene-pdq">Cáncer de pene (PDQ®): Tratamiento</SummaryToggleURL><SummaryEditorialBoard ref="CDR0000028327">PDQ Adult Treatment Editorial Board</SummaryEditorialBoard><MainTopics><TermRef ref="CDR0000038214">penile cancer</TermRef></MainTopics><SummaryAbstract>
+      <Para id="_206">This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of penile cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions.</Para>
+      <Para id="_207">This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board, which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).</Para>
+    </SummaryAbstract><SummaryKeyWords><SummaryKeyWord>penile cancer</SummaryKeyWord></SummaryKeyWords></SummaryMetaData><SummaryTitle>Tratamiento del cáncer de pene (PDQ®)–Versión para profesionales de salud</SummaryTitle><AltTitle TitleType="Browser">Tratamiento del cáncer de pene (PDQ®)</AltTitle><AltTitle TitleType="CancerTypeHomePage">Tratamiento del cáncer de pene</AltTitle><SummarySection id="_1"><SectMetaData><SpecificDiagnosis ref="CDR0000038214">penile cancer</SpecificDiagnosis><SectionType>Prognosis--legacy</SectionType></SectMetaData><Title>Información general sobre el cáncer de pene</Title><SummarySection id="_180"><Title>Incidencia y mortalidad</Title><Para id="_131">Número estimado de casos nuevos y defunciones por cáncer de pene (incluso cáncer de otros órganos genitales masculinos) en los Estados Unidos para 2025:<Reference refidx="1"/></Para><ItemizedList id="_132" Style="bullet">
+        <ListItem>Casos nuevos: 2190.</ListItem>
+        <ListItem>Defunciones: 510.</ListItem>
+      </ItemizedList></SummarySection><SummarySection id="_196"><Title>Factores de riesgo</Title><Para id="_197">El cáncer de pene es poco frecuente en la mayoría de los países desarrollados, como los Estados Unidos, donde la tasa de incidencia anual es de menos de 1 cada 100 000 hombres. En algunos estudios se indica una relación entre la infección por el virus del papiloma humano (VPH) y el cáncer de pene.<Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/> En los estudios observacionales se encontró una prevalencia más baja de la infección por el VPH en el pene de hombres circuncidados (oportunidad relativa, 0,37; intervalo de confianza 95 %, 0,16–0,85).<Reference refidx="6"/> En algunos estudios observacionales también se indica que la circuncisión en recién nacidos se relaciona con una disminución del riesgo de cáncer de pene.<Reference refidx="7"/><Reference refidx="8"/> Según los datos publicados, si la relación es causal, el número que es necesario tratar sería de 909 circuncisiones para prevenir un caso de cáncer de pene invasivo.<Reference refidx="9"/></Para></SummarySection><SummarySection id="_198"><Title>Aspectos generales de las opciones de tratamiento</Title><Para id="_199">Cuando se diagnostica temprano (<SummaryRef href="CDR0000256704#_122" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">estadio 0</SummaryRef>, <SummaryRef href="CDR0000256704#_39" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">estadio I</SummaryRef> y <SummaryRef href="CDR0000256704#_51" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">estadio II</SummaryRef>) el cáncer de pene es muy curable. La posibilidad de curación disminuye mucho para la enfermedad en <SummaryRef href="CDR0000256704#_58" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">estadio III</SummaryRef> y <SummaryRef href="CDR0000256704#_69" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">estadio IV</SummaryRef>. Debido a la escasa frecuencia de este cáncer en los Estados Unidos, hay pocos ensayos clínicos específicos para el cáncer de pene. Los pacientes de cáncer en estadios III y estadio IV son aptos para participar en ensayos clínicos de fases I y II en los que se evalúen nuevos fármacos, terapia biológica o técnicas quirúrgicas para mejorar el control local y reducir las metástasis a distancia.</Para><Para id="_200">La selección del tratamiento depende de las siguientes características tumorales:<Reference refidx="10"/><Reference refidx="11"/></Para><ItemizedList id="_201" Style="bullet">
+        <ListItem>Tamaño.</ListItem>
+        <ListItem>Ubicación.</ListItem>
+        <ListItem>Capacidad de invasión.</ListItem>
+        <ListItem>Estadio.</ListItem>
+      </ItemizedList><SummarySection id="_243"><Title>Administración de fluorouracilo</Title></SummarySection><SummarySection id="_sm_CDR0000813954_3"><Para id="_sm_CDR0000813954_4">El gen <GeneName>DPYD</GeneName> codifica la enzima que cataboliza las pirimidinas y las fluoropirimidinas, como la capecitabina y el fluorouracilo. Se estima que entre el 1 % y el 2 % de la población tiene variantes defectuosas de  <GeneName>DPYD</GeneName> que reducen la función de la proteína DPD y la acumulación de pirimidinas y fluoropirimidinas en el cuerpo.<Reference refidx="12"/><Reference refidx="13"/> Los pacientes con la variante <GeneName>DPYD*2A</GeneName> que reciben fluoropirimidinas quizás presenten efectos tóxicos graves que ponen en riesgo la salud, y a veces son mortales. Se han identificado muchas otras variantes de <GeneName>DPYD</GeneName>, con diferentes efectos clínicos.<Reference refidx="12"/><Reference refidx="13"/><Reference refidx="14"/> Es posible que se recomiende evitar la fluoropirimidina o reducir la dosis al 50 % según el genotipo <GeneName>DPYD</GeneName> del paciente y el número de alelos funcionales de <GeneName>DPYD</GeneName>.<Reference refidx="15"/><Reference refidx="16"/><Reference refidx="17"/> Las pruebas genéticas para <GeneName>DPYD</GeneName> cuestan menos de $200, pero la cobertura del seguro varía debido a la falta de directrices nacionales.<Reference refidx="18"/> Además, es posible que las pruebas retrasen el tratamiento por 2 semanas, lo que no sería aconsejable en casos de urgencia. Este tema es objeto de controversia y requiere evaluación adicional.<Reference refidx="19"/></Para></SummarySection></SummarySection><ReferenceSection><Citation idx="1">American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. <ExternalRef xref="https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2025/2025-cancer-facts-and-figures-acs.pdf">Available online</ExternalRef>. Last accessed January 16, 2025.</Citation><Citation idx="2" PMID="11423255" MedlineID="21315857">Del Mistro A, Chieco Bianchi L: HPV-related neoplasias in HIV-infected individuals. Eur J Cancer 37 (10): 1227-35, 2001.</Citation><Citation idx="3" PMID="10510097" MedlineID="99440191">Griffiths TR, Mellon JK: Human papillomavirus and urological tumours: I. Basic science and role in penile cancer. BJU Int 84 (5): 579-86, 1999.</Citation><Citation idx="4" PMID="10478673" MedlineID="99405778">Poblet E, Alfaro L, Fernander-Segoviano P, et al.: Human papillomavirus-associated penile squamous cell carcinoma in HIV-positive patients. Am J Surg Pathol 23 (9): 1119-23, 1999.</Citation><Citation idx="5" PMID="9060069" MedlineID="97213304">Frisch M, van den Brule AJ, Jiwa NM, et al.: HPV-16-positive anal and penile carcinomas in a young man--anogenital 'field effect' in the immunosuppressed male? Scand J Infect Dis 28 (6): 629-32, 1996.</Citation><Citation idx="6" PMID="11948269" MedlineID="21945851">Castellsagué X, Bosch FX, Muñoz N, et al.: Male circumcision, penile human papillomavirus infection, and cervical cancer in female partners. N Engl J Med 346 (15): 1105-12, 2002.</Citation><Citation idx="7" PMID="10699138" MedlineID="20165351">Schoen EJ, Oehrli M, Colby C, et al.: The highly protective effect of newborn circumcision against invasive penile cancer. Pediatrics 105 (3): E36, 2000.</Citation><Citation idx="8" PMID="8634956" MedlineID="96258155">Neonatal circumcision revisited. Fetus and Newborn Committee, Canadian Paediatric Society. CMAJ 154 (6): 769-80, 1996.</Citation><Citation idx="9" PMID="10617731" MedlineID="20102811">Christakis DA, Harvey E, Zerr DM, et al.: A trade-off analysis of routine newborn circumcision. Pediatrics 105 (1 Pt 3): 246-9, 2000.</Citation><Citation idx="10">Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 11th ed. Wolters Kluwer Health, 2019, pp 1136-44.</Citation><Citation idx="11">Chao KS, Perez CA: Penis and male urethra. In: Perez CA, Brady LW, eds.: Principles and Practice of Radiation Oncology. 3rd ed. Lippincott-Raven Publishers, 1998, pp 1717-1732.</Citation><Citation idx="12" PMID="34506675">Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021.</Citation><Citation idx="13" PMID="27569869">Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016.</Citation><Citation idx="14" PMID="33410339">Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021.</Citation><Citation idx="15" PMID="29152729">Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018.</Citation><Citation idx="16" PMID="30348537">Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018.</Citation><Citation idx="17" PMID="34996412">Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022.</Citation><Citation idx="18" PMID="35668003">Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022.</Citation><Citation idx="19" PMID="36821823">Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023.</Citation></ReferenceSection></SummarySection><SummarySection id="_4"><SectMetaData><SpecificDiagnosis ref="CDR0000038214">penile cancer</SpecificDiagnosis><SectionType>Cellular classification--legacy</SectionType></SectMetaData><Title>Clasificación celular del cáncer de pene</Title><Para id="_5">Casi todos los carcinomas de pene surgen en las células escamosas e incluyen los siguientes subtipos:</Para><ItemizedList id="_105" Style="bullet">
+      <ListItem>Carcinoma verrugoso.<Reference refidx="1"/></ListItem>
+      <ListItem>Carcinoma condilomatoso (verruciforme).<Reference refidx="2"/></ListItem>
+      <ListItem>Carcinoma basaloide.<Reference refidx="3"/></ListItem>
+    </ItemizedList><Para id="_130">Aunque el carcinoma condilomatoso y el carcinoma basaloide son subtipos menos frecuentes, exhiben una relación más fuerte con el virus del papiloma humano (VPH), en especial con el VPH 16, que el carcinoma de células escamosas típico o el carcinoma verrugoso de pene.<Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/></Para><Para id="_106">También se observan carcinomas neuroendocrinos.<Reference refidx="6"/></Para><ReferenceSection><Citation idx="1" PMID="7822496">Schwartz RA: Verrucous carcinoma of the skin and mucosa. J Am Acad Dermatol 32 (1): 1-21; quiz 22-4, 1995.</Citation><Citation idx="2" PMID="11342782" MedlineID="21240070">Bezerra AL, Lopes A, Landman G, et al.: Clinicopathologic features and human papillomavirus dna prevalence of warty and squamous cell carcinoma of the penis. Am J Surg Pathol 25 (5): 673-8, 2001.</Citation><Citation idx="3" PMID="9630184" MedlineID="98292136">Cubilla AL, Reuter VE, Gregoire L, et al.: Basaloid squamous cell carcinoma: a distinctive human papilloma virus-related penile neoplasm: a report of 20 cases. Am J Surg Pathol 22 (6): 755-61, 1998.</Citation><Citation idx="4" PMID="7473819">Gregoire L, Cubilla AL, Reuter VE, et al.: Preferential association of human papillomavirus with high-grade histologic variants of penile-invasive squamous cell carcinoma. J Natl Cancer Inst 87 (22): 1705-9, 1995.</Citation><Citation idx="5" PMID="11583947">Rubin MA, Kleter B, Zhou M, et al.: Detection and typing of human papillomavirus DNA in penile carcinoma: evidence for multiple independent pathways of penile carcinogenesis. Am J Pathol 159 (4): 1211-8, 2001.</Citation><Citation idx="6" PMID="9072615" MedlineID="97188843">Vadmal MS, Steckel J, Teichberg S, et al.: Primary neuroendocrine carcinoma of the penile urethra. J Urol 157 (3): 956-7, 1997.</Citation></ReferenceSection></SummarySection><SummarySection id="_6"><SectMetaData><SpecificDiagnosis ref="CDR0000038214">penile cancer</SpecificDiagnosis><SectionType>Stage explanation--legacy</SectionType></SectMetaData><Title>Información sobre los estadios del cáncer de pene</Title><SummarySection id="_163"><Title>Agrupamiento por estadios y definiciones TNM del American Joint Committee on Cancer</Title><Para id="_179">El American Joint Committee on Cancer (AJCC) designó los estadios mediante la clasificación TNM (tumor, ganglio linfático y metástasis) para definir el cáncer de pene.<Reference refidx="1"/></Para><Table id="_214">
+        <Title>Definiciones TNM para los estadios 0is y 0a<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="21.97%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="30.10%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="47.91%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; cN = N clínico; PeIN = neoplasia intraepitelial de pene; pN = N patológico.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Penis. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 701–14.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="2">0is</entry>
+              <entry MoreRows="2">Tis, N0, M0</entry>
+              <entry>Tis = carcinoma <Emphasis>in situ</Emphasis> (PeIN).</entry>
+            </Row>
+            <Row>
+              <entry>N0 = <Emphasis>cN0</Emphasis>, ganglios linfáticos inguinales no palpables ni visiblemente agrandados; <Emphasis>pN0</Emphasis>, sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry MoreRows="2">0a</entry>
+              <entry MoreRows="2">Ta, N0, M0</entry>
+              <entry>Ta = carcinoma de células escamosas localizado no invasivo.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = <Emphasis>cN0</Emphasis>, ganglios linfáticos inguinales no palpables ni visiblemente agrandados; <Emphasis>pN0</Emphasis>, sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_215">
+        <Title>Definiciones TNM para el estadio I<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="21.23%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="28.45%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="50.31%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; cN = N clínico; pN = N patológico.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Penis. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 701–14.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="2">I</entry>
+              <entry MoreRows="2">T1a, N0, M0</entry>
+              <entry>T1a = tumor sin invasión linfovascular o perineural y que no es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>N0 = <Emphasis>cN0</Emphasis>, ganglios linfáticos inguinales no palpables ni visiblemente agrandados; <Emphasis>pN0</Emphasis>, sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_216">
+        <Title>Definiciones TNM para los estadios IIA y IIB<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="21.50%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="26.66%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="51.82%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; cN = N clínico; pN = N patológico.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Penis. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 701–14.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="5">IIA</entry>
+              <entry MoreRows="2">T1b, N0, M0</entry>
+              <entry>T1b = tumor con invasión linfovascular o perineural, o que es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>N0 = <Emphasis>cN0</Emphasis>, ganglios linfáticos inguinales no palpables ni visiblemente agrandados; <Emphasis>pN0</Emphasis>, sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry MoreRows="2">T2, N0, M0</entry>
+              <entry>T2 = tumor con invasión del cuerpo esponjoso (glande o porción ventral del cuerpo) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = <Emphasis>cN0</Emphasis>, ganglios linfáticos inguinales no palpables ni visiblemente agrandados; <Emphasis>pN0</Emphasis>, sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry MoreRows="2">IIB</entry>
+              <entry MoreRows="2">T3, N0, M0</entry>
+              <entry>T3 = tumor con invasión de los cuerpos cavernosos (incluso la túnica albugínea) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = <Emphasis>cN0</Emphasis>, ganglios linfáticos inguinales no palpables ni visiblemente agrandados; <Emphasis>pN0</Emphasis>, sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_217">
+        <Title>Definiciones TNM para los estadios IIIA y IIIB<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="22.17%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="26.60%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="51.21%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; cN = N clínico; ENE = diseminación extraganglionar; pN = N patológico.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Penis. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 701–14.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="6">IIIA</entry>
+              <entry MoreRows="6">T1–3, N1, M0</entry>
+              <entry>T1 = <Emphasis>glande:</Emphasis> tumor con invasión de la lámina propia; <Emphasis>prepucio:</Emphasis> tumor con invasión de la dermis, la lámina propia o el dartos; <Emphasis>cuerpo:</Emphasis> tumor con invasión del tejido conjuntivo entre la epidermis y los cuerpos (cavernosos o esponjoso) sin importar la ubicación; <Emphasis>todos los sitios</Emphasis> con o sin invasión linfovascular o perineural, y es un tumor de grado alto o no es de grado alto.</entry>
+            </Row>
+            <Row>
+              <entry>–T1a = tumor sin invasión linfovascular o perineural y que no es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>–T1b = tumor con invasión linfovascular o perineural, o que es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>T2 = tumor con invasión del cuerpo esponjoso (glande o porción ventral del cuerpo) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>T3 = tumor con invasión de los cuerpos cavernosos (incluso la túnica albugínea) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>N1 = <Emphasis>cN1</Emphasis>, ganglio linfático inguinal unilateral palpable y móvil; <Emphasis>pN1</Emphasis>, ≤2 metástasis inguinales unilaterales, sin ENE.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry MoreRows="6">IIIB</entry>
+              <entry MoreRows="6">T1–3, N2, M0</entry>
+              <entry>T1 = <Emphasis>glande:</Emphasis> tumor con invasión de la lámina propia; <Emphasis>prepucio:</Emphasis> tumor con invasión de la dermis, la lámina propia o el dartos; <Emphasis>cuerpo:</Emphasis> tumor con invasión del tejido conjuntivo entre la epidermis y los cuerpos (cavernosos o esponjoso) sin importar la ubicación; <Emphasis>todos los sitios</Emphasis> con o sin invasión linfovascular o perineural, y es un tumor de grado alto o no es de grado alto.</entry>
+            </Row>
+            <Row>
+              <entry>–T1a = tumor sin invasión linfovascular o perineural y que no es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>–T1b = tumor con invasión linfovascular o perineural, o que es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>T2 = tumor con invasión del cuerpo esponjoso (glande o porción ventral del cuerpo) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>T3 = tumor con invasión de los cuerpos cavernosos (incluso la túnica albugínea) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>N2 = <Emphasis>cN2</Emphasis>, ≥2 ganglios linfáticos inguinales unilaterales palpables y móviles o ganglios linfáticos inguinales bilaterales; <Emphasis>pN2</Emphasis>, ≥3 metástasis inguinales unilaterales o metástasis bilaterales, sin ENE.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_218">
+        <Title>Definiciones TNM para el estadio IV<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="22.57%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="26.63%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="50.79%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; cN = N clínico; ENE = diseminación extraganglionar; PeIN = neoplasia intraepitelial de pene; pN = N patológico.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Penis. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 701–14.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="35">IV</entry>
+              <entry MoreRows="11">T4, cualquier N, M0</entry>
+              <entry>T4 = tumor con invasión de las estructuras adyacentes (es decir, escroto, próstata o pubis).</entry>
+            </Row>
+            <Row>
+              <entry>cNX = ganglios linfáticos regionales no evaluables.</entry>
+            </Row>
+            <Row>
+              <entry>cN0 = ganglios linfáticos inguinales no palpables ni visiblemente agrandados.</entry>
+            </Row>
+            <Row>
+              <entry>cN1 = ganglio linfático inguinal unilateral palpable y móvil.</entry>
+            </Row>
+            <Row>
+              <entry>cN2 = ≥2 ganglios linfáticos inguinales unilaterales palpables y móviles o ganglios linfáticos inguinales bilaterales.</entry>
+            </Row>
+            <Row>
+              <entry>cN3 = masa ganglionar inguinal palpable y fija, o linfadenopatía pélvica unilateral o bilateral.</entry>
+            </Row>
+            <Row>
+              <entry>pNX = metástasis en ganglio linfático no identificable.</entry>
+            </Row>
+            <Row>
+              <entry>pN0 = sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>pN1 = ≤2 metástasis inguinales unilaterales, sin ENE.</entry>
+            </Row>
+            <Row>
+              <entry>pN2 = ≥3 metástasis inguinales unilaterales o metástasis bilaterales, sin ENE.</entry>
+            </Row>
+            <Row>
+              <entry>pN3 = ENE de las metástasis en ganglios linfáticos o metástasis en ganglios linfáticos pélvicos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry MoreRows="11">Cualquier T, N3, M0</entry>
+              <entry>TX = tumor primario no evaluable.</entry>
+            </Row>
+            <Row>
+              <entry>T0 = sin indicios de tumor primario.</entry>
+            </Row>
+            <Row>
+              <entry>Tis = carcinoma <Emphasis>in situ</Emphasis> (PeIN).</entry>
+            </Row>
+            <Row>
+              <entry>Ta = carcinoma de células escamosas localizado no invasivo.</entry>
+            </Row>
+            <Row>
+              <entry>T1 = <Emphasis>glande:</Emphasis> tumor con invasión de la lámina propia; <Emphasis>prepucio:</Emphasis> tumor con invasión de la dermis, la lámina propia o el dartos; <Emphasis>cuerpo:</Emphasis> tumor con invasión del tejido conjuntivo entre la epidermis y los cuerpos (cavernosos o esponjoso) sin importar la ubicación; <Emphasis>todos los sitios</Emphasis> con o sin invasión linfovascular o perineural, y es un tumor de grado alto o no es de grado alto.</entry>
+            </Row>
+            <Row>
+              <entry>–T1a = tumor sin invasión linfovascular o perineural,  y que no es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>–T1b = tumor con invasión linfovascular o perineural, o que es de grado alto (es decir, grado 3 o sarcomatoide).</entry>
+            </Row>
+            <Row>
+              <entry>T2 = tumor con invasión del cuerpo esponjoso (glande o porción ventral del cuerpo) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>T3 = tumor con invasión de los cuerpos cavernosos (incluso la túnica albugínea) con invasión de la uretra o sin esta.</entry>
+            </Row>
+            <Row>
+              <entry>T4 = tumor con invasión de las estructuras adyacentes (es decir, escroto, próstata o pubis).</entry>
+            </Row>
+            <Row>
+              <entry>N3 = <Emphasis>cN3</Emphasis>, masa ganglionar inguinal palpable y fija, o linfadenopatía pélvica unilateral o bilateral; <Emphasis>pN3</Emphasis>, ENE de las metástasis en ganglios linfáticos o metástasis en ganglios linfáticos pélvicos.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry MoreRows="11">Cualquier T, cualquier N, M1</entry>
+              <entry>Cualquier T = consultar las descripciones previas en este cuadro para estadio IV, cualquier T, N3, M0.</entry>
+            </Row>
+            
+            <Row>
+              <entry>cNX = ganglios linfáticos regionales no evaluables.</entry>
+            </Row>
+            <Row>
+              <entry>cN0 = ganglios linfáticos inguinales no palpables ni visiblemente agrandados.</entry>
+            </Row>
+            <Row>
+              <entry>cN1 = ganglio linfático inguinal unilateral palpable y móvil.</entry>
+            </Row>
+            <Row>
+              <entry>cN2 = ≥2 ganglios linfáticos inguinales unilaterales palpables y móviles, o ganglios linfáticos inguinales bilaterales.</entry>
+            </Row>
+            <Row>
+              <entry>cN3 = masa ganglionar inguinal palpable y fija, o linfadenopatía pélvica unilateral o bilateral.</entry>
+            </Row>
+            <Row>
+              <entry>pNX = metástasis en ganglio linfático no identificable.</entry>
+            </Row>
+            <Row>
+              <entry>pN0 = sin metástasis en ganglios linfáticos.</entry>
+            </Row>
+            <Row>
+              <entry>pN1 = ≤2 metástasis inguinales unilaterales, sin ENE.</entry>
+            </Row>
+            <Row>
+              <entry>pN2 = ≥3 metástasis inguinales unilaterales o metástasis bilaterales, sin ENE.</entry>
+            </Row>
+            <Row>
+              <entry>pN3 = ENE de las metástasis en ganglios linfáticos o metástasis en ganglios linfáticos pélvicos.</entry>
+            </Row>
+            <Row>
+              <entry>M1 = metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table></SummarySection><ReferenceSection><Citation idx="1">Penis. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 701–14.</Citation></ReferenceSection></SummarySection><SummarySection id="_122"><SectMetaData><SpecificDiagnosis ref="CDR0000566317">stage 0 penile cancer</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del cáncer de pene en estadio 0</Title><Para id="_184">
+      <Strong>El cáncer de pene en estadio 0 se define mediante las siguientes clasificaciones TNM:<Reference refidx="1"/></Strong></Para><ItemizedList id="_124" Style="bullet">
+      <ListItem>Tis, N0, M0</ListItem>
+      <ListItem>Ta, N0, M0</ListItem>
+    </ItemizedList><Para id="_125">El carcinoma de pene <Emphasis>in situ</Emphasis> también se conoce como eritroplasia de Queyrat cuando se presenta en el glande, y como enfermedad de Bowen cuando se presenta en el cuerpo del pene. Estas lesiones precursoras progresan a carcinoma de células escamosas invasivo en un 5 % a un 15 % de los casos. En estudios de series de casos, se detectó ADN del virus del papiloma humano en la mayoría de estas lesiones.<Reference refidx="2"/><Reference refidx="3"/> No hay datos de ensayos clínicos para este estadio de la enfermedad y las recomendaciones de tratamiento se basan sobre todo en informes de casos y series de casos de pocos pacientes.</Para><Para id="_126">
+      <Strong>Opciones de tratamiento:</Strong></Para><OrderedList id="_127" Style="Arabic">
+      <ListItem>La escisión quirúrgica puede causar cicatrización, deformidad y deterioro funcional. Para disminuir estos efectos en los pacientes de cánceres de pene <Emphasis>in situ</Emphasis> e invasivos se emplea la cirugía micrográfica de Mohs, que implica la escisión sucesiva de capas horizontales de tejido y el estudio microscópico de cada capa en sección congelada.<Reference refidx="4"/><Reference refidx="5"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</ListItem>
+      <ListItem>La aplicación tópica de fluorouracilo en crema ha sido eficaz en los casos de eritroplasia de Queyrat <Reference refidx="6"/> y enfermedad de Bowen.<Reference refidx="7"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</ListItem>
+      <ListItem>La crema de imiquimod al 5 %, un modificador de la respuesta inmunitaria de uso tópico, ha resultado eficaz y ha presentado buenos resultados cosméticos y funcionales.<Reference refidx="8"/><Reference refidx="9"/><Reference refidx="10"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</ListItem>
+      <ListItem>El uso de terapia láser con el láser de Nd:YAG o el láser de CO<Subscript>2</Subscript> también ha producido excelentes resultados cosméticos.<Reference refidx="11"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</ListItem>
+      <ListItem>Con la criocirugía se han logrado buenos resultados cosméticos en pacientes con eritroplasia de Queyrat y carcinoma verrugoso del pene.<Reference refidx="12"/><Reference refidx="13"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</ListItem>
+    </OrderedList><SummarySection id="_TrialSearch_122_sid_4"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_122_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1">Penis. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 701–14.</Citation><Citation idx="2" PMID="7637047">Cupp MR, Malek RS, Goellner JR, et al.: The detection of human papillomavirus deoxyribonucleic acid in intraepithelial, in situ, verrucous and invasive carcinoma of the penis. J Urol 154 (3): 1024-9, 1995.</Citation><Citation idx="3" PMID="11583947">Rubin MA, Kleter B, Zhou M, et al.: Detection and typing of human papillomavirus DNA in penile carcinoma: evidence for multiple independent pathways of penile carcinogenesis. Am J Pathol 159 (4): 1211-8, 2001.</Citation><Citation idx="4" PMID="3999220" MedlineID="85211096">Mohs FE, Snow SN, Messing EM, et al.: Microscopically controlled surgery in the treatment of carcinoma of the penis. J Urol 133 (6): 961-6, 1985.</Citation><Citation idx="5" PMID="2040751">Moritz DL, Lynch WS: Extensive Bowen's disease of the penile shaft treated with fresh tissue Mohs micrographic surgery in two separate operations. J Dermatol Surg Oncol 17 (4): 374-8, 1991.</Citation><Citation idx="6" PMID="991073">Goette DK, Carson TE: Erythroplasia of Queyrat: treatment with topical 5-fluorouracil. Cancer 38 (4): 1498-502, 1976.</Citation><Citation idx="7" PMID="936382">Tolia BM, Castro VL, Mouded IM, et al.: Bowen's disease of shaft of penis. Successful treatment with 5-fluorouracil. Urology 7 (6): 617-9, 1976.</Citation><Citation idx="8" PMID="14616803">Danielsen AG, Sand C, Weismann K: Treatment of Bowen's disease of the penis with imiquimod 5% cream. Clin Exp Dermatol 28 (Suppl 1): 7-9, 2003.</Citation><Citation idx="9" PMID="14616802">Micali G, Nasca MR, Tedeschi A: Topical treatment of intraepithelial penile carcinoma with imiquimod. Clin Exp Dermatol 28 (Suppl 1): 4-6, 2003.</Citation><Citation idx="10" PMID="11907505">Schroeder TL, Sengelmann RD: Squamous cell carcinoma in situ of the penis successfully treated with imiquimod 5% cream. J Am Acad Dermatol 46 (4): 545-8, 2002.</Citation><Citation idx="11" PMID="11586199">van Bezooijen BP, Horenblas S, Meinhardt W, et al.: Laser therapy for carcinoma in situ of the penis. J Urol 166 (5): 1670-1, 2001.</Citation><Citation idx="12" PMID="12187233">Michelman FA, Filho AC, Moraes AM: Verrucous carcinoma of the penis treated with cryosurgery. J Urol 168 (3): 1096-7, 2002.</Citation><Citation idx="13" PMID="7073983">Sonnex TS, Ralfs IG, Plaza de Lanza M, et al.: Treatment of erythroplasia of Queyrat with liquid nitrogen cryosurgery. Br J Dermatol 106 (5): 581-4, 1982.</Citation></ReferenceSection></SummarySection><SummarySection id="_39"><SectMetaData><SpecificDiagnosis ref="CDR0000038222">stage I penile cancer</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del cáncer de pene en estadio I</Title><Para id="_185">
+      <Strong>El cáncer de pene en estadio I se define mediante la siguiente clasificación TNM:<Reference refidx="1"/></Strong></Para><ItemizedList id="_87" Style="bullet">
+      <ListItem>T1a, N0, M0</ListItem>
+    </ItemizedList><Para id="_41">El cáncer de pene en estadio I es curable.<Reference refidx="2"/>
+</Para><Para id="_42">
+      <Strong>Opciones de tratamiento:</Strong></Para><OrderedList id="_79" Style="Arabic">
+      <ListItem>La escisión local amplia con circuncisión a veces es una terapia adecuada para el control de lesiones limitadas al prepucio.</ListItem>
+      <ListItem>Cuando hay tumores infiltrantes en el glande, con compromiso de la piel adyacente o sin esta, la elección del tratamiento se determina según el tamaño del tumor, el alcance de la infiltración y el grado de destrucción que produce el tumor en el tejido normal. Las opciones terapéuticas equivalentes son las siguientes:<ItemizedList id="_47" Style="bullet"><ListItem>Amputación del pene.<Reference refidx="3"/>
+</ListItem><ListItem>Radioterapia (es decir, radioterapia de haz externo y braquiterapia).<Reference refidx="4"/><Reference refidx="5"/>
+</ListItem><ListItem>Cirugía microscópica controlada.<Reference refidx="6"/></ListItem></ItemizedList></ListItem>
+    <ListItem>La terapia con el láser de Nd:YAG ofrece control y curación excelentes, y se conservan la apariencia cosmética y el funcionamiento sexual (está en evaluación clínica).<Reference refidx="7"/><Reference refidx="8"/></ListItem></OrderedList><Para id="_50">Debido a la alta incidencia de metástasis ganglionares microscópicas en los pacientes con tumores pobremente diferenciados, para el tratamiento complementario a menudo se usa una disección inguinal optativa de los ganglios linfáticos sin compromiso clínico (negativos) combinada con una amputación. La linfadenectomía puede acarrear morbilidad importante; por ejemplo, infecciones, necrosis de la piel, ruptura de heridas, edema crónico e incluso una tasa de mortalidad baja pero delimitada. Se desconoce el efecto de la linfadenectomía profiláctica en la supervivencia. Por estas razones, las opiniones sobre su utilización son variadas.<Reference refidx="9"/><Reference refidx="10"/><Reference refidx="11"/><Reference refidx="12"/>
+</Para><SummarySection id="_TrialSearch_39_sid_5"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_39_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1">Penis. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 701–14.</Citation><Citation idx="2">Harty JI, Catalona WJ: Carcinoma of the penis. In: Javadpour N, ed.: Principles and Management of Urologic Cancer. 2nd ed. Williams and Wilkins, 1983, pp 581-597.</Citation><Citation idx="3">Lynch DF, Pettaway CA: Tumors of the penis. In: Walsh PC, Retik AB, Vaughan ED, et al., eds.: Campbell's Urology. 8th ed. Saunders, 2002, pp 2945-2947.</Citation><Citation idx="4">Chao KS, Perez CA: Penis and male urethra. In: Perez CA, Brady LW, eds.: Principles and Practice of Radiation Oncology. 3rd ed. Lippincott-Raven Publishers, 1998, pp 1717-1732.</Citation><Citation idx="5" PMID="8454480" MedlineID="93202967">McLean M, Akl AM, Warde P, et al.: The results of primary radiation therapy in the management of squamous cell carcinoma of the penis. Int J Radiat Oncol Biol Phys 25 (4): 623-8, 1993.</Citation><Citation idx="6" PMID="3999220" MedlineID="85211096">Mohs FE, Snow SN, Messing EM, et al.: Microscopically controlled surgery in the treatment of carcinoma of the penis. J Urol 133 (6): 961-6, 1985.</Citation><Citation idx="7">Smith JA Jr.: Lasers in clinical urologic surgery. In: Dixon JA, ed.: Surgical Application of Lasers. 2nd ed. Year Book Medical Publishers, Inc., 1987, pp 218-237.</Citation><Citation idx="8" PMID="1593683" MedlineID="92277742">Horenblas S, van Tinteren H, Delemarre JF, et al.: Squamous cell carcinoma of the penis. II. Treatment of the primary tumor. J Urol 147 (6): 1533-8, 1992.</Citation><Citation idx="9" PMID="8627839" MedlineID="96186040">Theodorescu D, Russo P, Zhang ZF, et al.: Outcomes of initial surveillance of invasive squamous cell carcinoma of the penis and negative nodes. J Urol 155 (5): 1626-31, 1996.</Citation><Citation idx="10" PMID="8705227" MedlineID="96334886">Lindegaard JC, Nielsen OS, Lundbeck FA, et al.: A retrospective analysis of 82 cases of cancer of the penis. Br J Urol 77 (6): 883-90, 1996.</Citation><Citation idx="11" PMID="7512656" MedlineID="94210622">Ornellas AA, Seixas AL, Marota A, et al.: Surgical treatment of invasive squamous cell carcinoma of the penis: retrospective analysis of 350 cases. J Urol 151 (5): 1244-9, 1994.</Citation><Citation idx="12" PMID="1746081" MedlineID="92081133">Young MJ, Reda DJ, Waters WB: Penile carcinoma: a twenty-five-year experience. Urology 38 (6): 529-32, 1991.</Citation></ReferenceSection></SummarySection><SummarySection id="_51"><SectMetaData><SpecificDiagnosis ref="CDR0000038233">stage II penile cancer</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del cáncer de pene en estadio II</Title><Para id="_186">
+      <Strong>El cáncer de pene en estadio II se define mediante las siguientes clasificaciones TNM:<Reference refidx="1"/></Strong></Para><ItemizedList id="_88" Style="bullet">
+      <ListItem>T1b, N0, M0</ListItem>
+      <ListItem>T2, N0, M0</ListItem>
+      <ListItem>T3, N0, M0</ListItem>
+    </ItemizedList><Para id="_53">
+      <Strong>Opciones de tratamiento:</Strong></Para><OrderedList id="_241" Style="Arabic"><ListItem>El cáncer de pene en estadio II se trata con mayor frecuencia mediante la amputación del pene con el fin de obtener control local. Según el grado y la ubicación de la neoplasia se determina si la amputación es parcial, total o radical. Los abordajes alternativos son la radioterapia de haz externo y la braquiterapia con rescate quirúrgico.<Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/><Reference refidx="6"/></ListItem><ListItem>La terapia con el láser de Nd:YAG se usa para preservar el pene de pacientes seleccionados con lesiones pequeñas (está en evaluación clínica).<Reference refidx="7"/></ListItem></OrderedList><Para id="_57">Debido a la alta incidencia de metástasis ganglionares microscópicas en los pacientes con tumores pobremente diferenciados, para el tratamiento complementario a menudo se usa una disección optativa de los ganglios linfáticos sin compromiso clínico (negativos) combinada con una amputación. La linfadenectomía puede acarrear morbilidad importante; por ejemplo, infecciones, necrosis de la piel, ruptura de heridas, edema crónico e incluso una tasa de mortalidad baja pero delimitada. Se desconoce el efecto de la linfadenectomía profiláctica en la supervivencia.<Reference refidx="8"/><Reference refidx="9"/><Reference refidx="10"/><Reference refidx="11"/>
+</Para><Para id="_142">Para reducir la morbilidad relacionada con la linfadenectomía profiláctica, se usa una biopsia dinámica de ganglio centinela para los pacientes con cáncer de pene en estadio T2 sin compromiso ganglionar desde el punto de vista clínico. En un estudio retrospectivo con 22 pacientes de una sola institución, se notificó una tasa de resultados negativos falsos del 11 %.<Reference refidx="12"/></Para><SummarySection id="_TrialSearch_51_sid_6"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_51_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1">Penis. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 701–14.</Citation><Citation idx="2">Harty JI, Catalona WJ: Carcinoma of the penis. In: Javadpour N, ed.: Principles and Management of Urologic Cancer. 2nd ed. Williams and Wilkins, 1983, pp 581-597.</Citation><Citation idx="3">Schellhammer PF, Spaulding JT: Carcinoma of the penis. In: Paulson DF, ed.: Genitourinary Surgery. Vol. 2. Churchill Livingston, 1984, pp 629-654.</Citation><Citation idx="4">Johnson DE, Lo RK: Tumors of the penis, urethra, and scrotum. In: deKernion JB, Paulson DF, eds.: Genitourinary Cancer Management. Lea and Febiger, 1987, pp 219-258.</Citation><Citation idx="5" PMID="8454480" MedlineID="93202967">McLean M, Akl AM, Warde P, et al.: The results of primary radiation therapy in the management of squamous cell carcinoma of the penis. Int J Radiat Oncol Biol Phys 25 (4): 623-8, 1993.</Citation><Citation idx="6" PMID="15890588">Crook JM, Jezioranski J, Grimard L, et al.: Penile brachytherapy: results for 49 patients. Int J Radiat Oncol Biol Phys 62 (2): 460-7, 2005.</Citation><Citation idx="7" PMID="1593683" MedlineID="92277742">Horenblas S, van Tinteren H, Delemarre JF, et al.: Squamous cell carcinoma of the penis. II. Treatment of the primary tumor. J Urol 147 (6): 1533-8, 1992.</Citation><Citation idx="8" PMID="8627839" MedlineID="96186040">Theodorescu D, Russo P, Zhang ZF, et al.: Outcomes of initial surveillance of invasive squamous cell carcinoma of the penis and negative nodes. J Urol 155 (5): 1626-31, 1996.</Citation><Citation idx="9" PMID="8705227" MedlineID="96334886">Lindegaard JC, Nielsen OS, Lundbeck FA, et al.: A retrospective analysis of 82 cases of cancer of the penis. Br J Urol 77 (6): 883-90, 1996.</Citation><Citation idx="10" PMID="7512656" MedlineID="94210622">Ornellas AA, Seixas AL, Marota A, et al.: Surgical treatment of invasive squamous cell carcinoma of the penis: retrospective analysis of 350 cases. J Urol 151 (5): 1244-9, 1994.</Citation><Citation idx="11" PMID="1746081" MedlineID="92081133">Young MJ, Reda DJ, Waters WB: Penile carcinoma: a twenty-five-year experience. Urology 38 (6): 529-32, 1991.</Citation><Citation idx="12" PMID="16360457">Perdonà S, Autorino R, De Sio M, et al.: Dynamic sentinel node biopsy in clinically node-negative penile cancer versus radical inguinal lymphadenectomy: a comparative study. Urology 66 (6): 1282-6, 2005.</Citation></ReferenceSection></SummarySection><SummarySection id="_58"><SectMetaData><SpecificDiagnosis ref="CDR0000038243">stage III penile cancer</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del cáncer de pene en estadio III</Title><Para id="_187">
+      <Strong>El cáncer de pene en estadio III se define mediante las siguientes clasificaciones TNM:<Reference refidx="1"/></Strong></Para><ItemizedList id="_89" Style="bullet">
+      <ListItem>T1–3, N1, M0</ListItem>
+      <ListItem>T1–3, N2, M0</ListItem>
+    </ItemizedList><Para id="_60">Es común que los pacientes con cáncer de pene tengan adenopatías inguinales, pero a veces son consecuencia de infecciones y no de la neoplasia. Si hay ganglios linfáticos agrandados palpables después de 3 o más semanas de la extirpación de la lesión primaria infectada y de completar un ciclo terapéutico con antibióticos, se debe hacer una disección bilateral de ganglios linfáticos inguinales.</Para><Para id="_61">Cuando se comprueba que hay metástasis en un ganglio linfático inguinal regional sin indicios de diseminación a distancia, el tratamiento de elección es la disección ilioinguinal bilateral.<Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/> Debido a que muchos pacientes con compromiso de ganglios linfáticos no se curan, tal vez se indique la participación en ensayos clínicos.</Para><Para id="_62">
+      <Strong>Opciones de tratamiento:</Strong></Para><OrderedList id="_83" Style="Arabic">
+      <ListItem>Una metástasis clínicamente evidente en los ganglios linfáticos regionales sin indicios de diseminación a distancia es una indicación para la disección bilateral de los ganglios linfáticos ilioinguinales después de la amputación del pene.<Reference refidx="6"/></ListItem>
+      <ListItem>La radioterapia se puede considerar como una alternativa a la disección de los ganglios linfáticos en pacientes que no son aptos para cirugía.</ListItem>
+      <ListItem>La radioterapia posoperatoria quizás reduzca la incidencia de recidivas inguinales.</ListItem>
+    <ListItem>Los ensayos clínicos en los que se usan radiosensibilizadores o fármacos citotóxicos son apropiados. Una combinación de vincristina, bleomicina y metotrexato resultó eficaz en el tratamiento neoadyuvante y adyuvante.<Reference refidx="7"/> El cisplatino (100 mg/m<Superscript>2</Superscript>) como tratamiento neoadyuvante con infusión continúa de fluorouracilo también resultó eficaz.<Reference refidx="6"/> El cisplatino (50 mg/m<Superscript>2</Superscript>) en monoterapia se probo en un ensayo grande y no fue eficaz.<Reference refidx="8"/></ListItem></OrderedList><Para id="_68">Debido a la alta incidencia de metástasis ganglionares microscópicas en los pacientes con tumores pobremente diferenciados, para el tratamiento complementario a menudo se usa una disección inguinal de los ganglios linfáticos sin compromiso clínico (negativos) combinada con una amputación. La linfadenectomía puede acarrear morbilidad importante; por ejemplo, infecciones, necrosis de la piel, ruptura de heridas, edema crónico e incluso una tasa de mortalidad baja pero delimitada. Se desconoce el efecto de la linfadenectomía profiláctica en la supervivencia. <Reference refidx="3"/><Reference refidx="4"/><Reference refidx="9"/><Reference refidx="10"/>
+</Para><Para id="_146">Para reducir la morbilidad relacionada con la linfadenectomía profiláctica, se usa una biopsia dinámica de ganglio centinela para los pacientes con cáncer de pene en estadio T2 y estadio T3 sin compromiso ganglionar desde el punto de vista clínico. En un estudio retrospectivo con 22 pacientes de una sola institución, se notificó una tasa de resultados negativos falsos del 11 %.<Reference refidx="11"/></Para><SummarySection id="_TrialSearch_58_sid_7"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_58_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1">Penis. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 701–14.</Citation><Citation idx="2">Harty JI, Catalona WJ: Carcinoma of the penis. In: Javadpour N, ed.: Principles and Management of Urologic Cancer. 2nd ed. Williams and Wilkins, 1983, pp 581-597.</Citation><Citation idx="3" PMID="8627839" MedlineID="96186040">Theodorescu D, Russo P, Zhang ZF, et al.: Outcomes of initial surveillance of invasive squamous cell carcinoma of the penis and negative nodes. J Urol 155 (5): 1626-31, 1996.</Citation><Citation idx="4" PMID="8705227" MedlineID="96334886">Lindegaard JC, Nielsen OS, Lundbeck FA, et al.: A retrospective analysis of 82 cases of cancer of the penis. Br J Urol 77 (6): 883-90, 1996.</Citation><Citation idx="5">Lynch DF, Pettaway CA: Tumors of the penis. In: Walsh PC, Retik AB, Vaughan ED, et al., eds.: Campbell's Urology. 8th ed. Saunders, 2002, pp 2945-2947.</Citation><Citation idx="6">Fisher HA, Barada JH, Horton J, et al.: Neoadjuvant therapy with cisplatin and 5-fluorouracil for stage III squamous cell carcinoma of the penis. [Abstract] J Urol  143(4 Suppl): A-653, 352A, 1990.</Citation><Citation idx="7" PMID="2466471" MedlineID="89166200">Pizzocaro G, Piva L: Adjuvant and neoadjuvant vincristine, bleomycin, and methotrexate for inguinal metastases from squamous cell carcinoma of the penis. Acta Oncol 27 (6b): 823-4, 1988.</Citation><Citation idx="8" PMID="2642312" MedlineID="89068929">Gagliano RG, Blumenstein BA, Crawford ED, et al.: cis-Diamminedichloroplatinum in the treatment of advanced epidermoid carcinoma of the penis: a Southwest Oncology Group Study. J Urol 141 (1): 66-7, 1989.</Citation><Citation idx="9" PMID="7512656" MedlineID="94210622">Ornellas AA, Seixas AL, Marota A, et al.: Surgical treatment of invasive squamous cell carcinoma of the penis: retrospective analysis of 350 cases. J Urol 151 (5): 1244-9, 1994.</Citation><Citation idx="10" PMID="1746081" MedlineID="92081133">Young MJ, Reda DJ, Waters WB: Penile carcinoma: a twenty-five-year experience. Urology 38 (6): 529-32, 1991.</Citation><Citation idx="11" PMID="16360457">Perdonà S, Autorino R, De Sio M, et al.: Dynamic sentinel node biopsy in clinically node-negative penile cancer versus radical inguinal lymphadenectomy: a comparative study. Urology 66 (6): 1282-6, 2005.</Citation></ReferenceSection></SummarySection><SummarySection id="_69"><SectMetaData><SpecificDiagnosis ref="CDR0000038252">stage IV penile cancer</SpecificDiagnosis><SectionType>Treatment by stage--legacy</SectionType></SectMetaData><Title>Tratamiento del cáncer de pene en estadio IV</Title><Para id="_188">
+      <Strong>El cáncer de pene en estadio IV se define mediante las siguientes clasificaciones TNM:<Reference refidx="1"/></Strong></Para><ItemizedList id="_90" Style="bullet">
+      <ListItem>T4, cualquier N, M0</ListItem>
+      <ListItem>Cualquier T, N3, M0</ListItem>
+      <ListItem>Cualquier T, cualquier N, M1</ListItem>
+    </ItemizedList><Para id="_71">No hay un tratamiento curativo estándar para los pacientes con cáncer de pene en estadio IV. La terapia tiene como meta la paliación, que se logra con cirugía o radioterapia.</Para><Para id="_72">
+      <Strong>Opciones de tratamiento:</Strong></Para><OrderedList id="_85" Style="Arabic">
+      <ListItem>Es posible considerar la cirugía paliativa para controlar la lesión local del pene, incluso para prevenir la necrosis, las infecciones y las hemorragias que a veces obedecen a una adenopatía regional que se pasó por alto.</ListItem>
+      <ListItem>La radioterapia quizás sea paliativa para el tumor primario, la adenopatía regional y las metástasis óseas.</ListItem>
+    <ListItem>Los ensayos clínicos en los que se combinan quimioterapia y métodos paliativos de control local se consideran apropiados. Entre los fármacos quimioterapéuticos evaluados que tienen alguna eficacia, se incluyen la vincristina, el cisplatino, el metotrexato y la bleomicina. La combinación de vincristina, bleomicina y metotrexato resultó eficaz durante la terapia adyuvante y neoadyuvante.<Reference refidx="2"/></ListItem></OrderedList><SummarySection id="_TrialSearch_69_sid_8"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_69_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1">Penis. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 701–14.</Citation><Citation idx="2" PMID="2466471" MedlineID="89166200">Pizzocaro G, Piva L: Adjuvant and neoadjuvant vincristine, bleomycin, and methotrexate for inguinal metastases from squamous cell carcinoma of the penis. Acta Oncol 27 (6b): 823-4, 1988.</Citation></ReferenceSection></SummarySection><SummarySection id="_77"><SectMetaData><SpecificDiagnosis ref="CDR0000038263">recurrent penile cancer</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Tratamiento del cáncer de pene recidivante</Title><Para id="_78">Los pacientes con  enfermedad local recidivante se pueden tratar con cirugía o radioterapia. Si el tratamiento inicial con radioterapia fracasa, a menudo los pacientes se someten a una amputación del pene. Los pacientes con recidivas ganglionares que no se logran controlar con los abordajes locales son aptos para participar en ensayos clínicos de fase I y fase II en los que se evalúen nuevos fármacos biológicos y quimioterapéuticos.<Reference refidx="1"/><Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/></Para><SummarySection id="_TrialSearch_77_sid_9"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_77_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="2466471" MedlineID="89166200">Pizzocaro G, Piva L: Adjuvant and neoadjuvant vincristine, bleomycin, and methotrexate for inguinal metastases from squamous cell carcinoma of the penis. Acta Oncol 27 (6b): 823-4, 1988.</Citation><Citation idx="2" PMID="6206239" MedlineID="84292484">Ahmed T, Sklaroff R, Yagoda A: Sequential trials of methotrexate, cisplatin and bleomycin for penile cancer. J Urol 132 (3): 465-8, 1984.</Citation><Citation idx="3" PMID="1719241" MedlineID="92046406">Dexeus FH, Logothetis CJ, Sella A, et al.: Combination chemotherapy with methotrexate, bleomycin and cisplatin for advanced squamous cell carcinoma of the male genital tract. J Urol 146 (5): 1284-7, 1991.</Citation><Citation idx="4">Fisher HA, Barada JH, Horton J, et al.: Neoadjuvant therapy with cisplatin and 5-fluorouracil for stage III squamous cell carcinoma of the penis. [Abstract] J Urol  143(4 Suppl): A-653, 352A, 1990.</Citation><Citation idx="5" PMID="2297633" MedlineID="90124109">Hussein AM, Benedetto P, Sridhar KS: Chemotherapy with cisplatin and 5-fluorouracil for penile and urethral squamous cell carcinomas. Cancer 65 (3): 433-8, 1990.</Citation></ReferenceSection></SummarySection><SummarySection id="_219"><SectMetaData><SectionType>Changes to summary</SectionType></SectMetaData><Title>Actualizaciones más recientes a este resumen (04/04/2025)</Title><Para id="_220">Los resúmenes del PDQ con información sobre el cáncer se revisan con regularidad y se actualizan a medida que se obtiene nueva información. Esta sección describe los cambios más recientes introducidos en este resumen a partir de la fecha arriba indicada.</Para><Para id="_244"><Strong><SummaryRef href="CDR0000256704#_1" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">Información general sobre el cáncer de pene</SummaryRef></Strong></Para><Para id="_245">Se actualizaron las <SummaryRef href="CDR0000256704#_131" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">estadísticas</SummaryRef> con el número estimado de casos nuevos y defunciones para 2025 (se citó a la American Cancer Society como referencia 1).</Para><Para id="_disclaimerHP_3">El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">Consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> es responsable de la redacción y actualización de este resumen y mantiene independencia editorial respecto del NCI. El resumen refleja una revisión independiente de la bibliografía médica y no representa las políticas del NCI ni de los NIH. Para obtener más  información sobre las políticas relativas a los resúmenes y la función de los  consejos editoriales  del PDQ responsables de su actualización, consultar <SummaryRef href="CDR0000256704#_AboutThis_1" url="/espanol/tipos/pene/pro/tratamiento-pene-pdq">Información sobre este resumen del PDQ</SummaryRef> e   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq">Información del PDQ® sobre el cáncer dirigida a profesionales de la salud</ExternalRef>.</Para></SummarySection><SummarySection id="_AboutThis_1"><Title>Información sobre este resumen del PDQ</Title><SummarySection id="_AboutThis_2"><Title>Propósito de este resumen</Title><Para id="_AboutThis_3">Este resumen de información del PDQ sobre el cáncer dirigido a profesionales de la salud proporciona información integral revisada por expertos y basada en la evidencia  sobre el tratamiento del cáncer de pene. El objetivo es servir como fuente de información y ayuda para los profesionales clínicos  durante la atención de pacientes. No  ofrece pautas ni recomendaciones formales para tomar decisiones relacionadas con la atención sanitaria.</Para></SummarySection><SummarySection id="_AboutThis_21"><Title>Revisores y actualizaciones</Title><Para id="_AboutThis_22">El   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef>, que mantiene independencia editorial respecto del  Instituto Nacional del Cáncer (NCI), revisa este resumen de manera periódica y, en caso necesario,   lo actualiza. Este resumen es el resultado de una revisión bibliográfica independiente y no constituye una declaración de política del NCI ni de los Institutos Nacionales de la Salud (NIH).</Para><Para id="_AboutThis_26">Cada mes, los integrantes de este consejo revisan los artículos  publicados recientemente para determinar lo siguiente:</Para><ItemizedList id="_AboutThis_23" Style="bullet"><ListItem>Si el artículo se debe analizar en una reunión del consejo.</ListItem><ListItem>Si conviene añadir texto acerca del artículo.</ListItem><ListItem>Si se debe reemplazar o actualizar un artículo que ya se citó.</ListItem></ItemizedList><Para id="_AboutThis_24">Los cambios en los resúmenes se deciden mediante consenso de los integrantes del consejo después de evaluar la solidez de la evidencia de los artículos publicados y determinar la forma de incorporar el artículo en el resumen.</Para><Para>Los revisores principales del sumario sobre Tratamiento del cáncer de pene son:</Para><ItemizedList Style="bullet"><ListItem>Juskaran S. Chadha, DO (Moffitt Cancer Center)</ListItem><ListItem>Jad Chahoud, MD, MPH (Moffitt Cancer Center)</ListItem><ListItem>Timothy Gilligan, MD (Cleveland Clinic Taussig Cancer Institute)</ListItem></ItemizedList><Para id="_AboutThis_25">Cualquier comentario o pregunta sobre el contenido de este resumen se debe enviar al   <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.  Por favor, no enviar preguntas o comentarios directamente a los integrantes del consejo, ya que no responderán consultas de manera individual.</Para></SummarySection><SummarySection id="_AboutThis_9"><Title>Niveles de evidencia</Title><Para id="_AboutThis_10">Algunas de las referencias bibliográficas de este resumen se acompañan del nivel de evidencia. El propósito de esto es ayudar al lector a evaluar la solidez de la evidencia que respalda el uso de  ciertas intervenciones  o abordajes. El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> emplea un <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">sistema de jerarquización formal</SummaryRef> para asignar los niveles de evidencia científica.</Para></SummarySection><SummarySection id="_AboutThis_11"><Title>Permisos para el uso de este resumen</Title><Para id="_AboutThis_12">PDQ (Physician Data Query) es una marca registrada. Se autoriza el uso del texto  de los documentos del PDQ; sin embargo, no se podrá identificar como un resumen de información sobre cáncer del PDQ del  NCI,  salvo que el resumen se reproduzca en su totalidad y se actualice de manera periódica. Por otra parte, se permitirá que un autor  escriba una oración como “En el resumen del PDQ  del NCI de información sobre la prevención del cáncer de mama se describen, de manera concisa, los siguientes riesgos: [incluir fragmento del resumen]”.</Para><Para id="_AboutThis_13">Se sugiere citar la referencia bibliográfica de este resumen del PDQ de la siguiente forma:</Para><Para id="_AboutThis_14">PDQ® sobre el tratamiento para adultos. PDQ Tratamiento del cáncer de pene. Bethesda, MD: National Cancer Institute. Actualización:  &lt;MM/DD/YYYY&gt;. Disponible en: <ExternalRef xref="https://www.cancer.gov/espanol/tipos/pene/pro/tratamiento-pene-pdq">https://www.cancer.gov/espanol/tipos/pene/pro/tratamiento-pene-pdq</ExternalRef>.  Fecha de acceso: &lt;MM/DD/YYYY&gt;. </Para><Para id="_AboutThis_15">Las imágenes  en este resumen se reproducen  con autorización del autor, el artista o la  editorial para uso exclusivo en los resúmenes del PDQ. La utilización de las imágenes fuera del  PDQ requiere la autorización del propietario, que el Instituto Nacional del Cáncer no  puede otorgar. Para obtener más información sobre el uso de las ilustraciones de este resumen o de  otras imágenes relacionadas con el cáncer, consultar <ExternalRef xref="https://visualsonline.cancer.gov/">Visuals Online</ExternalRef>, una colección de más de 2000 imágenes científicas.</Para></SummarySection><SummarySection id="_AboutThis_16"><Title>Cláusula sobre el descargo de responsabilidad</Title><Para id="_AboutThis_17">Según la solidez de la evidencia, las opciones de tratamiento se clasifican  como “estándar” o “en evaluación clínica”. Estas clasificaciones no  se deben utilizar para justificar decisiones sobre reembolsos de seguros. Para obtener más información  sobre la cobertura de seguros, consultar la página <ExternalRef xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer">Manejo de la atención del cáncer</ExternalRef> en Cancer.gov/espanol.</Para></SummarySection><SummarySection id="_AboutThis_19"><Title>Comuníquese con el Instituto Nacional del Cáncer</Title><Para id="_AboutThis_20">Para obtener más información sobre las opciones para comunicarse con el NCI, incluso la dirección de correo electrónico, el número telefónico o el chat, consultar la página del <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.</Para></SummarySection></SummarySection><TranslationOf ref="CDR0000062897"/><DateLastModified>2025-04-04</DateLastModified></Summary>

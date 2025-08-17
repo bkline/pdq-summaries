@@ -1,0 +1,56 @@
+<DrugInformationSummary id="CDR0000769544"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This combination contains the chemotherapy drugs etoposide phosphate, vincristine sulfate (Oncovin), cyclophosphamide,  and doxorubicin hydrochloride (hydroxydaunomycin), the targeted therapy drug rituximab, and the steroid hormone prednisone. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/R-EPOCH">R-EPOCH</DrugInfoURL><TerminologyLink ref="CDR0000768572">R-EPOCH regimen</TerminologyLink><GlossaryLink ref="CDR0000768581">R-EPOCH</GlossaryLink><PronunciationInfo><MediaLink ref="CDR0000798011" type="audio/mpeg" alt="" language="en" id="_3"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>R-EPOCH</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the R-EPOCH combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>R</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000495778" url="/about-cancer/treatment/drugs/rituximab">Rituximab</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>E</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000590263" url="/about-cancer/treatment/drugs/etoposidephosphate">Etoposide Phosphate</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>P</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000652391" url="/about-cancer/treatment/drugs/prednisone">Prednisone</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>O</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000599877" url="/about-cancer/treatment/drugs/vincristinesulfate">Vincristine Sulfate</DrugRef> (Oncovin)
+      </entry>
+     </Row><Row><entry Align="Right"><Strong>C</Strong></entry><entry>= <DrugRef href="CDR0000557430" url="/about-cancer/treatment/drugs/cyclophosphamide">Cyclophosphamide</DrugRef></entry></Row><Row><entry Align="Right"><Strong>H</Strong></entry><entry>= <DrugRef href="CDR0000542867" url="/about-cancer/treatment/drugs/doxorubicinhydrochloride">Doxorubicin Hydrochloride</DrugRef> (Hydroxydaunorubicin)</entry></Row>
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">R-EPOCH 
+         is used to treat:</Para>
+  <ItemizedList Style="bullet" id="_9"><ListItem><Strong><GlossaryTermRef href="CDR0000444967" dictionary="Cancer.gov" audience="Patient">B-cell</GlossaryTermRef> <GlossaryTermRef href="CDR0000045148" dictionary="Cancer.gov" audience="Patient">non-Hodgkin lymphoma</GlossaryTermRef>.</Strong></ListItem></ItemizedList>
+  <Para id="_8">This combination may also be used with other drugs or 
+         treatments or to treat other types of cancer. It is being studied in the treatment of <GlossaryTermRef href="CDR0000270800" dictionary="Cancer.gov" audience="Patient">Hodgkin lymphoma</GlossaryTermRef> and <GlossaryTermRef href="CDR0000543504" dictionary="Cancer.gov" audience="Patient">B-cell acute leukemia</GlossaryTermRef>.</Para>
+ </Section><Section id="_About"><Title>More About R-EPOCH</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/768572">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2015-03-05</DateFirstPublished><DateLastModified>2023-05-10</DateLastModified></DrugInformationSummary>

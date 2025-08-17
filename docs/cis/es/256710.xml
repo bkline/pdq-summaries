@@ -1,0 +1,414 @@
+<Summary id="CDR0000256710" LegacyPDQID=""><SummaryMetaData><SummaryType>Treatment</SummaryType><SummaryAudience>Health professionals</SummaryAudience><SummaryLanguage>Spanish</SummaryLanguage><SummaryDescription>Resumen de información revisada por expertos acerca del tratamiento del cáncer de vesícula biliar.</SummaryDescription><SummaryURL xref="https://www.cancer.gov/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Cáncer de vesícula biliar (PDQ®): Tratamiento</SummaryURL><SummaryToggleURL xref="https://www.cancer.gov/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq">Cáncer de vesícula biliar (PDQ®): Tratamiento</SummaryToggleURL><SummaryEditorialBoard ref="CDR0000028327">PDQ Adult Treatment Editorial Board</SummaryEditorialBoard><MainTopics><TermRef ref="CDR0000038747">gallbladder cancer</TermRef></MainTopics><SummaryAbstract>
+      <Para id="_1">This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of gallbladder cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions.</Para>
+      <Para id="_2">This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board, which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).</Para>
+    </SummaryAbstract><SummaryKeyWords><SummaryKeyWord>gallbladder cancer</SummaryKeyWord></SummaryKeyWords></SummaryMetaData><SummaryTitle>Tratamiento del cáncer de vesícula biliar (PDQ®)–Versión para profesionales de salud</SummaryTitle><AltTitle TitleType="Browser">Tratamiento del cáncer de vesícula biliar (PDQ®)</AltTitle><AltTitle TitleType="CancerTypeHomePage">Tratamiento del cáncer de vesícula biliar</AltTitle><SummarySection id="_3"><SectMetaData><SpecificDiagnosis ref="CDR0000038747">gallbladder cancer</SpecificDiagnosis><SectionType>Prognosis--legacy</SectionType></SectMetaData><Title>Información general sobre el cáncer de vesícula biliar</Title><SummarySection id="_4"><Title>Incidencia y mortalidad</Title><Para id="_5">Número estimado de casos nuevos y defunciones por cáncer de vesícula biliar (y otros cánceres biliares) en los Estados Unidos para 2025:<Reference refidx="1"/></Para><ItemizedList id="_6" Style="bullet">
+        <ListItem>Casos nuevos: 12 610.</ListItem>
+        <ListItem>Defunciones: 4400.</ListItem>
+      </ItemizedList></SummarySection><Para id="_7">El cáncer que surge en la vesícula biliar es poco frecuente.</Para><SummarySection id="_8"><Title>Características clínicas</Title><Para id="_9">Los síntomas más comunes que causa el cáncer de vesícula biliar son ictericia, dolor y fiebre.</Para></SummarySection><SummarySection id="_10"><Title>Características histopatológicas y pruebas diagnósticas</Title><Para id="_11">En los pacientes con cáncer superficial (T1 o limitado a la mucosa) que se descubre durante el examen patológico del tejido después de extirpar la vesícula biliar por otras razones, la enfermedad suele curarse sin otro tratamiento. En los pacientes que presentan síntomas, el tumor pocas veces se diagnostica de forma preoperatoria.<Reference refidx="2"/> En estos casos, la enfermedad es incurable ya que no se puede extraer el tumor por completo mediante métodos quirúrgicos; aunque las medidas paliativas quizás ayuden a estos pacientes. Para los pacientes con enfermedad T2 o mayor, una opción es la resección amplia con hepatectomía parcial y disección ganglionar portal.<Reference refidx="3"/><Reference refidx="4"/> 
+</Para></SummarySection><SummarySection id="_12"><Title>Otros factores pronósticos</Title><Para id="_13">La colelitiasis es una afección conexa en la mayoría de los casos, pero menos del 1 % de los pacientes con colelitiasis presenta este cáncer.</Para></SummarySection><ReferenceSection><Citation idx="1">American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. <ExternalRef xref="https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2025/2025-cancer-facts-and-figures-acs.pdf">Available online</ExternalRef>. Last accessed January 16, 2025.</Citation><Citation idx="2" PMID="2008087" MedlineID="91179165">Chao TC, Greager JA: Primary carcinoma of the gallbladder. J Surg Oncol 46 (4): 215-21, 1991.</Citation><Citation idx="3" PMID="12607584">Shoup M, Fong Y: Surgical indications and extent of resection in gallbladder cancer. Surg Oncol Clin N Am 11 (4): 985-94, 2002.</Citation><Citation idx="4" PMID="11270889">Sasson AR, Hoffman JP, Ross E, et al.: Trimodality therapy for advanced gallbladder cancer. Am Surg 67 (3): 277-83; discussion 284, 2001.</Citation></ReferenceSection></SummarySection><SummarySection id="_14"><SectMetaData><SpecificDiagnosis ref="CDR0000038747">gallbladder cancer</SpecificDiagnosis><SectionType>Cellular classification--legacy</SectionType></SectMetaData><Title>Clasificación celular del cáncer de vesícula biliar</Title><Para id="_15">Algunos tipos histológicos de cáncer de vesícula biliar acarrean mejor pronóstico que otros. Los carcinomas papilares tienen el mejor pronóstico. Los tipos histológicos de cáncer de vesícula biliar son los siguientes:<Reference refidx="1"/></Para><ItemizedList id="_16" Style="bullet">
+      <ListItem>Carcinoma <Emphasis>in situ</Emphasis>.</ListItem>
+      <ListItem>Neoplasia biliar intraepitelial de grado alto.</ListItem>
+      <ListItem>Neoplasia papilar intraquística con neoplasia intraepitelial de grado alto.</ListItem>
+      <ListItem>Neoplasia quística mucinosa con neoplasia intraepitelial de grado alto.</ListItem>
+      <ListItem>Adenocarcinoma.</ListItem>
+      <ListItem>Adenocarcinoma de tipo biliar.</ListItem>
+      <ListItem>Adenocarcinoma de tipo intestinal.</ListItem>
+      <ListItem>Adenocarcinoma de tipo gástrico foveolar.</ListItem>
+      <ListItem>Adenocarcinoma mucinoso.</ListItem>
+      <ListItem>Adenocarcinoma de células claras.</ListItem>
+      <ListItem>Carcinoma de células en anillo de sello.</ListItem>
+      <ListItem>Carcinoma de células escamosas.</ListItem>
+      <ListItem>Carcinoma adenoescamoso.</ListItem>
+      <ListItem>Carcinoma indiferenciado.</ListItem>
+      <ListItem>Carcinoma neuroendocrino de grado alto.</ListItem>
+      <ListItem>Carcinoma neuroendocrino de células pequeñas.</ListItem>
+      <ListItem>Carcinoma adenoneuroendocrino mixto.</ListItem>
+      <ListItem>Neoplasia papilar intraductal con un carcinoma invasivo asociado.</ListItem>
+      <ListItem>Neoplasia quística mucinosa con un carcinoma invasivo asociado.</ListItem>
+    </ItemizedList><ReferenceSection><Citation idx="1">Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 303–9.</Citation></ReferenceSection></SummarySection><SummarySection id="_17"><SectMetaData><SpecificDiagnosis ref="CDR0000038747">gallbladder cancer</SpecificDiagnosis><SectionType>Stage explanation--legacy</SectionType></SectMetaData><Title>Información sobre los estadios del cáncer de vesícula biliar</Title><SummarySection id="_18"><Title>Agrupamiento por estadios y definiciones TNM del American Joint Committee on Cancer</Title><Para id="_19">El American Joint Committee on Cancer (AJCC) designó los estadios mediante la clasificación TNM (tumor, ganglio linfático y metástasis) para definir el cáncer de vesícula biliar.<Reference refidx="1"/></Para><Table id="_20">
+        <Title>Cuadro 1.  Definiciones TNM para el estadio 0<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="23.82%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="23.58%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="52.59%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="2">0</entry>
+              <entry MoreRows="2">Tis, N0, M0</entry>
+              <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_21">
+        <Title>Cuadro 2.  Definiciones TNM para el estadio I<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="23.31%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="25.17%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="51.51%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="2">I</entry>
+              <entry MoreRows="2">T1, N0, M0</entry>
+              <entry>T1 = tumor con invasión de la lámina propia o la capa muscular.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_22">
+        <Title>Cuadro 3.  Definiciones TNM para el estadio IIA<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="21.23%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="26.32%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="52.44%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="2">IIA</entry>
+              <entry MoreRows="2">T2a, N0, M0</entry>
+              <entry>T2a = tumor con invasión del tejido conjuntivo perimuscular en el lado peritoneal, sin compromiso de la serosa (peritoneo visceral).</entry>
+            </Row>
+            <Row>
+              <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_23">
+        <Title>Cuadro 4.  Definiciones TNM para el estadio IIB<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="22.88%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="27.23%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="49.88%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="2">IIB</entry>
+              <entry MoreRows="2">T2b, N0, M0</entry>
+              <entry>T2b = tumor con invasión del tejido conjuntivo perimuscular en el lado hepático, sin extensión al hígado.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_24">
+        <Title>Cuadro 5.  Definiciones TNM para el estadio IIIA<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="22.37%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="27.96%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="49.66%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="2">IIIA</entry>
+              <entry MoreRows="2">T3, N0, M0</entry>
+              <entry>T3 = tumor con perforación de la serosa (peritoneo visceral), o invasión directa del hígado o de otro órgano o estructura adyacente, como el estómago, el duodeno, el colon, el páncreas, el epiplón o las vías biliares extrahepáticas.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_25">
+        <Title>Cuadro 6.  Definiciones TNM para el estadio IIIB<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="23.47%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="24.17%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="52.34%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="8">IIIB</entry>
+              <entry MoreRows="8">T1–3, N1, M0</entry>
+              <entry>T1 = tumor con invasión de la lámina propia o la capa muscular.</entry>
+            </Row>
+            <Row>
+              <entry>–T1a = tumor con invasión de la lámina propia.</entry>
+            </Row>
+            <Row>
+              <entry>–T1b = tumor con invasión de la capa muscular.</entry>
+            </Row>
+            <Row>
+              <entry>T2 = tumor con invasión del tejido conjuntivo perimuscular en el lado peritoneal, sin compromiso de la serosa (peritoneo visceral). O tumor con invasión del tejido conjuntivo perimuscular en el lado hepático, sin extensión al hígado.</entry>
+            </Row>
+            <Row>
+              <entry>–T2a = tumor con invasión del tejido conjuntivo perimuscular en el lado peritoneal, sin compromiso de la serosa (peritoneo visceral).</entry>
+            </Row>
+            <Row>
+              <entry>–T2b = tumor con invasión del tejido conjuntivo perimuscular en el lado hepático, sin extensión al hígado.</entry>
+            </Row>
+            <Row>
+              <entry>T3 = tumor con perforación de la serosa (peritoneo visceral), o invasión directa del hígado o de otro órgano o estructura adyacente, como el estómago, el duodeno, el colon, el páncreas, el epiplón o las vías biliares extrahepáticas.</entry>
+            </Row>
+            <Row>
+              <entry>N1 = metástasis en 1 a 3 ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_26">
+        <Title>Cuadro 7.  Definiciones TNM para el estadio IVA<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="23.41%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="27.40%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="49.18%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="3">IVA</entry>
+              <entry MoreRows="3">T4, N0–1, M0</entry>
+              <entry>T4 = tumor con invasión de la vena porta principal o la arteria hepática, o invasión de dos o más órganos o estructuras extrahepáticas.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>N1 = metástasis en 1 a 3 ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_27">
+        <Title>Cuadro 8.  Definiciones TNM para el estadio IVB<Superscript>a</Superscript></Title>
+        <TGroup Cols="3">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="24.15%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="27.53%"/>
+          <ColSpec ColName="col3" ColNum="3" ColWidth="48.30%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Estadio</entry>
+              <entry Align="Center">TNM</entry>
+              <entry Align="Center">Descripción</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Gallbladder. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 303-9.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry MoreRows="28">IVB</entry>
+              <entry MoreRows="12">Cualquier T, N2, M0</entry>
+              <entry>TX = tumor primario no evaluable.</entry>
+            </Row>
+            <Row>
+              <entry>T0 = sin indicios de tumor primario.</entry>
+            </Row>
+            <Row>
+              <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+            </Row>
+            <Row>
+              <entry>T1 = tumor con invasión de la lámina propia o la capa muscular.</entry>
+            </Row>
+            <Row>
+              <entry>–T1a = tumor con invasión de la lámina propia.</entry>
+            </Row>
+            <Row>
+              <entry>–T1b = tumor con invasión de la capa muscular.</entry>
+            </Row>
+            <Row>
+              <entry>T2 = tumor con invasión del tejido conjuntivo perimuscular en el lado peritoneal, sin compromiso de la serosa (peritoneo visceral). O tumor con invasión del tejido conjuntivo perimuscular en el lado hepático, sin extensión al hígado.</entry>
+            </Row>
+            <Row>
+              <entry>–T2a = tumor con invasión del tejido conjuntivo perimuscular en el lado peritoneal, sin compromiso de la serosa (peritoneo visceral).</entry>
+            </Row>
+            <Row>
+              <entry>–T2b = tumor con invasión del tejido conjuntivo perimuscular en el lado hepático, sin extensión al hígado.</entry>
+            </Row>
+            <Row>
+              <entry>T3 = tumor con perforación de la serosa (peritoneo visceral), o invasión directa del hígado o de otro órgano o estructura adyacente, como el estómago, el duodeno, el colon, el páncreas, el epiplón o las vías biliares extrahepáticas.</entry>
+            </Row>
+            <Row>
+              <entry>T4 = tumor con invasión de la vena porta principal o la arteria hepática, o invasión de dos o más órganos o estructuras.</entry>
+            </Row>
+            <Row>
+              <entry>N2 = metástasis en 4 o más ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M0 = sin metástasis a distancia.</entry>
+            </Row>
+            <Row>
+              <entry MoreRows="15">Cualquier T, cualquier N, M1</entry>
+              <entry>TX = tumor primario no evaluable.</entry>
+            </Row>
+            <Row>
+              <entry>T0 = sin indicios de tumor primario.</entry>
+            </Row>
+            <Row>
+              <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+            </Row>
+            <Row>
+              <entry>T1 = tumor con invasión de la lámina propia o la capa muscular.</entry>
+            </Row>
+            <Row>
+              <entry>–T1a = tumor con invasión de la lámina propia.</entry>
+            </Row>
+            <Row>
+              <entry>–T1b = tumor con invasión de la capa muscular.</entry>
+            </Row>
+            <Row>
+              <entry>T2 = tumor con invasión del tejido conjuntivo perimuscular en el lado peritoneal, sin compromiso de la serosa (peritoneo visceral). O tumor con invasión del tejido conjuntivo perimuscular en el lado hepático, sin extensión al hígado.</entry>
+            </Row>
+            <Row>
+              <entry>–T2a = tumor con invasión del tejido conjuntivo perimuscular en el lado peritoneal, sin compromiso de la serosa (peritoneo visceral).</entry>
+            </Row>
+            <Row>
+              <entry>–T2b = tumor con invasión del tejido conjuntivo perimuscular en el lado hepático, sin extensión al hígado.</entry>
+            </Row>
+            <Row>
+              <entry>T3 = tumor con perforación de la serosa (peritoneo visceral), o invasión directa del hígado o de otro órgano o estructura adyacente, como el estómago, el duodeno, el colon, el páncreas, el epiplón o las vías biliares extrahepáticas.</entry>
+            </Row>
+            <Row>
+              <entry>T4 = tumor con invasión de la vena porta principal o la arteria hepática, o invasión de dos o más órganos o estructuras.</entry>
+            </Row>
+            <Row>
+              <entry>NX = ganglios linfáticos regionales no evaluables.</entry>
+            </Row>
+            <Row>
+              <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>N1 = metástasis en 1 a 3 ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>N2 = metástasis en 4 o más ganglios linfáticos regionales.</entry>
+            </Row>
+            <Row>
+              <entry>M1 = metástasis a distancia.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table></SummarySection><SummarySection id="_28"><Para id="_29"><Strong>Cáncer de vesícula biliar localizado y localmente avanzado</Strong></Para><Para id="_30">Los pacientes con enfermedad en estadio I tienen cáncer limitado a la pared de la vesícula biliar que se puede resecar por completo. Los pacientes con tumores en estadio I que se descubren de manera fortuita y se extirpan durante una colecistectomía de rutina tienen tasas de supervivencia a 5 años de casi el 100 %.<Reference refidx="2"/>  
+</Para><Para id="_31">Los pacientes con enfermedad en estadio II o III tienen tumores con diseminación directa a la capa muscular, la serosa o los órganos adyacentes, con compromiso ganglionar locorregional o sin este.</Para></SummarySection><SummarySection id="_32"><Para id="_33"><Strong>Cáncer de vesícula biliar irresecable</Strong></Para><Para id="_34">Los pacientes con enfermedad que se diseminó más allá de los ganglios linfáticos locorregionales o a órganos distantes presentan tumores irresecables, y el tratamiento estándar tiene fines paliativos. Es posible que la cirugía no se considere apropiada para los pacientes con enfermedad en un estadio más temprano cuyo estado funcional es precario o que tienen afecciones comórbidas importantes.</Para></SummarySection><ReferenceSection><Citation idx="1">Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 303–9.</Citation><Citation idx="2" PMID="1558412" MedlineID="92214984">Shirai Y, Yoshida K, Tsukada K, et al.: Inapparent carcinoma of the gallbladder. An appraisal of a radical second operation after simple cholecystectomy. Ann Surg 215 (4): 326-31, 1992.</Citation></ReferenceSection></SummarySection><SummarySection id="_35"><SectMetaData><SpecificDiagnosis ref="CDR0000038748">localized gallbladder cancer</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Tratamiento del cáncer de vesícula biliar localizado y localmente avanzado</Title><SummarySection id="_36"><Title>Opciones de tratamiento para el cáncer de vesícula biliar localizado y localmente avanzado</Title><Para id="_37">El  cáncer de vesícula biliar que no se sospechaba antes y que se descubre de manera fortuita  en la mucosa durante el examen patológico de la vesícula biliar se cura en más de un 80 % de los pacientes. Sin embargo, el cáncer de vesícula biliar sintomático que se sospecha desde antes de la cirugía por lo general ya penetró la capa muscular y la serosa. Este tipo de cáncer de vesícula es curable en menos de un 5 % de los pacientes.</Para><Para id="_38">En un estudio se observó la distribución de la diseminación ganglionar del cáncer de vesícula biliar y el desenlace de 111 pacientes con metástasis ganglionares que se sometieron a cirugía en la misma institución de manera consecutiva entre 1981 y 1995.<Reference refidx="1"/>[<LOERef href="CDR0000810035" dictionary="NotSet" audience="Health professional">Nivel de evidencia C1</LOERef>] El procedimiento quirúrgico estándar fue la resección de la vesícula biliar, resección de una cuña del hígado, resección de las vías biliares extrahepáticas y resección de los ganglios linfáticos regionales (N1 y N2). El cálculo de Kaplan-Meier para las tasas de supervivencia a 5 años fue del 42,5 % ± 6,5 % en los pacientes con tumores de clasificación patológica T2 a T4 sin compromiso ganglionar y del 31 % ± 6,2 % en los pacientes con tumores de clasificación semejante, pero con compromiso ganglionar.</Para><Para id="_40">Las opciones de tratamiento para el cáncer de vesícula biliar localizado y localmente avanzado son las siguientes:</Para><OrderedList id="_71" Style="Arabic"><ListItem><SummaryRef href="CDR0000256710#_72" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Cirugía</SummaryRef>.</ListItem><ListItem><SummaryRef href="CDR0000256710#_78" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Radioterapia de haz externo (RHE)</SummaryRef>.</ListItem><ListItem>Participación en ensayos clínicos donde se investiga el uso de radioterapia y medicamentos radiosensibilizadores para mejorar el control local.</ListItem></OrderedList><SummarySection id="_72"><Title>Cirugía</Title><Para id="_73">En los  pacientes en los que no se sospecha un cáncer de vesícula biliar, pero este se descubre en la pieza quirúrgica después de una operación rutinaria de vesícula biliar y está limitado a la mucosa (T1), la enfermedad se cura en la mayoría de los casos.<Reference refidx="2"/><Reference refidx="3"/> Durante la extirpación laparoscópica de un cáncer insospechado, es posible que se implante un carcinoma en todos los puertos de entrada (incluso el de la cámara).<Reference refidx="4"/> Todos los puertos de entrada se suelen extirpar por completo, aun en los tipos de cáncer en estadio I.</Para><Para id="_74">La necesidad de una segunda exploración con el fin de ampliar la extirpación cuando la enfermedad T1b se descubre de manera fortuita, es objeto de controversia. En una revisión retrospectiva multicéntrica, se identificó metástasis ganglionar en el 12 % de los pacientes que se sometieron a una segunda resección después de la colecistectomía, pero no hay datos prospectivos sobre el desenlace relativo en los pacientes que se someten a una segunda cirugía.<Reference refidx="5"/>[<LOERef href="CDR0000810037" dictionary="NotSet" audience="Health professional">Nivel de evidencia C2</LOERef>]</Para><Para id="_75">Los pacientes con enfermedad T2 o T3 tienen tasas más altas de enfermedad invasiva insospechada en el momento del diagnóstico. Se realizó una revisión retrospectiva multicéntrica en pacientes que se sometieron a una segunda resección después de que se descubriera un carcinoma de manera fortuita. Se observó enfermedad residual en el 57 % de los pacientes con enfermedad T2 (entre ellos, un 31 % con compromiso ganglionar y un 10 % con compromiso hepático) y en el 77 % de los pacientes con enfermedad T3 (entre ellos, un 46 % con metástasis ganglionares y un 36 % con compromiso hepático).<Reference refidx="5"/> A partir de estas observaciones, es posible que los pacientes que cumplen los requisitos se sometan a una segunda exploración para extirpar el tejido hepático cercano al lecho de la vesícula biliar, los ganglios linfáticos portales y el tejido linfático en el ligamento hepatoduodenal. En análisis retrospectivos, se observó que una segunda resección amplia retrasa las recidivas y es posible que mejore la supervivencia.<Reference refidx="6"/><Reference refidx="7"/><Reference refidx="8"/>[<LOERef href="CDR0000810037" dictionary="NotSet" audience="Health professional">Nivel de evidencia C2</LOERef>]</Para><Para id="_76">En ocasiones, la resección radical produce supervivencia sin enfermedad a largo plazo en los pacientes con compromiso ganglionar locorregional (conducto cístico, conducto colédoco, arteria hepática y vena porta). En los pacientes con ictericia (estadio III o estadio IV), se debe considerar el drenaje biliar transhepático percutáneo preoperatorio para aliviar la obstrucción biliar.</Para><Para id="_77">La cirugía con intención curativa no se considera posible en los pacientes con diseminación metastásica más allá de los ganglios linfáticos locorregionales o a órganos distantes.</Para></SummarySection><SummarySection id="_78"><Title>Radioterapia de haz externo</Title><Para id="_79">Se observó que el uso de radioterapia de haz externo (RHE) con quimioterapia o sin esta como tratamiento primario controló la enfermedad a corto plazo en pequeños grupos de pacientes. También se observó un beneficio similar de  la radioterapia con quimioterapia o sin esta cuando se administró después de la resección.<Reference refidx="9"/><Reference refidx="10"/></Para><Para id="_80">No hay estudios de fase III que respalden el uso de la radioterapia adyuvante, incluso en pacientes con enfermedad localizada de riesgo alto.</Para></SummarySection></SummarySection><SummarySection id="_TrialSearch_35_sid_4"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_35_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="9264348" MedlineID="97407599">Tsukada K, Kurosaki I, Uchida K, et al.: Lymph node spread from carcinoma of the gallbladder. Cancer 80 (4): 661-7, 1997.</Citation><Citation idx="2" PMID="8368924" MedlineID="93378538">Fong Y, Brennan MF, Turnbull A, et al.: Gallbladder cancer discovered during laparoscopic surgery. Potential for iatrogenic tumor dissemination. Arch Surg 128 (9): 1054-6, 1993.</Citation><Citation idx="3" PMID="7910985" MedlineID="94255887">Chijiiwa K, Tanaka M: Carcinoma of the gallbladder: an appraisal of surgical resection. Surgery 115 (6): 751-6, 1994.</Citation><Citation idx="4" PMID="7582223" MedlineID="96095134">Wibbenmeyer LA, Wade TP, Chen RC, et al.: Laparoscopic cholecystectomy can disseminate in situ carcinoma of the gallbladder. J Am Coll Surg 181 (6): 504-10, 1995.</Citation><Citation idx="5" PMID="17846848">Pawlik TM, Gleisner AL, Vigano L, et al.: Incidence of finding residual disease for incidental gallbladder carcinoma: implications for re-resection. J Gastrointest Surg 11 (11): 1478-86; discussion 1486-7, 2007.</Citation><Citation idx="6" PMID="1558412" MedlineID="92214984">Shirai Y, Yoshida K, Tsukada K, et al.: Inapparent carcinoma of the gallbladder. An appraisal of a radical second operation after simple cholecystectomy. Ann Surg 215 (4): 326-31, 1992.</Citation><Citation idx="7" PMID="9052434" MedlineID="97204927">Yamaguchi K, Chijiiwa K, Saiki S, et al.: Retrospective analysis of 70 operations for gallbladder carcinoma. Br J Surg 84 (2): 200-4, 1997.</Citation><Citation idx="8" PMID="21690451">Downing SR, Cadogan KA, Ortega G, et al.: Early-stage gallbladder cancer in the Surveillance, Epidemiology, and End Results database: effect of extended surgical resection. Arch Surg 146 (6): 734-8, 2011.</Citation><Citation idx="9" PMID="71193" MedlineID="78001630">Smoron GL: Radiation therapy of carcinoma of gallbladder and biliary tract. Cancer 40 (4): 1422-4, 1977.</Citation><Citation idx="10" PMID="9849443" MedlineID="99066305">Hejna M, Pruckmayer M, Raderer M: The role of chemotherapy and radiation in the management of biliary cancer: a review of the literature. Eur J Cancer 34 (7): 977-86, 1998.</Citation></ReferenceSection></SummarySection><SummarySection id="_50"><SectMetaData><SpecificDiagnosis ref="CDR0000038749">unresectable gallbladder cancer</SpecificDiagnosis><SpecificDiagnosis ref="CDR0000038751">recurrent gallbladder cancer</SpecificDiagnosis><SpecificDiagnosis ref="CDR0000709297">metastatic gallbladder cancer</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Tratamiento del cáncer de vesícula biliar irresecable, metastásico o recidivante</Title><SummarySection id="_51"><Title>Opciones de tratamiento para el cáncer de vesícula biliar irresecable, metastásico o recidivante</Title><Para id="_52">Los cánceres de vesícula biliar irresecables, metastásicos o recidivantes no tienen cura. Es posible lograr una gran mejora de los síntomas al aliviar la obstrucción biliar. Unos cuantos pacientes presentan tumores de crecimiento muy lento y viven por muchos años. Siempre que sea posible, se debe considerar la inscripción en ensayos clínicos de pacientes con cáncer de vesícula biliar irresecable, metastásico o recidivante. Para obtener más información sobre ensayos clínicos en curso, consultar el <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">portal de Internet del NCI</ExternalRef>.</Para><Para id="_54">Las opciones de tratamiento para el cáncer de vesícula biliar irresecable, metastásico o recidivante son las siguientes:</Para><OrderedList id="_84" Style="Arabic"><ListItem><SummaryRef href="CDR0000256710#_85" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Drenaje transhepático percutáneo, implantes colocados de manera endoscópica o anastomosis quirúrgica</SummaryRef>.</ListItem><ListItem><SummaryRef href="CDR0000256710#_88" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Terapia sistémica</SummaryRef>.</ListItem></OrderedList><SummarySection id="_85"><Title>Drenaje transhepático percutáneo, implantes colocados de manera endoscópica o anastomosis quirúrgica</Title><Para id="_86">El alivio de la obstrucción biliar se justifica cuando síntomas como el prurito y la disfunción hepática sobrepasan otros síntomas del cáncer. El abordaje preferido es el drenaje transhepático percutáneo o los implantes colocados de manera endoscópica.<Reference refidx="1"/> A veces, es adecuado el uso de una anastomosis quirúrgica cuando estos abordajes no son factibles.</Para><Para id="_87">La radioterapia paliativa después de una derivación biliar o intubación tal vez sea beneficiosa. Es posible que los pacientes cumplan con los requisitos para participar en ensayos clínicos en los que se exploren formas de mejorar los efectos de la radioterapia con diversos radiosensibilizadores como hipertermia, fármacos radiosensibilizadores o sustancias quimioterapéuticas citotóxicas.</Para></SummarySection><SummarySection id="_88"><Title>Terapia sistémica</Title><Para id="_89">La terapia sistémica es apropiada para determinados pacientes con estado funcional adecuado y funcionamiento orgánico pleno. Las fluoropirimidinas, la gemcitabina, las sustancias con platino y el docetaxel produjeron remisiones parciales transitorias en algunos pacientes. La incidencia del cáncer de vesícula biliar es baja, y a menudo en los ensayos clínicos se incluyen pacientes con todos los subtipos de cáncer biliar. Por lo tanto, se debe interpretar con cuidado la información cuando se aplica, en específico, a pacientes con cáncer de vesícula biliar. En la práctica clínica, los algoritmos de tratamiento para la enfermedad avanzada a menudo derivan de aquellos usados para el cáncer de vías biliares, sobre la base de la extrapolación de los datos de otros ensayos. En esta sección, se han resumido expresamente solo los estudios de referencia activos, o aquellos en los que, de manera específica, se incluyeron pacientes con cáncer de vesícula biliar. Para obtener más información, consultar <SummaryRef href="CDR0000256711" url="/espanol/tipos/higado/pro/tratamiento-vias-biliares-pdq">Tratamiento del cáncer de vías biliares (colangiocarcinoma)</SummaryRef>.</Para><SummarySection id="_106"><Title>Administración de capecitabina y fluorouracilo</Title><SummarySection id="_sm_CDR0000813954_3"><Para id="_sm_CDR0000813954_4">El gen <GeneName>DPYD</GeneName> codifica la enzima que cataboliza las pirimidinas y las fluoropirimidinas, como la capecitabina y el fluorouracilo. Se estima que entre el 1 % y el 2 % de la población tiene variantes defectuosas de  <GeneName>DPYD</GeneName> que reducen la función de la proteína DPD y la acumulación de pirimidinas y fluoropirimidinas en el cuerpo.<Reference refidx="2"/><Reference refidx="3"/> Los pacientes con la variante <GeneName>DPYD*2A</GeneName> que reciben fluoropirimidinas quizás presenten efectos tóxicos graves que ponen en riesgo la salud, y a veces son mortales. Se han identificado muchas otras variantes de <GeneName>DPYD</GeneName>, con diferentes efectos clínicos.<Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/> Es posible que se recomiende evitar la fluoropirimidina o reducir la dosis al 50 % según el genotipo <GeneName>DPYD</GeneName> del paciente y el número de alelos funcionales de <GeneName>DPYD</GeneName>.<Reference refidx="5"/><Reference refidx="6"/><Reference refidx="7"/> Las pruebas genéticas para <GeneName>DPYD</GeneName> cuestan menos de $200, pero la cobertura del seguro varía debido a la falta de directrices nacionales.<Reference refidx="8"/> Además, es posible que las pruebas retrasen el tratamiento por 2 semanas, lo que no sería aconsejable en casos de urgencia. Este tema es objeto de controversia y requiere evaluación adicional.<Reference refidx="9"/></Para></SummarySection></SummarySection><Para id="_90">Evidencia (terapia sistémica):</Para><OrderedList id="_91" Style="Arabic">
+     <ListItem>En un estudio de fase III, 410 pacientes con cáncer biliar irresecable, metastásico o recidivante, se asignaron al azar para recibir gemcitabina con cisplatino y sin este durante un periodo de hasta 6 meses.<Reference refidx="10"/><ItemizedList id="_92" Style="bullet">
+     <ListItem>Al cabo de una mediana de seguimiento de 8,2 meses, la mediana de supervivencia general (SG) fue superior en los pacientes que recibieron quimioterapia combinada (11,7 meses vs. 8,1 meses; cociente de riesgos instantáneos [CRI], 0,64; intervalo de confianza (IC) 95 %, 0,52–0,80; <Emphasis>P</Emphasis> = 0,001).<Reference refidx="10"/>[<LOERef href="CDR0000810017" dictionary="NotSet" audience="Health professional">Nivel de evidencia A1</LOERef>]</ListItem><ListItem>En todos los subgrupos, se demostró un beneficio con medianas de SG similares, incluso en 149 pacientes con cáncer de vesícula biliar.</ListItem><ListItem>Se presentaron efectos tóxicos de grados 3 y 4 con una frecuencia similar en ambos grupos del estudio, a excepción del aumento de la toxicidad hematológica en los pacientes que recibieron gemcitabina con cisplatino, y el aumento de la toxicidad hepática en los pacientes que recibieron gemcitabina en monoterapia.</ListItem></ItemizedList></ListItem><ListItem>En un estudio multicéntrico internacional de fase III (<ProtocolRef nct_id="NCT03875235">TOPAZ-1</ProtocolRef> [NCT03875235]) se incluyeron 685 pacientes con cáncer biliar irresecable localmente avanzado, recidivante o metastásico y sin tratamiento previo. Los pacientes se asignaron de manera aleatoria a recibir durvalumab o placebo con cisplatino y gemcitabina por hasta 8 ciclos y mantenimiento posterior con durvalumab o placebo hasta el momento que progresó la enfermedad o  se presentaron efectos tóxicos inaceptables. Después de una mediana de seguimiento de 23,4 meses de los pacientes en el grupo de durvalumab, se observaron los siguientes hallazgos:<Reference refidx="11"/><Reference refidx="12"/><ItemizedList id="_93" Style="bullet">
+     <ListItem>La mediana de SG, criterio principal de valoración, fue de 12,9 meses en el grupo de durvalumab y de 11,3 meses en el grupo de placebo (CRI, 0,76; IC 95 %, 0,64–0,91). En el grupo de durvalumab, la tasa de SG a 18 meses fue del 35,1 % y la tasa de SG a 24 meses fue del 24,9 %. En el grupo de placebo, la tasa de SG a 18 meses fue del 25,5 % y la tasa de SG a 24 meses fue del 10,4 %.<Reference refidx="11"/><Reference refidx="12"/>[<LOERef href="CDR0000810017" dictionary="NotSet" audience="Health professional">Nivel de evidencia A1</LOERef>]</ListItem><ListItem>No hubo diferencias significativas entre los grupos en la cantidad de eventos adversos de grado 3 o 4 relacionados con el tratamiento  ni en la cantidad de eventos que causaran la interrupción del fármaco del estudio.</ListItem></ItemizedList></ListItem><ListItem>En un estudio  internacional, multicéntrico, de fase III (<ProtocolRef nct_id="NCT04003636">KEYNOTE-966</ProtocolRef> [NCT04003636]) se incluyeron 1069 pacientes con cáncer biliar irresecable, localmente avanzado o metastásico, para el que no habían recibido tratamiento. Los pacientes se asignaron de manera aleatoria a recibir pembrolizumab o placebo por un máximo de 35 ciclos. A esto se lo combinó con gemcitabina (sin una duración máxima) y cisplatino por un máximo de 8 ciclos. Al cabo de una mediana de seguimiento de 25,6 meses, se observaron los siguientes resultados:<Reference refidx="13"/>[<LOERef href="CDR0000810017" dictionary="NotSet" audience="Health professional">Nivel de evidencia A1</LOERef>]<ItemizedList id="_110" Style="bullet"><ListItem>La mediana de SG fue de 12,7 meses en el grupo de pembrolizumab  y de 10,9 meses en el grupo de placebo (CRI, 0,83; IC 95 %, 0,72–0,95; <Emphasis>P</Emphasis> unilateral = 0,0034).</ListItem><ListItem>	No hubo diferencia en la frecuencia total de efectos adversos relacionados con el tratamiento entre los grupos, incluso en los eventos de grados 3 y 4. Hubo 8 muertes por efectos adversos del tratamiento (2 %) en el grupo de  pembrolizumab y 3 (1 %) en el grupo de placebo.</ListItem></ItemizedList></ListItem><ListItem>En un estudio de fase III con 3 grupos, en el que participaron pacientes con cáncer de vesícula biliar irresecable, se comparó el mejor cuidado médico de apoyo (n = 27), fluorouracilo con ácido folínico (FUFA) 1 vez por semana durante 30 semanas (n = 28), y gemcitabina modificada con oxaliplatino (mGEMOX) por hasta 6 ciclos de 21 días.<Reference refidx="14"/>[<LOERef href="CDR0000810017" dictionary="NotSet" audience="Health professional">Nivel de evidencia A1</LOERef>]<ItemizedList id="_111" Style="bullet">
+     <ListItem>Al cabo de una mediana de seguimiento de 9 meses, la SG fue de 4,5 meses en los pacientes que recibieron el mejor cuidado médico de apoyo (IC 95 %, 0,2−8,8), de 4,6 meses  en los que recibieron FUFA (IC 95 %, 3−6,2) y de 9,5 meses en los que recibieron mGEMOX (IC 95 %, 5−14; <Emphasis>P</Emphasis> = 0,039).</ListItem><ListItem>La única diferencia significativa en los efectos tóxicos de grado 3 o 4 entre los grupos de quimioterapia fue la elevación de las transaminasas, que fue más prevalente en el grupo de mGEMOX (<Emphasis>P</Emphasis> = 0,04).</ListItem></ItemizedList></ListItem><ListItem>En un estudio de ausencia de inferioridad de fase III (<ProtocolRef nct_id="NCT01470443">NCT01470443</ProtocolRef>), se inscribieron 114 pacientes con cánceres biliares metastásicos, entre ellos 30 (26 %) con cáncer primario de vesícula biliar. Los pacientes se asignaron al azar a recibir capecitabina con oxaliplatino (XELOX) o gemcitabina con oxaliplatino (GEMOX).<Reference refidx="15"/>[<LOERef href="CDR0000810025" dictionary="NotSet" audience="Health professional">Nivel de evidencia B1</LOERef>]<ItemizedList id="_95" Style="bullet">
+     <ListItem>No hubo diferencias significativas en la SG a los 10,4 meses (IC 95 %, 8,0−12,6) en los pacientes del grupo de GEMOX y a los 10,6 meses (IC 95 %, 7,3−15,5) en los pacientes del grupo de XELOX (<Emphasis>P</Emphasis> = 0,131).</ListItem><ListItem>El criterio principal de valoración, las tasas de supervivencia sin progresión (SSP) a 6 meses, fue del 44,6 % para el grupo de GEMOX y del 46,7 % para el grupo de XELOX (IC 95 % para la diferencia en la tasa de SSP a 6 meses, -12−16 %, que cumple con el criterio de ausencia de inferioridad).</ListItem><ListItem>Se hizo un análisis de subgrupos predefinido según el sitio primario de la enfermedad. En el análisis no se encontraron diferencias entre los 2 grupos, en la tasa de respuesta objetiva de los pacientes con cáncer de vesícula biliar (<Emphasis>P</Emphasis> = 0,598).</ListItem></ItemizedList></ListItem></OrderedList><Para id="_96">Hasta que se hagan más ensayos clínicos, el uso de cisplatino y gemcitabina se considera la quimioterapia de base estándar de referencia para los pacientes con cáncer de vesícula biliar irresecable, metastásico o recidivante. A partir de la extrapolación de los resultados de los ensayos TOPAZ-1 y KEYNOTE-966 sobre el cáncer de vías biliares, la incorporación de un inhibidor de puntos de control (durvalumab o pembrolizumab) a la terapia de primera línea se ha convertido en el tratamiento estándar. Los posibles regímenes alternativos son gemcitabina con capecitabina, GEMOX y XELOX. Todos los pacientes deben considerar la participación en ensayos clínicos.</Para><Para id="_97">Todos los pacientes con enfermedad irresecable, metastásica o recidivante que aún no hayan recibido tratamiento con inhibidores de puntos de control se deben someter a pruebas moleculares de deficiencia en la reparación de errores de emparejamiento (dMMR) o de inestabilidad microsatelital (MSI-H). Según la extrapolación de los datos de un subgrupo de pacientes con tumores gastrointestinales y hepatopancreatobiliares de los estudios <ProtocolRef nct_id="NCT02534675">I-PREDICT</ProtocolRef> (NCT02534675) y <ProtocolRef nct_id="NCT02628067">KEYNOTE-158</ProtocolRef> (NCT02628067), para los pacientes con tumores que exhiben dMMR o MSI-H se puede considerar el tratamiento con pembrolizumab.<Reference refidx="16"/><Reference refidx="17"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</Para><Para id="_98">Es posible que se encuentren dianas terapéuticas adicionales para ensayos clínicos mediante el uso de otras pruebas de variantes de <GeneName>IDH1</GeneName>, fusiones génicas de <GeneName>FGFR2</GeneName> y expresión de HER2. En la práctica clínica, los tratamientos dirigidos aprobados por la Administración de Alimentos y Medicamentos como tratamientos de segunda línea para pacientes con colangiocarcinoma podrían usarse para tratar a determinados pacientes  con cáncer de vesícula biliar. Las opciones de tratamiento que se ajusten a estos pacientes son escasas. Para obtener más información, consultar la sección <SummaryRef href="CDR0000256711#_550" url="/espanol/tipos/higado/pro/tratamiento-vias-biliares-pdq">Terapia dirigida</SummaryRef> en Tratamiento del cáncer de vías biliares (colangiocarcinoma).</Para></SummarySection></SummarySection><SummarySection id="_TrialSearch_50_sid_5"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_50_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="11386268" MedlineID="21253960">Baron TH: Expandable metal stents for the treatment of cancerous obstruction of the gastrointestinal tract. N Engl J Med 344 (22): 1681-7, 2001.</Citation><Citation idx="2" PMID="34506675">Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021.</Citation><Citation idx="3" PMID="27569869">Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016.</Citation><Citation idx="4" PMID="33410339">Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021.</Citation><Citation idx="5" PMID="29152729">Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018.</Citation><Citation idx="6" PMID="30348537">Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018.</Citation><Citation idx="7" PMID="34996412">Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022.</Citation><Citation idx="8" PMID="35668003">Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022.</Citation><Citation idx="9" PMID="36821823">Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023.</Citation><Citation idx="10" PMID="20375404">Valle J, Wasan H, Palmer DH, et al.: Cisplatin plus gemcitabine versus gemcitabine for biliary tract cancer. N Engl J Med 362 (14): 1273-81, 2010.</Citation><Citation idx="11">Oh DY, He AR, Qin S, et al.: Updated overall survival (OS) from the phase III TOPAZ-1 study of durvalumab (D) or placebo (PBO) plus gemcitabine and cisplatin (+ GC) in patients (pts) with advanced biliary tract cancer (BTC). Ann Oncol  33 (Suppl 7): S565-S566, 2022.</Citation><Citation idx="12" PMID="38823398">Oh DY, He AR, Bouattour M, et al.: Durvalumab or placebo plus gemcitabine and cisplatin in participants with advanced biliary tract cancer (TOPAZ-1): updated overall survival from a randomised phase 3 study. Lancet Gastroenterol Hepatol 9 (8): 694-704, 2024.</Citation><Citation idx="13" PMID="37075781">Kelley RK, Ueno M, Yoo C, et al.: Pembrolizumab in combination with gemcitabine and cisplatin compared with gemcitabine and cisplatin alone for patients with advanced biliary tract cancer (KEYNOTE-966): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet 401 (10391): 1853-1865, 2023.</Citation><Citation idx="14" PMID="20855823">Sharma A, Dwary AD, Mohanti BK, et al.: Best supportive care compared with chemotherapy for unresectable gall bladder cancer: a randomized controlled study. J Clin Oncol 28 (30): 4581-6, 2010.</Citation><Citation idx="15" PMID="30785198">Kim ST, Kang JH, Lee J, et al.: Capecitabine plus oxaliplatin versus gemcitabine plus oxaliplatin as first-line therapy for advanced biliary tract cancers: a multicenter, open-label, randomized, phase III, noninferiority trial. Ann Oncol 30 (5): 788-795, 2019.</Citation><Citation idx="16" PMID="31011206">Sicklick JK, Kato S, Okamura R, et al.: Molecular profiling of cancer patients enables personalized combination therapy: the I-PREDICT study. Nat Med 25 (5): 744-750, 2019.</Citation><Citation idx="17" PMID="31682550">Marabelle A, Le DT, Ascierto PA, et al.: Efficacy of Pembrolizumab in Patients With Noncolorectal High Microsatellite Instability/Mismatch Repair-Deficient Cancer: Results From the Phase II KEYNOTE-158 Study. J Clin Oncol 38 (1): 1-10, 2020.</Citation></ReferenceSection></SummarySection><SummarySection id="_112"><SectMetaData><SectionType>Changes to summary</SectionType></SectMetaData><Title>Actualizaciones más recientes a este resumen (03/28/2025)</Title><Para id="_113">Los resúmenes del PDQ con información sobre el cáncer se revisan con regularidad y se actualizan a medida que se obtiene nueva información.  Esta sección describe los cambios más recientes introducidos en este resumen a partir de la fecha arriba indicada.</Para><Para id="_114"><Strong><SummaryRef href="CDR0000256710#_3" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Información general sobre el cáncer de vesícula biliar</SummaryRef></Strong></Para><Para id="_115">Se actualizaron las  <SummaryRef href="CDR0000256710#_5" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">estadísticas</SummaryRef> con el número estimado de casos nuevos y defunciones para 2025 (se citó a la American Cancer Society como referencia 1).</Para><Para id="_124"><Strong><SummaryRef href="CDR0000256710#_50" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Tratamiento del cáncer de vesícula biliar irresecable, metastásico o recidivante</SummaryRef></Strong></Para><Para id="_116">Se revisó el <SummaryRef href="CDR0000256710#_90" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">texto</SummaryRef> sobre los resultados del estudio TOPAZ-1 en el que se incluyeron 685 pacientes con cáncer biliar irresecable localmente avanzado, recidivante o metastásico y sin tratamiento previo. Los pacientes se asignaron de manera aleatoria a recibir durvalumab o placebo con cisplatino y gemcitabina seguido de durvalumab o placebo de mantenimiento (se citó a Oh et al. como referencia 12).</Para><Para id="_disclaimerHP_3">El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">Consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> es responsable de la redacción y actualización de este resumen y mantiene independencia editorial respecto del NCI. El resumen refleja una revisión independiente de la bibliografía médica y no representa las políticas del NCI ni de los NIH. Para obtener más  información sobre las políticas relativas a los resúmenes y la función de los  consejos editoriales  del PDQ responsables de su actualización, consultar <SummaryRef href="CDR0000256710#_AboutThis_1" url="/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">Información sobre este resumen del PDQ</SummaryRef> e   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq">Información del PDQ® sobre el cáncer dirigida a profesionales de la salud</ExternalRef>.</Para></SummarySection><SummarySection id="_AboutThis_1"><Title>Información sobre este resumen del PDQ</Title><SummarySection id="_AboutThis_2"><Title>Propósito de este resumen</Title><Para id="_AboutThis_3">Este resumen de información del PDQ sobre el cáncer dirigido a profesionales de la salud proporciona información integral revisada por expertos y basada en la evidencia  sobre el tratamiento del cáncer de vesícula biliar. El objetivo es servir como fuente de información y ayuda para los profesionales clínicos  durante la atención de pacientes. No  ofrece pautas ni recomendaciones formales para tomar decisiones relacionadas con la atención sanitaria.</Para></SummarySection><SummarySection id="_AboutThis_21"><Title>Revisores y actualizaciones</Title><Para id="_AboutThis_22">El   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef>, que mantiene independencia editorial respecto del  Instituto Nacional del Cáncer (NCI), revisa este resumen de manera periódica y, en caso necesario,   lo actualiza. Este resumen es el resultado de una revisión bibliográfica independiente y no constituye una declaración de política del NCI ni de los Institutos Nacionales de la Salud (NIH).</Para><Para id="_AboutThis_26">Cada mes, los integrantes de este consejo revisan los artículos  publicados recientemente para determinar lo siguiente:</Para><ItemizedList id="_AboutThis_23" Style="bullet"><ListItem>Si el artículo se debe analizar en una reunión del consejo.</ListItem><ListItem>Si conviene añadir texto acerca del artículo.</ListItem><ListItem>Si se debe reemplazar o actualizar un artículo que ya se citó.</ListItem></ItemizedList><Para id="_AboutThis_24">Los cambios en los resúmenes se deciden mediante consenso de los integrantes del consejo después de evaluar la solidez de la evidencia de los artículos publicados y determinar la forma de incorporar el artículo en el resumen.</Para><Para>Los revisores principales del sumario sobre Tratamiento del cáncer de vesícula biliar son:</Para><ItemizedList Style="bullet"><ListItem>Amit Chowdhry, MD, PhD (University of Rochester Medical Center)</ListItem><ListItem>Leon Pappas, MD, PhD (Massachusetts General Hospital)</ListItem><ListItem>Ari Seifter, MD (Advocate Health Care)</ListItem></ItemizedList><Para id="_AboutThis_25">Cualquier comentario o pregunta sobre el contenido de este resumen se debe enviar al   <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.  Por favor, no enviar preguntas o comentarios directamente a los integrantes del consejo, ya que no responderán consultas de manera individual.</Para></SummarySection><SummarySection id="_AboutThis_9"><Title>Niveles de evidencia</Title><Para id="_AboutThis_10">Algunas de las referencias bibliográficas de este resumen se acompañan del nivel de evidencia. El propósito de esto es ayudar al lector a evaluar la solidez de la evidencia que respalda el uso de  ciertas intervenciones  o abordajes. El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> emplea un <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">sistema de jerarquización formal</SummaryRef> para asignar los niveles de evidencia científica.</Para></SummarySection><SummarySection id="_AboutThis_11"><Title>Permisos para el uso de este resumen</Title><Para id="_AboutThis_12">PDQ (Physician Data Query) es una marca registrada. Se autoriza el uso del texto  de los documentos del PDQ; sin embargo, no se podrá identificar como un resumen de información sobre cáncer del PDQ del  NCI,  salvo que el resumen se reproduzca en su totalidad y se actualice de manera periódica. Por otra parte, se permitirá que un autor  escriba una oración como “En el resumen del PDQ  del NCI de información sobre la prevención del cáncer de mama se describen, de manera concisa, los siguientes riesgos: [incluir fragmento del resumen]”.</Para><Para id="_AboutThis_13">Se sugiere citar la referencia bibliográfica de este resumen del PDQ de la siguiente forma:</Para><Para id="_AboutThis_14">PDQ® sobre el tratamiento para adultos. PDQ Tratamiento del cáncer de vesícula biliar. Bethesda, MD: National Cancer Institute. Actualización:  &lt;MM/DD/YYYY&gt;. Disponible en: <ExternalRef xref="https://www.cancer.gov/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq">https://www.cancer.gov/espanol/tipos/vesicula-biliar/pro/vesicula-biliar-tratamiento-pdq</ExternalRef>.  Fecha de acceso: &lt;MM/DD/YYYY&gt;. </Para><Para id="_AboutThis_15">Las imágenes  en este resumen se reproducen  con autorización del autor, el artista o la  editorial para uso exclusivo en los resúmenes del PDQ. La utilización de las imágenes fuera del  PDQ requiere la autorización del propietario, que el Instituto Nacional del Cáncer no  puede otorgar. Para obtener más información sobre el uso de las ilustraciones de este resumen o de  otras imágenes relacionadas con el cáncer, consultar <ExternalRef xref="https://visualsonline.cancer.gov/">Visuals Online</ExternalRef>, una colección de más de 2000 imágenes científicas.</Para></SummarySection><SummarySection id="_AboutThis_16"><Title>Cláusula sobre el descargo de responsabilidad</Title><Para id="_AboutThis_17">Según la solidez de la evidencia, las opciones de tratamiento se clasifican  como “estándar” o “en evaluación clínica”. Estas clasificaciones no  se deben utilizar para justificar decisiones sobre reembolsos de seguros. Para obtener más información  sobre la cobertura de seguros, consultar la página <ExternalRef xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer">Manejo de la atención del cáncer</ExternalRef> en Cancer.gov/espanol.</Para></SummarySection><SummarySection id="_AboutThis_19"><Title>Comuníquese con el Instituto Nacional del Cáncer</Title><Para id="_AboutThis_20">Para obtener más información sobre las opciones para comunicarse con el NCI, incluso la dirección de correo electrónico, el número telefónico o el chat, consultar la página del <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.</Para></SummarySection></SummarySection><TranslationOf ref="CDR0000062904"/><DateLastModified>2025-03-28</DateLastModified></Summary>

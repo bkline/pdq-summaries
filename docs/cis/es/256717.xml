@@ -1,0 +1,715 @@
+<Summary id="CDR0000256717" LegacyPDQID=""><SummaryMetaData><SummaryType>Treatment</SummaryType><SummaryAudience>Health professionals</SummaryAudience><SummaryLanguage>Spanish</SummaryLanguage><SummaryDescription>Resumen de información revisada por expertos acerca del tratamiento del timoma y carcinoma tímico en adultos.</SummaryDescription><SummaryURL xref="https://www.cancer.gov/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Timoma y carcinoma tímico (PDQ®): Tratamiento</SummaryURL><SummaryToggleURL xref="https://www.cancer.gov/espanol/tipos/timoma/paciente/tratamiento-timoma-pdq">Timoma y carcinoma tímico (PDQ®): Tratamiento</SummaryToggleURL><SummaryEditorialBoard ref="CDR0000028327">PDQ Adult Treatment Editorial Board</SummaryEditorialBoard><MainTopics><TermRef ref="CDR0000038797">thymoma and thymic carcinoma</TermRef></MainTopics><SummaryAbstract>
+      <Para id="_276">This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of adult thymoma and thymic carcinoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions.</Para>
+      <Para id="_277">This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board, which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).</Para>
+    </SummaryAbstract><SummaryKeyWords><SummaryKeyWord>thymoma and thymic carcinoma</SummaryKeyWord></SummaryKeyWords></SummaryMetaData><SummaryTitle>Tratamiento del timoma y carcinoma tímico (PDQ®)–Versión para profesionales de salud</SummaryTitle><AltTitle TitleType="Browser">Tratamiento del timoma y carcinoma tímico (PDQ®)</AltTitle><AltTitle TitleType="CancerTypeHomePage">Tratamiento del timoma y carcinoma tímico</AltTitle><SummarySection id="_1"><SectMetaData><SpecificDiagnosis ref="CDR0000038797">thymoma and thymic carcinoma</SpecificDiagnosis><SectionType>Prognosis--legacy</SectionType></SectMetaData><Title>Información general sobre el tratamiento del timoma y el carcinoma tímico</Title><Para id="_278">El timoma y el carcinoma tímico (en conjunto llamados tumores epiteliales de timo [TET]) son tumores relativamente infrecuentes que surgen en el timo. Aunque son infrecuentes, los TET son los tumores más comunes en el mediastino anterior de adultos. Los TET, en especial los timomas, exhiben características biológicas únicas que se relacionan con enfermedades paraneoplásicas autoinmunitarias. Estos tumores tienen la carga mutacional más baja de todos los tumores sólidos en adultos; todos exhiben potencial maligno y pueden metastatizar. El comportamiento clínico de los TET oscila desde un crecimiento relativamente lento hasta un tipo de gran malignidad, lo que implica una variedad de desenlaces clínicos.</Para><Para id="_699">La cirugía es el tratamiento principal, en especial, para la enfermedad en estadio temprano. La terapia multimodal, incluso la quimioterapia y la radioterapia, se usa para tratar la enfermedad local avanzada, y la terapia sistémica solo se indica para los TET metastásicos.<Reference refidx="1"/></Para><SummarySection id="_261"><Title>Incidencia y mortalidad</Title><Para id="_262">Los TET son tumores relativamente raros que representan del 0,2 % al 1,5 % de todas las neoplasias malignas.<Reference refidx="2"/> La incidencia general de timoma es de 0,13 casos por 100 000 años persona según los datos del National Cancer Institute Surveillance, Epidemiology, and End Results (SEER) Program.<Reference refidx="3"/> Los carcinomas tímicos representan alrededor del 20 % de todos los TET.<Reference refidx="4"/> La tasa de supervivencia a 5 años para los pacientes con carcinoma localmente avanzado inoperable es del 36 %, y la tasa de supervivencia a 5 años para los pacientes con timoma y carcinoma tímico metastásicos es del 24 %.<Reference refidx="5"/></Para></SummarySection><SummarySection id="_181"><Title>Enfermedades paraneoplásicas autoinmunitarias relacionadas con el timoma y el carcinoma tímico</Title><Para id="_183">Las enfermedades paraneoplásicas autoinmunitarias se relacionan con el timoma, pero casi nunca con los carcinomas tímicos.<Reference refidx="6"/><Reference refidx="7"/><Reference refidx="8"/><Reference refidx="9"/></Para><Para id="_585">La presencia de enfermedades paraneoplásicas autoinmunitarias en pacientes con timoma se relaciona con una selección defectuosa negativa de células T autorreactivas. La disminución en la expresión de <GeneName>AIRE</GeneName>, un gen regulador inmunitario, contribuye con este proceso.<Reference refidx="10"/> La enfermedad paraneoplásica relacionada con timoma también implica una alteración en los subgrupos de células T en circulación.<Reference refidx="11"/><Reference refidx="12"/> La anomalía principal de las células T quizás esté relacionada con la adquisición de un fenotipo CD45RA+ en las células T CD4+ vírgenes durante la timopoyesis terminal intratumoral, seguida de expulsión de estas células T CD4+ hacia la circulación.<Reference refidx="13"/></Para><Para id="_586">Además de las imperfecciones en las células T, se ha observado linfopenia de células B y la presencia de anticuerpos contra citocinas en pacientes con inmunodeficiencia relacionada con un timoma, lo que conlleva aumento del riesgo de una infección oportunista.<Reference refidx="6"/><Reference refidx="14"/><Reference refidx="15"/></Para><Para id="_587">Las enfermedades paraneoplásicas autoinmunitarias más comunes relacionadas con timoma son la miastenia grave, la hipogammaglobulinemia y la aplasia pura de glóbulos rojos.</Para><ItemizedList id="_184" Style="bullet">
+        <ListItem>La miastenia grave es la enfermedad autoinmunitaria que de manera más común se relaciona con un timoma. En las series notificadas, la miastenia grave se diagnostica en alrededor del 30 % al 65 % de los pacientes con timoma.<Reference refidx="7"/><Reference refidx="16"/><Reference refidx="17"/> Los pacientes con miastenia grave relacionada con un timoma producen autoanticuerpos contra una variedad de antígenos neuromusculares, en especial, el receptor de la acetilcolina y la titina, un antígeno del músculo estriado.<Reference refidx="18"/><Reference refidx="19"/></ListItem>
+        <ListItem>La hipogammaglobulinemia relacionada con un timoma (síndrome de Good) se presenta en el 5 % al 20 % y la aplasia pura de glóbulos rojos relacionada con un timoma se presenta en alrededor del 4 %.<Reference refidx="7"/><Reference refidx="14"/></ListItem>
+      </ItemizedList><Para id="_185">Muchas otras enfermedades paraneoplásicas autoinmunitarias de todos los sistemas orgánicos se relacionan con TET.<Reference refidx="7"/><Reference refidx="9"/></Para><Para id="_634">Los pacientes con timoma y miastenia grave u otras enfermedades paraneoplásicas por lo general reciben el diagnóstico de enfermedad en estadio temprano y es más probable que se sometan a extirpación quirúrgica completa que aquellos sin enfermedades paraneoplásicas autoinmunitarias.<Reference refidx="9"/><Reference refidx="20"/> Es posible que la timectomía no mejore de manera significativa la evolución de la enfermedad paraneoplásica autoinmunitaria relacionada con un timoma en todos los casos.<Reference refidx="21"/><Reference refidx="22"/> La presencia de una enfermedad paraneoplásica autoinmunitaria al parecer tampoco es un factor pronóstico independiente en los pacientes con TET.<Reference refidx="9"/></Para></SummarySection><SummarySection id="_284"><Title>Características clínicas</Title><Para id="_285">La mayoría de los pacientes con timoma o carcinoma tímico son asintomáticos en el momento del diagnóstico.<Reference refidx="23"/> Cerca de un tercio de los pacientes exhiben síntomas causados por el tumor subyacente o por las enfermedades paraneoplásicas autoinmunitarias relacionadas. Los signos y síntomas característicos son tos, disnea, dolor torácico, ronquera, parálisis del nervio frénico y signos indicativos de síndrome de la vena cava superior.<Reference refidx="24"/></Para></SummarySection><SummarySection id="_287"><Title>Evaluación diagnóstica y estadificación</Title><Para id="_289">Los TET se diferencian de varias neoplasias extratímicas que se manifiestan como masas mediastínicas como las siguientes:<Reference refidx="25"/><Reference refidx="26"/></Para><ItemizedList id="_290" Style="bullet">
+        <ListItem>Tumores de células germinativas.</ListItem>
+        <ListItem>Linfomas.</ListItem>
+        <ListItem>Tumores de estroma.</ListItem>
+        <ListItem>Tumores metastásicos.</ListItem>
+        <ListItem>Cáncer de pulmón.</ListItem>
+      </ItemizedList><Para id="_635">Las afecciones tímicas no neoplásicas que a veces también se manifiestan con masas mediastínicas son la hiperplasia tímica y los quistes tímicos.</Para><Para id="_300">Es posible que se usen las siguientes pruebas y procedimientos para el diagnóstico y la estadificación del timoma y el carcinoma tímico:</Para><ItemizedList id="_301" Style="bullet">
+        <ListItem>
+          <Strong>Examen físico y antecedentes.</Strong></ListItem>
+        <ListItem><Strong>Radiografía del tórax.</Strong> Alrededor del 50 % de los timomas se diagnostican cuando están localizados dentro de la cápsula del timo y no han infiltrado los tejidos circundantes.<Reference refidx="23"/></ListItem>
+        <ListItem><Strong>Tomografía computarizada (TC).</Strong> La TC con contraste intravenoso es útil para el diagnóstico y la estadificación clínica del timoma. La TC por lo general es exacta a la hora de determinar el tamaño del tumor, la ubicación y la invasión a vasos, pericardio y pulmones.<Reference refidx="27"/><Reference refidx="28"/><Para id="_481">La apariencia del tumor en la TC quizás sea indicativa del tipo histológico del tumor.<Reference refidx="25"/> En un estudio retrospectivo de 53 pacientes sometidos a timectomía por TET, la TC indicó que la presencia de contornos homogéneos y una forma redondeada fueron más indicativos de timomas de tipo A, y los contornos irregulares fueron más indicativos de carcinomas tímicos. La calcificación fue un indicador de timomas de tipo B. No obstante, en este estudio la TC resultó tener un valor limitado para diferenciar los timomas de tipo AB, B1, B2 y B3.<Reference refidx="29"/></Para></ListItem>
+        <ListItem><Strong>Tomografía por emisión de positrones (TEP).</Strong> Se notificó el uso de TEP con flúor F 18-fludesoxiglucosa (18F-FDG) y TC con emisión de fotón único y talio en una serie pequeña sobre diagnóstico y evaluación de los desenlaces terapéuticos del carcinoma tímico.<Reference refidx="30"/><Reference refidx="31"/><Reference refidx="32"/><Reference refidx="33"/> En dos series pequeñas se notificó que la captación de 18F-FDG se relacionó con la capacidad de invasión del carcinoma tímico.<Reference refidx="32"/><Reference refidx="33"/> Esto plantea la posibilidad de utilizar la TEP con 18F-FDG para el diagnóstico, la planificación del tratamiento y la vigilancia de la recidiva. Quedan por definirse la sensibilidad y la especificidad en las decisiones clínicas de tratamiento.</ListItem>
+        <ListItem><Strong>Imágenes por resonancia magnética (IRM).</Strong> Las IRM sirven para diferenciar los TET de otras lesiones mediastínicas benignas y malignas. El desplazamiento químico de la IRM ayuda a diferenciar los TET de la hiperplasia tímica y el timo normal. La IRM cardíaca es la modalidad preferida para evaluar la presencia de compromiso del miocardio. Una IRM a veces permite identificar compromiso del nervio frénico y se considera superior a la TC para evaluar la invasión en la pared torácica.<Reference refidx="34"/></ListItem>
+      </ItemizedList><Para id="_305">El carcinoma tímico a veces metastatiza a los ganglios linfáticos regionales, los huesos, el hígado o los pulmones. Por lo anterior, quizás se justifica la evaluación de los sitios de metástasis.</Para></SummarySection><SummarySection id="_216"><Title>Factores pronósticos y pronóstico</Title><Para id="_283">La clasificación patológica para los tumores de timo de la Organización Mundial de la Salud (OMS) y el estadio se correlacionan con el pronóstico.<Reference refidx="25"/> El grado de invasión o el estadio tumoral por lo general se consideran los indicadores más importantes de la supervivencia general (SG).<Reference refidx="27"/><Reference refidx="35"/><Reference refidx="36"/></Para><SummarySection id="_416"><Title>Timoma</Title><Para id="_417">La clasificación histológica del timoma no es suficiente para distinguir los timomas biológicamente poco activos de los timomas con comportamiento clínico maligno. Aunque algunos tipos histológicos de timoma tienen más probabilidades de ser muy malignos desde el punto de vista clínico, el resultado del tratamiento y la probabilidad de recidiva se correlacionan más con las propiedades invasivas o metastatizantes de las células tumorales.<Reference refidx="25"/><Reference refidx="35"/> Por lo tanto, algunos timomas que son relativamente benignos según los criterios histológicos quizás exhiban un comportamiento clínico muy maligno. Es posible combinar evaluaciones independientes de la capacidad de invasión (usando criterios de estadificación) y el tipo histológico del tumor para predecir la conducta clínica de un timoma.</Para><Para id="_418">La clasificación histológica de los timomas y el estadio quizás tengan importancia pronóstica independiente.<Reference refidx="35"/><Reference refidx="36"/> En algunas series se notificó la importancia pronóstica de las clasificaciones de la OMS. En 2 análisis retrospectivos numerosos, uno de 100 casos de timoma y otro de 178 casos de timoma, se observó que la supervivencia sin enfermedad a 10 años es variable (consultar el <SummaryRef href="CDR0000256717#_493" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadro 1</SummaryRef>).<Reference refidx="37"/><Reference refidx="38"/> En estas series, el estadio y la extirpación completa fueron factores pronósticos independientes significativos. En otro análisis se informó de 273 pacientes con timoma tratados durante un periodo de 44 años. Consultar el <SummaryRef href="CDR0000256717#_493" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadro 1</SummaryRef> para obtener las tasas de supervivencia a 20 años.<Reference refidx="35"/></Para><Table id="_493">
+          <Title>Cuadro 1.  Supervivencia sin enfermedad de pacientes con timoma según el tipo histológico</Title>
+          <TGroup Cols="7">
+            <ColSpec ColName="col1" ColNum="1" ColWidth="18.37%"/>
+            <ColSpec ColName="col2" ColNum="2" ColWidth="10.15%"/>
+            <ColSpec ColName="col3" ColNum="3" ColWidth="14.41%"/>
+            <ColSpec ColName="col4" ColNum="4" ColWidth="14.01%"/>
+            <ColSpec ColName="col5" ColNum="5" ColWidth="14.21%"/>
+            <ColSpec ColName="col6" ColNum="6" ColWidth="14.21%"/>
+            <ColSpec ColName="col7" ColNum="7" ColWidth="14.61%"/>
+            <THead>
+              <Row>
+                <entry Align="Center">Estudio</entry>
+                <entry Align="Center" NameEnd="col7" NameSt="col2"><SummaryRef href="CDR0000256717#_4" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Subtipo histológico</SummaryRef></entry>
+              </Row>
+              <Row>
+                <entry/>
+                <entry Align="Center">A</entry>
+                <entry Align="Center">AB</entry>
+                <entry Align="Center">B1</entry>
+                <entry Align="Center">B2</entry>
+                <entry Align="Center">B3</entry>
+                <entry Align="Center">C</entry>
+              </Row>
+            </THead>
+            <TFoot>
+              <Row>
+                <entry NameEnd="col7" NameSt="col1"><Superscript>a</Superscript>Supervivencia sin enfermedad (SSE) a 10 años.</entry>
+              </Row>
+              <Row>
+                <entry NameEnd="col7" NameSt="col1"><Superscript>b</Superscript>SSE a 20 años.</entry>
+              </Row>
+            </TFoot>
+            <TBody>
+              <Row>
+                <entry><Reference refidx="37"/> (N = 100)<Superscript>a</Superscript></entry>
+                <entry>100 %</entry>
+                <entry>100 %</entry>
+                <entry>83 %</entry>
+                <entry>83 %</entry>
+                <entry>36 %</entry>
+                <entry>28 %</entry>
+              </Row>
+              <Row>
+                <entry><Reference refidx="38"/> (N = 178)<Superscript>a</Superscript></entry>
+                <entry>95 %</entry>
+                <entry>90 %</entry>
+                <entry>85 %</entry>
+                <entry>71 %</entry>
+                <entry>40 %</entry>
+                <entry/>
+              </Row>
+              <Row>
+                <entry><Reference refidx="35"/> (N = 273)<Superscript>b</Superscript></entry>
+                <entry>100 %</entry>
+                <entry>87 %</entry>
+                <entry>91 %</entry>
+                <entry>59 %</entry>
+                <entry>36 %</entry>
+                <entry/>
+              </Row>
+            </TBody>
+          </TGroup>
+        </Table></SummarySection><SummarySection id="_420"><Title>Carcinoma tímico</Title><Para id="_421">Los carcinomas tímicos a menudo están en un estadio avanzado en el momento del diagnóstico.<Reference refidx="39"/><Reference refidx="40"/> Los carcinomas tímicos tienen una mayor propensión a la invasión capsular, las metástasis y la recidiva que los timomas. Los pacientes con carcinoma tímico tienen una supervivencia más precaria que los pacientes con timoma (tasa de supervivencia a 5 años, 30–50 %).<Reference refidx="41"/> En un estudio retrospectivo de 40 pacientes con carcinoma tímico, las tasas de SG fueron del 38 % a los 5 años y del 28 % a los 10 años.<Reference refidx="39"/> En otro estudio retrospectivo se evaluaron 43 casos de carcinoma tímico y se encontró que el pronóstico fue dependiente solo de la invasión tumoral de la arteria braquiocefálica.<Reference refidx="40"/></Para></SummarySection></SummarySection><SummarySection id="_219"><Title>Seguimiento después del tratamiento del timoma</Title><Para id="_325">El timoma se relacionó con un aumento del riesgo de segundas neoplasias malignas. Debido a este riesgo y a que el timoma puede recidivar después de un intervalo prolongado, se debe considerar la vigilancia durante el resto de la vida.<Reference refidx="22"/> La medición de la concentración de interferón α y anticuerpos contra la interleucina-2 ayuda a identificar a los pacientes con recidiva de timoma.<Reference refidx="42"/></Para><Para id="_292">En un estudio de 849 casos desde 1973 hasta 1998, se encontró exceso de riesgo de linfoma no Hodgkin y sarcoma de tejido blando después de un timoma.<Reference refidx="43"/> El riesgo de segundas neoplasias malignas no se relacionó con la timectomía, la radioterapia o los antecedentes de miastenia grave.<Reference refidx="22"/><Reference refidx="43"/><Reference refidx="44"/></Para></SummarySection><ReferenceSection><Citation idx="1" PMID="22105817">Kelly RJ, Petrini I, Rajan A, et al.: Thymic malignancies: from clinical management to targeted therapies. J Clin Oncol 29 (36): 4820-7, 2011.</Citation><Citation idx="2" PMID="2380761" MedlineID="90339104">Fornasiero A, Daniele O, Ghiotto C, et al.: Chemotherapy of invasive thymoma. J Clin Oncol 8 (8): 1419-23, 1990.</Citation><Citation idx="3" PMID="20859116">Engels EA: Epidemiology of thymoma and associated malignancies. J Thorac Oncol 5 (10 Suppl 4): S260-5, 2010.</Citation><Citation idx="4" PMID="28493800">Carter BW, Benveniste MF, Madan R, et al.: IASLC/ITMIG Staging System and Lymph Node Map for Thymic Epithelial Neoplasms. Radiographics 37 (3): 758-776, 2017 May-Jun.</Citation><Citation idx="5" PMID="12963221">Kondo K, Monden Y: Therapy for thymic epithelial tumors: a clinical study of 1,320 patients from Japan. Ann Thorac Surg 76 (3): 878-84; discussion 884-5, 2003.</Citation><Citation idx="6" PMID="9806367" MedlineID="99021204">Levy Y, Afek A, Sherer Y, et al.: Malignant thymoma associated with autoimmune diseases: a retrospective study and review of the literature. Semin Arthritis Rheum 28 (2): 73-9, 1998.</Citation><Citation idx="7" PMID="20380583">Marx A, Willcox N, Leite MI, et al.: Thymoma and paraneoplastic myasthenia gravis. Autoimmunity 43 (5-6): 413-27, 2010.</Citation><Citation idx="8" PMID="26408958">Bernard C, Frih H, Pasquet F, et al.: Thymoma associated with autoimmune diseases: 85 cases and literature review. Autoimmun Rev 15 (1): 82-92, 2016.</Citation><Citation idx="9" PMID="29191778">Padda SK, Yao X, Antonicelli A, et al.: Paraneoplastic Syndromes and Thymic Malignancies: An Examination of the International Thymic Malignancy Interest Group Retrospective Database. J Thorac Oncol 13 (3): 436-446, 2018.</Citation><Citation idx="10" PMID="21574164">Kisand K, Lilic D, Casanova JL, et al.: Mucocutaneous candidiasis and autoimmunity against cytokines in APECED and thymoma patients: clinical and pathogenetic implications. Eur J Immunol 41 (6): 1517-27, 2011.</Citation><Citation idx="11" PMID="11090072" MedlineID="20541521">Hoffacker V, Schultz A, Tiesinga JJ, et al.: Thymomas alter the T-cell subset composition in the blood: a potential mechanism for thymoma-associated autoimmune disease. Blood 96 (12): 3872-9, 2000.</Citation><Citation idx="12" PMID="11456312" MedlineID="21349144">Buckley C, Douek D, Newsom-Davis J, et al.: Mature, long-lived CD4+ and CD8+ T cells are generated by the thymoma in myasthenia gravis. Ann Neurol 50 (1): 64-72, 2001.</Citation><Citation idx="13" PMID="12070022" MedlineID="22065078">Ströbel P, Helmreich M, Menioudakis G, et al.: Paraneoplastic myasthenia gravis correlates with generation of mature naive CD4(+) T cells in thymomas. Blood 100 (1): 159-66, 2002.</Citation><Citation idx="14" PMID="25426445">Martinez B, Browne SK: Good syndrome, bad problem. Front Oncol 4: 307, 2014.</Citation><Citation idx="15" PMID="20716769">Burbelo PD, Browne SK, Sampaio EP, et al.: Anti-cytokine autoantibodies are associated with opportunistic infection in patients with thymic neoplasia. Blood 116 (23): 4848-58, 2010.</Citation><Citation idx="16" PMID="8231276" MedlineID="94048258">Morgenthaler TI, Brown LR, Colby TV, et al.: Thymoma. Mayo Clin Proc 68 (11): 1110-23, 1993.</Citation><Citation idx="17" PMID="4602050" MedlineID="74277541">Souadjian JV, Enriquez P, Silverstein MN, et al.: The spectrum of diseases associated with thymoma. Coincidence or syndrome? Arch Intern Med 134 (2): 374-9, 1974.</Citation><Citation idx="18" PMID="9371941">Voltz RD, Albrich WC, Nägele A, et al.: Paraneoplastic myasthenia gravis: detection of anti-MGT30 (titin) antibodies predicts thymic epithelial tumor. Neurology 49 (5): 1454-7, 1997.</Citation><Citation idx="19" PMID="8351016">Gautel M, Lakey A, Barlow DP, et al.: Titin antibodies in myasthenia gravis: identification of a major immunogenic region of titin. Neurology 43 (8): 1581-5, 1993.</Citation><Citation idx="20" PMID="15620947">Kondo K, Monden Y: Thymoma and myasthenia gravis: a clinical study of 1,089 patients from Japan. Ann Thorac Surg 79 (1): 219-24, 2005.</Citation><Citation idx="21" PMID="11465178" MedlineID="21357722">Budde JM, Morris CD, Gal AA, et al.: Predictors of outcome in thymectomy for myasthenia gravis. Ann Thorac Surg 72 (1): 197-202, 2001.</Citation><Citation idx="22" PMID="12503581" MedlineID="22391339">Evoli A, Minisci C, Di Schino C, et al.: Thymoma in patients with MG: characteristics and long-term outcome. Neurology 59 (12): 1844-50, 2002.</Citation><Citation idx="23" PMID="12601482" MedlineID="22488492">Schmidt-Wolf IG, Rockstroh JK, Schüller H, et al.: Malignant thymoma: current status of classification and multimodality treatment. Ann Hematol 82 (2): 69-76, 2003.</Citation><Citation idx="24" PMID="19381821">Rajan A, Giaccone G: Treatment of advanced thymoma and thymic carcinoma. Curr Treat Options Oncol 9 (4-6): 277-87, 2008.</Citation><Citation idx="25">Rosai J: Histological Typing of Tumours of the Thymus. Springer-Verlag, 2nd ed., 1999.</Citation><Citation idx="26" PMID="10404501" MedlineID="99332580">Strollo DC, Rosado-de-Christenson ML: Tumors of the thymus. J Thorac Imaging 14 (3): 152-71, 1999.</Citation><Citation idx="27" PMID="12585792" MedlineID="22473217">Sperling B, Marschall J, Kennedy R, et al.: Thymoma: a review of the clinical and pathological findings in 65 cases. Can J Surg 46 (1): 37-42, 2003.</Citation><Citation idx="28" PMID="3420555" MedlineID="88337136">Rendina EA, Venuta F, Ceroni L, et al.: Computed tomographic staging of anterior mediastinal neoplasms. Thorax 43 (6): 441-5, 1988.</Citation><Citation idx="29" PMID="12239030" MedlineID="22224216">Tomiyama N, Johkoh T, Mihara N, et al.: Using the World Health Organization Classification of thymic epithelial neoplasms to describe CT findings. AJR Am J Roentgenol 179 (4): 881-6, 2002.</Citation><Citation idx="30" PMID="10520697">Sasaki M, Kuwabara Y, Ichiya Y, et al.: Differential diagnosis of thymic tumors using a combination of 11C-methionine PET and FDG PET. J Nucl Med 40 (10): 1595-601, 1999.</Citation><Citation idx="31" PMID="7863029">Kageyama M, Seto H, Shimizu M, et al.: Thallium-201 single photon emission computed tomography in the evaluation of thymic carcinoma. Radiat Med 12 (5): 237-9, 1994 Sep-Oct.</Citation><Citation idx="32" PMID="9853344">Adams S, Baum RP, Hertel A, et al.: Metabolic (PET) and receptor (SPET) imaging of well- and less well-differentiated tumours: comparison with the expression of the Ki-67 antigen. Nucl Med Commun 19 (7): 641-7, 1998.</Citation><Citation idx="33" PMID="8611400">Kubota K, Yamada S, Kondo T, et al.: PET imaging of primary mediastinal tumours. Br J Cancer 73 (7): 882-6, 1996.</Citation><Citation idx="34" PMID="29613961">Carter BW, Lichtenberger JP, Benveniste MF: MR Imaging of Thymic Epithelial Neoplasms. Top Magn Reson Imaging 27 (2): 65-71, 2018.</Citation><Citation idx="35" PMID="11857293" MedlineID="21845610">Okumura M, Ohta M, Tateyama H, et al.: The World Health Organization histologic classification system reflects the oncologic behavior of thymoma: a clinical study of 273 patients. Cancer 94 (3): 624-32, 2002.</Citation><Citation idx="36" PMID="12124843" MedlineID="22119393">Chen G, Marx A, Wen-Hu C, et al.: New WHO histologic classification predicts prognosis of thymic epithelial tumors: a clinicopathologic study of 200 thymoma cases from China. Cancer 95 (2): 420-9, 2002.</Citation><Citation idx="37" PMID="15063231">Kondo K, Yoshizawa K, Tsuyuguchi M, et al.: WHO histologic classification is a prognostic indicator in thymoma. Ann Thorac Surg 77 (4): 1183-8, 2004.</Citation><Citation idx="38" PMID="16009453">Rena O, Papalia E, Maggi G, et al.: World Health Organization histologic classification: an independent prognostic factor in resected thymomas. Lung Cancer 50 (1): 59-66, 2005.</Citation><Citation idx="39" PMID="12115342" MedlineID="22109416">Ogawa K, Toita T, Uno T, et al.: Treatment and prognosis of thymic carcinoma: a retrospective analysis of 40 cases. Cancer 94 (12): 3115-9, 2002.</Citation><Citation idx="40" PMID="9475524" MedlineID="98133671">Blumberg D, Burt ME, Bains MS, et al.: Thymic carcinoma: current staging does not predict prognosis. J Thorac Cardiovasc Surg 115 (2): 303-8; discussion 308-9, 1998.</Citation><Citation idx="41" PMID="15183468">Eng TY, Fuller CD, Jagirdar J, et al.: Thymic carcinoma: state of the art review. Int J Radiat Oncol Biol Phys 59 (3): 654-64, 2004.</Citation><Citation idx="42" PMID="11706095" MedlineID="21562986">Buckley C, Newsom-Davis J, Willcox N, et al.: Do titin and cytokine antibodies in MG patients predict thymoma or thymoma recurrence? Neurology 57 (9): 1579-82, 2001.</Citation><Citation idx="43" PMID="12712448" MedlineID="22597645">Engels EA, Pfeiffer RM: Malignant thymoma in the United States: demographic patterns in incidence and associations with subsequent malignancies. Int J Cancer 105 (4): 546-51, 2003.</Citation><Citation idx="44" PMID="11745297" MedlineID="21610239">Pan CC, Chen PC, Wang LS, et al.: Thymoma is associated with an increased risk of second malignancy. Cancer 92 (9): 2406-11, 2001.</Citation></ReferenceSection></SummarySection><SummarySection id="_4"><SectMetaData><SpecificDiagnosis ref="CDR0000038797">thymoma and thymic carcinoma</SpecificDiagnosis><SectionType>Cellular classification--legacy</SectionType></SectMetaData><Title>Clasificación celular y características moleculares del timoma y el carcinoma tímico</Title><Para id="_72">La clasificación histológica de los tumores epiteliales de timo (TET) se basa, en gran parte, en la tercera edición de la clasificación de la Organización Mundial de la Salud (OMS) para los tumores de pulmón, pleura, timo y corazón publicada en 2004. La cuarta edición de la clasificación de la OMS, publicada en 2015, contiene criterios diagnósticos histológicos e inmunohistoquímicos perfeccionados y es la clasificación celular de mayor aceptación para los TET.<Reference refidx="1"/><Reference refidx="2"/> Los timomas surgen del epitelio del timo y están compuestos por células epiteliales mezcladas con células T inmaduras en proporciones variables. Los carcinomas tímicos son tumores epiteliales con atipia citológica evidente sin características organotípicas (es decir, tímicas).</Para><SummarySection id="_483"><Title>Timoma</Title><Para id="_484">El componente epitelial de los timomas exhibe poca atipia evidente o no tiene atipia y conserva las características histológicas específicas del timo normal.<Reference refidx="1"/> Hay un número variable de linfocitos inmaduros no neoplásicos según el tipo histológico del timoma.</Para><Para id="_485">En los <SummaryRef href="CDR0000256717#_494" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadros 2</SummaryRef>, <SummaryRef href="CDR0000256717#_495" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">3</SummaryRef>, <SummaryRef href="CDR0000256717#_496" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">4</SummaryRef>, <SummaryRef href="CDR0000256717#_497" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">5</SummaryRef> y <SummaryRef href="CDR0000256717#_498" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">6</SummaryRef> se describen las características morfológicas, moleculares y clínicas de los subtipos de timomas.</Para><Table id="_494">
+        <Title>Cuadro 2.  Características del timoma de subtipo A</Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1">SG = supervivencia general.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>Porcentaje del subtipo histológico de todos los timomas en el estudio citado.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Alrededor del 4–7 %.</entry>
+            </Row>
+            <Row>
+              <entry>Relacionado con miastenia grave.<Reference refidx="3"/></entry>
+              <entry>Alrededor del 17 %.</entry>
+            </Row>
+            <Row>
+              <entry>Características morfológicas.<Reference refidx="2"/></entry>
+              <entry>Formado por células epiteliales fusiformes simples (por lo menos focalmente) con escasez o ausencia de células T inmaduras (TdT+) en todo el tumor.</entry>
+            </Row>
+            <Row>
+              <entry>Características moleculares.<Reference refidx="5"/><Reference refidx="6"/></entry>
+              <entry>Cuando se presentan anormalidades cromosómicas, a veces se correlacionan con una evolución clínica de gran malignidad; por ejemplo las siguientes: pérdida del cromosoma 6q25, pérdida del cromosoma 6p23 (<GeneName>FOXC1</GeneName>), sobreexpresión de C19MC, variantes de <GeneName>GTF2I</GeneName>, variantes de <GeneName>HRAS</GeneName> (G13V) y aumento de miR-515.</entry>
+            </Row>
+            <Row>
+              <entry>Pronóstico y supervivencia.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Excelente, con una tasa de SG a ≥15 años del 100 %.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_495">
+        <Title>Cuadro 3.  Características del timoma de subtipo AB</Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1">SG = supervivencia general.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>Porcentaje del subtipo histológico de todos los timomas en el estudio citado.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Alrededor del 28–34 %.</entry>
+            </Row>
+            <Row>
+              <entry>Relacionado con miastenia grave.<Reference refidx="3"/></entry>
+              <entry>Alrededor del 16 %.</entry>
+            </Row>
+            <Row>
+              <entry>Características morfológicas.<Reference refidx="2"/></entry>
+              <entry>Formado por células epiteliales fusiformes simples (por lo menos focalmente) con abundancia de células T inmaduras (TdT+) focalmente o por todo el tumor.</entry>
+            </Row>
+            <Row>
+              <entry>Características moleculares.<Reference refidx="5"/><Reference refidx="6"/></entry>
+              <entry>Incluye la pérdida del cromosoma 6q25, pérdida del cromosoma 6p23 (<GeneName>FOXC1</GeneName>), pérdida del cromosoma 7p15, sobreexpresión de C19MC y variantes de <GeneName>GTF2I</GeneName>.</entry>
+            </Row>
+            <Row>
+              <entry>Pronóstico y supervivencia.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Buena, tasa de SG ≥15 años de alrededor del 90 %.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_496">
+        <Title>Cuadro 4.  Características del timoma de subtipo B1</Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1">SG = supervivencia general.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>Porcentaje del subtipo histológico de todos los timomas en el estudio citado.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Alrededor del 9–20 %.</entry>
+            </Row>
+            <Row>
+              <entry>Relacionado con miastenia grave.<Reference refidx="3"/></entry>
+              <entry>Alrededor del 57 %.</entry>
+            </Row>
+            <Row>
+              <entry>Características morfológicas.<Reference refidx="2"/></entry>
+              <entry>Los tumores exhiben una arquitectura tímica y características citológicas de abundancia de células T inmaduras, áreas de diferenciación medular (islas medulares) y escasez de células epiteliales poligonales o dendríticas sin conglomerados (es decir, &lt;3 células epiteliales contiguas).</entry>
+            </Row>
+            <Row>
+              <entry>Características moleculares.<Reference refidx="5"/></entry>
+              <entry>Incluye la pérdida de los cromosomas 1p, 2q, 3q, 6q.</entry>
+            </Row>
+            <Row>
+              <entry>Pronóstico y supervivencia.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Buena, tasa de SG ≥20 años de alrededor del 90 %.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_497">
+        <Title>Cuadro 5.  Características del timoma de subtipo B2</Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1">SG = supervivencia general.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>Porcentaje del subtipo histológico de todos los timomas en el estudio citado.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Alrededor del 20–36 %.</entry>
+            </Row>
+            <Row>
+              <entry>Relacionado con miastenia grave.<Reference refidx="3"/></entry>
+              <entry>Alrededor del 71 %.</entry>
+            </Row>
+            <Row>
+              <entry>Características morfológicas.<Reference refidx="2"/></entry>
+              <entry>Tumores compuestos por cantidades altas de células epiteliales dendríticas o poligonales aisladas o en conglomerados entremezcladas con abundantes células T inmaduras.</entry>
+            </Row>
+            <Row>
+              <entry>Características moleculares.<Reference refidx="5"/></entry>
+              <entry>Incluye la pérdida del cromosoma 6q25, pérdida del cromosoma 6p23 (<GeneName>FOXC1</GeneName>), ganancia del cromosoma 1q y variantes de <GeneName>KRAS</GeneName> (G12A).</entry>
+            </Row>
+            <Row>
+              <entry>Pronóstico y supervivencia.<Reference refidx="3"/></entry>
+              <entry>Más precarios que para el timoma de los tipos A, AB y B1; la SG a 20 años (definida como ausencia de muerte por el tumor) es de alrededor del 60 %.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table><Table id="_498">
+        <Title>Cuadro 6.  Características del timoma de subtipo B3</Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1">SG = supervivencia general.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>Porcentaje del subtipo histológico de todos los timomas en el estudio citado.<Reference refidx="3"/><Reference refidx="4"/></entry>
+              <entry>Alrededor del 10–14 %.</entry>
+            </Row>
+            <Row>
+              <entry>Relacionado con miastenia grave.<Reference refidx="3"/></entry>
+              <entry>Alrededor del 46 %.</entry>
+            </Row>
+            <Row>
+              <entry>Características morfológicas.<Reference refidx="2"/></entry>
+              <entry>Compuesto de manera predominante por capas de células epiteliales poligonales con atipia leve a moderada, escasez o ausencia de puentes intercelulares y escasez o ausencia de células T TdT+ entremezcladas.</entry>
+            </Row>
+            <Row>
+              <entry>Características moleculares.<Reference refidx="5"/></entry>
+              <entry>Incluye la pérdida del cromosoma 6q25, pérdida del cromosoma 6p23 (<GeneName>FOXC1</GeneName>), pérdida del cromosoma 11q4, ganancia del cromosoma 1q, translocación cromosómica t(11;X), ganancia en el número de copias de <GeneName>BCL2</GeneName> (18q21.33), ganancia en el número de copias de <GeneName>MCL1</GeneName>, pérdida en el número de copias de <GeneName>CDKN2A/B</GeneName> (9p21.3), variantes de <GeneName>BCOR</GeneName> y de <GeneName>PHF15</GeneName>.</entry>
+            </Row>
+            <Row>
+              <entry>Pronóstico y supervivencia.<Reference refidx="3"/></entry>
+              <entry>La SG a 20 años (definida como ausencia de muerte por el tumor) es de alrededor del 40 %.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table></SummarySection><SummarySection id="_487"><Title>Carcinoma tímico</Title><Para id="_488">El carcinoma tímico es un TET que presenta una atipia citológica inequívoca y un conjunto de características citológicas que ya no son específicas del timo, sino más bien similares a las características citológicas que se observan en los carcinomas de otros órganos. En contraste con los timomas de tipo A y B, los carcinomas tímicos carecen de linfocitos inmaduros. Todos los linfocitos están maduros y por lo general están mezclados con células plasmáticas.<Reference refidx="1"/></Para><Para id="_490">Las características de los subtipos de carcinoma tímico se describen en el <SummaryRef href="CDR0000256717#_499" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadro 7</SummaryRef>.</Para><Table id="_499">
+        <Title>Cuadro 7.  Características de los subtipos de carcinoma tímico<Superscript>a</Superscript></Title>
+        <TGroup Cols="2">
+          <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+          <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+          <THead>
+            <Row>
+              <entry Align="Center">Subtipo</entry>
+              <entry Align="Center">Características</entry>
+            </Row>
+          </THead>
+          <TFoot>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1">ACE = antígeno carcinoembrionario; CK = citoqueratina; AME = antígeno de membrana epitelial; PAS = ácido peryódico de Schiff; FAP = fosfatasa alcalina placentaria.</entry>
+            </Row>
+            <Row>
+              <entry NameEnd="col2" NameSt="col1"><Superscript>a</Superscript>Adaptación de <Reference refidx="7"/><Reference refidx="8"/>.</entry>
+            </Row>
+          </TFoot>
+          <TBody>
+            <Row>
+              <entry>Carcinoma de células escamosas (CCE)</entry>
+              <entry>Es el subtipo más común de carcinoma tímico, el CCE exhibe características citológicas inequívocas de atipia y se asemeja a los CCE que se originan en otros órganos. No todos los casos presentan indicios claros de queratinización. Los CCE carecen de linfocitos T inmaduros. La mayoría de CCE en timo expresan CD5, CD70, CD117, FoxN1 y CD205.</entry>
+            </Row>
+            <Row>
+              <entry>Carcinoma basaloide</entry>
+              <entry>Se compone de lóbulos compactos de células tumorales que exhiben empalizada periférica y un patrón de tinción en general basofílico causado por un cociente alto entre núcleo y citoplasma. El carcinoma basaloide tiende a originarse en quistes tímicos multiloculares, expresan queratina y AME, a veces expresan CD5, pero no expresan S-100 ni marcadores neuroendocrinos.</entry>
+            </Row>
+            <Row>
+              <entry>Carcinoma de tipo linfoepitelioma</entry>
+              <entry>El crecimiento sincitial de las células del carcinoma indiferenciado se acompaña de infiltración linfoplasmocítica como en el carcinoma indiferenciado de vías respiratorias. El carcinoma de tipo linfoepitelioma a veces es positivo para el virus de Epstein-Barr. Los tumores exhiben una positividad fuerte para CK ácidas identificadas con AE1, y exhiben negatividad para CK básicas identificadas con AE3. El resultado también es negativo para CK7 y CK20. Es común la expresión de BCL-2. Hay expresión focal de CD5 o no hay expresión. Las células linfoides son CD3+, CD5+, CD1a-, CD99- y hay células T TdT maduras. En el estroma hay una pequeña cantidad de células B CD20+.</entry>
+            </Row>
+            <Row>
+              <entry>Carcinoma tímico sarcomatoide</entry>
+              <entry>El tumor se asemeja de manera total o parcial a uno de los tipos de sarcoma de tejido blando. El carcinoma sarcomatoide incluye el carcinoma de células fusiformes (es decir, transformación maligna de un timoma de tipo A), la transformación sarcomatoide de un carcinoma tímico previo y un carcinosarcoma verdadero con uno o más componentes heterógenos.</entry>
+            </Row>
+            <Row>
+              <entry>Carcinoma tímico de células claras</entry>
+              <entry>Tipo de carcinoma tímico compuesto de manera predominante o exclusiva por células con citoplasma claro en el microscopio óptico. Las células tumorales por lo general exhiben una positividad citoplasmática fuerte a PAS con diastasa lábil. Los carcinomas de células claras son positivos para queratina. En 20 % de los casos expresan AME. En algunos casos expresan CD5. Son negativos para PLAP, vimentina, ACE y S-100.</entry>
+            </Row>
+            <Row>
+              <entry>Carcinoma tímico mucoepidermoide</entry>
+              <entry>Está compuesto de células escamosas, células productoras de moco y células de tipo intermedio; se parece al carcinoma mucoepidermoide de otros órganos. Exhiben una translocación del gen <GeneName>MAML2 </GeneName> que ayuda a diferenciarlo de otros carcinomas adenoescamosos y de los adenocarcinomas.</entry>
+            </Row>
+            <Row>
+              <entry>Adenocarcinoma tímico papilar</entry>
+              <entry>Crece de manera papilar. Desde el punto de vista histológico a veces cuenta con formación de cuerpos de samoma lo que produce una marcada similitud con el carcinoma papilar de glándula tiroidea. Se observa expresión variable de Leu M1 y BerEP4. A veces es positivo para ACE y CD5. No exhibe CD20, tiroglobulina, apoproteína del surfactante pulmonar ni calretinina.</entry>
+            </Row>
+            <Row>
+              <entry>Carcinoma tímico indiferenciado</entry>
+              <entry>Tipo poco frecuente de carcinoma tímico que crece en forma sólida e indiferenciada, pero no exhibe características sarcomatoides (células fusiformes ni pleomórficas).</entry>
+            </Row>
+            <Row>
+              <entry>Carcinoma con translocación t(15;19) (carcinoma <GeneName>NUT</GeneName>)</entry>
+              <entry>Carcinoma de gran malignidad e infrecuente del que no se conoce su histiogénesis. Se caracteriza por la presencia de células indiferenciadas de tamaño intermedio con intensa mitosis. Expresa marcadores pancitoqueratínicos. Hay positividad focal para vimentina, AME y ACE. Es negativo para CD30, CD45, PLAP, HMB45, S100 y marcadores neuroendocrinos. Se observa la translocación t(15;19) que produce el oncogén de fusión <GeneName>BRD4</GeneName>::<GeneName>NUT</GeneName>. Las pruebas inmunohistoquímicas de <GeneName>NUT</GeneName> son muy sensibles y se debe considerar su uso en cualquier cáncer indiferenciado, en especial si se observa diferenciación escamosa focal.</entry>
+            </Row>
+          </TBody>
+        </TGroup>
+      </Table></SummarySection><SummarySection id="_639"><Title>Características moleculares del timoma y el carcinoma tímico</Title><Para id="_640">Los TET tienen la carga tumoral de mutaciones más baja de todos los tumores sólidos en adultos. En los análisis de múltiples plataformas se revelaron cuatro subtipos moleculares que se relacionan con supervivencias específicas y con los subtipos histológicos de la OMS. Se han observado variantes patogénicas de <GeneName>HRAS</GeneName>, <GeneName>NRAS</GeneName>, <GeneName>TP53</GeneName> y <GeneName>GTF2I</GeneName>. Las variantes susceptibles de terapia dirigida son infrecuentes. También se ha identificado sobreexpresión tumoral de autoantígenos musculares y aumento de la aneuploidía, lo que establece un vínculo molecular entre el timoma y la miastenia grave.<Reference refidx="6"/></Para></SummarySection><ReferenceSection><Citation idx="1">Travis WD, Brambilla E, Burke E, et al.: WHO Classification of Tumours of the Lung, Pleura, Thymus and Heart. 4th ed. International Agency for Research on Cancer, 2015.</Citation><Citation idx="2" PMID="26295375">Marx A, Chan JK, Coindre JM, et al.: The 2015 World Health Organization Classification of Tumors of the Thymus: Continuity and Changes. J Thorac Oncol 10 (10): 1383-95, 2015.</Citation><Citation idx="3" PMID="9398039">Hirabayashi H, Fujii Y, Sakaguchi M, et al.: p16INK4, pRB, p53 and cyclin D1 expression and hypermethylation of CDKN2 gene in thymoma and thymic carcinoma. Int J Cancer 73 (5): 639-44, 1997.</Citation><Citation idx="4" PMID="12561090">Sasaki H, Kobayashi Y, Tanahashi M, et al.: Ets-1 gene expression in patients with thymoma. Jpn J Thorac Cardiovasc Surg 50 (12): 503-7, 2002.</Citation><Citation idx="5" PMID="25396310">Rajan A, Girard N, Marx A: State of the art of genetic alterations in thymic epithelial tumors. J Thorac Oncol 9 (9 Suppl 2): S131-6, 2014.</Citation><Citation idx="6" PMID="29438696">Radovich M, Pickering CR, Felau I, et al.: The Integrated Genomic Landscape of Thymic Epithelial Tumors. Cancer Cell 33 (2): 244-258.e10, 2018.</Citation><Citation idx="7">Travis W, Brambilla E, Müller-Hermelink H, et al., eds.: Pathology and Genetics of Tumours of the Lung, Pleura, and Thymus. IARC Press, 2004. World Health Organization Classification of Tumours.</Citation><Citation idx="8">Marx A, Chan J, Coindre J-M, et al.: The 2015 WHO classification of tumors of the  thymus: continuity and changes. J Thorac Oncol  10 (10): 1383–95, 2015.</Citation></ReferenceSection></SummarySection><SummarySection id="_6"><SectMetaData><SpecificDiagnosis ref="CDR0000038797">thymoma and thymic carcinoma</SpecificDiagnosis><SectionType>Stage explanation--legacy</SectionType></SectMetaData><Title>Información sobre los estadios del timoma y el carcinoma tímico</Title><Para id="_7">La evaluación del grado de invasión del timoma implica el uso de criterios de estadificación que indican la presencia y grado de invasión contigua, la presencia de implantes tumorales, y de compromiso ganglionar o metástasis a distancia, con independencia del tipo histológico. El sistema de estadificación más utilizado lo propuso Masaoka en 1981 y lo modificó Koga en 1994. El International Thymic Malignancies Interest Group (ITMIG) recomienda este sistema modificado (consultar el <SummaryRef href="CDR0000256717#_223" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadro 8</SummaryRef>).<Reference refidx="1"/><Reference refidx="2"/> Para establecer congruencia en la estadificación de los tumores epiteliales de timo (TET), el American Joint Committee on Cancer (AJCC) y la Union for International Cancer Control (UICC) adoptaron un nuevo sistema de clasificación TNM (tumor, ganglio linfático y metástasis) formulado por la International Association for the Study of Lung Cancer (IASLC) y el ITMIG.<Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/></Para><Table id="_223">
+      <Title>Cuadro 8.  Sistema de estadificación para timoma de Masaoka-Koga, 1994<Superscript>a</Superscript></Title>
+      <TGroup Cols="2">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="25.00%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="75.00%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col2" NameSt="col1">
+              <Superscript>a</Superscript>
+              <Reference refidx="2"/>
+            </entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry Align="Left">I</entry>
+            <entry>Vista macroscópica: completamente encapsulado; vista microscópica: sin invasión capsular.</entry>
+          </Row>
+          <Row>
+            <entry Align="Left">II</entry>
+            <entry>Invasión macroscópica en el tejido adiposo circundante o la pleura mediastínica; invasión microscópica en la cápsula.</entry>
+          </Row>
+          <Row>
+            <entry Align="Left">III</entry>
+            <entry>Invasión macroscópica en los órganos vecinos (pericardio, pulmones y grandes vasos).</entry>
+          </Row>
+          <Row>
+            <entry Align="Left">IVa</entry>
+            <entry>Diseminación pleural o pericárdica.</entry>
+          </Row>
+          <Row>
+            <entry Align="Left">IVb</entry>
+            <entry>Metástasis linfógenas o hematógenas.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Para id="_642">
+      <Strong>Agrupamiento por estadios y definiciones TNM del American Joint Committee on Cancer</Strong>
+    </Para><Table id="_643">
+      <Title>Cuadro 9.  Definiciones TNM para el estadio I<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="23.36%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="23.83%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="52.80%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">T<Superscript>b,c</Superscript>N<Superscript>b</Superscript>M</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Adaptación de AJCC: Thymus. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 423–9.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">Las explicaciones de los superíndices b y c están al final del <SummaryRef href="CDR0000256717#_646" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadro 12</SummaryRef>.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"/>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="4">I</entry>
+            <entry MoreRows="4">T1a,b, N0, M0</entry>
+            <entry>T1 = tumor encapsulado o con extensión a la grasa mediastínica; es posible que comprometa la pleura mediastínica.</entry>
+          </Row>
+          <Row>
+            <entry>–T1a = tumor sin compromiso de la pleura mediastínica.</entry>
+          </Row>
+          <Row>
+            <entry>–T1b = tumor con invasión directa a la pleura mediastínica.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis pleurales, pericárdicas ni a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Table id="_644">
+      <Title>Cuadro 10.  Definiciones TNM para el estadio II<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="23.36%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="24.29%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="52.33%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">T<Superscript>b,c</Superscript>N<Superscript>b</Superscript>M</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Adaptación de AJCC: Thymus. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 423–9.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">Las explicaciones de los superíndices b y c están al final del <SummaryRef href="CDR0000256717#_646" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadro 12</SummaryRef>.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"/>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="2">II</entry>
+            <entry MoreRows="2">T2, N0, M0</entry>
+            <entry>T2 = tumor con invasión directa al pericardio (parcial o de todo el espesor).</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis pleurales, pericárdicas ni a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Table id="_645">
+      <Title>Cuadro 11.  Definiciones TNM para los estadios IIIA y IIIB<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="22.32%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="24.77%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="52.90%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">T<Superscript>b,c</Superscript>N<Superscript>b</Superscript>M</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Adaptación de AJCC: Thymus. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 423–9.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">Las explicaciones de los superíndices b y c están al final del <SummaryRef href="CDR0000256717#_646" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cuadro 12</SummaryRef>.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"/>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="2">IIIA</entry>
+            <entry MoreRows="2">T3, N0, M0</entry>
+            <entry>T3 = tumor con invasión directa en cualquiera de los siguientes sitios: pulmón, vena braquiocefálica, vena cava superior, nervio frénico, pared torácica o arterias o venas pulmonares extrapericárdicas.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis pleurales, pericárdicas ni a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">IIIB</entry>
+            <entry MoreRows="2">T4, N0, M0</entry>
+            <entry>T4 = tumor con invasión en cualquier de los siguientes sitios: aorta (ascendente, arco o descendente), vasos del arco, arteria pulmonar intrapericárdica, miocardio, tráquea y esófago.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis pleurales, pericárdicas ni a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Table id="_646">
+      <Title>Cuadro 12.  Definiciones TNM para los estadios IVA y IVB<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="21.83%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="24.67%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="53.49%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">T<Superscript>b,c</Superscript>N<Superscript>b</Superscript>M</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Adaptación de AJCC: Thymus. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 423–9.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>b</Superscript>Si es posible se debe confirmar el compromiso mediante examen microscópico para la estadificación patológica.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>c</Superscript>Las categorías T se definen según los <Emphasis>grados</Emphasis> de invasión; ellas son un reflejo del grado más alto de invasión sin importar la cantidad de otras estructuras (grado más bajo) que presentan invasión. T1, estructuras de grado 1: timo, grasa mediastínica anterior, pleura mediastínica; T2, estructura de grado 2: pericardio; T3, estructuras de grado 3: pulmón, vena braquiocefálica, vena cava superior, nervio frénico, pared torácica, vasos del hilio pulmonar; T4, estructuras de grado 4: aorta (ascendente, arco o descendente), vasos del arco, arteria pulmonar intrapericárdica, miocardio, tráquea y esófago.</entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="13">IVA</entry>
+            <entry MoreRows="9">Cualquier T, N1, M0</entry>
+            <entry>TX = tumor primario no evaluable.</entry>
+          </Row>
+          <Row>
+            <entry>T0 = sin indicios de tumor primario.</entry>
+          </Row>
+          <Row>
+            <entry>T1 = tumor encapsulado o con extensión a la grasa mediastínica; es posible que comprometa la pleura mediastínica.</entry>
+          </Row>
+          <Row>
+            <entry>–T1a = tumor sin compromiso de la pleura mediastínica.</entry>
+          </Row>
+          <Row>
+            <entry>–T1b = tumor con invasión directa a la pleura mediastínica.</entry>
+          </Row>
+          <Row>
+            <entry>T2 = tumor con invasión directa al pericardio (parcial o de todo el espesor).</entry>
+          </Row>
+          <Row>
+            <entry>T3 = tumor con invasión directa en cualquiera de los siguientes sitios: pulmón, vena braquiocefálica, vena cava superior, nervio frénico, pared torácica o arterias o venas pulmonares extrapericárdicas.</entry>
+          </Row>
+          <Row>
+            <entry>T4 = tumor con invasión en cualquier de los siguientes sitios: aorta (ascendente, arco o descendente), vasos del arco, arteria pulmonar intrapericárdica, miocardio, tráquea y esófago.</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis en ganglios linfáticos anteriores (pretímicos).</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis pleurales, pericárdicas ni a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="3">Cualquier T, N0, 1, M1a</entry>
+            <entry>Cualquier T = consultar las descripciones para el estadio IVA en este cuadro.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis en ganglios linfáticos anteriores (pretímicos).</entry>
+          </Row>
+          <Row>
+            <entry>M1a = uno o más nódulos pleurales o pericárdicos separados.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="9">IVB</entry>
+            <entry MoreRows="3">Cualquier T, N2, M0, M1a</entry>
+            <entry>Cualquier T = consultar las descripciones para el estadio IVA en este cuadro.</entry>
+          </Row>
+          <Row>
+            <entry>N2 = metástasis en ganglios linfáticos intratorácicos profundos o cervicales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis pleurales, pericárdicas ni a distancia.</entry>
+          </Row>
+          <Row>
+            <entry>M1a = uno o más nódulos pleurales o pericárdicos separados.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="5">Cualquier T, cualquier N, M1b</entry>
+            <entry>Cualquier T = consultar las descripciones para el estadio IVA en este cuadro.</entry>
+          </Row>
+          <Row>
+            <entry>NX = ganglios linfáticos regionales no evaluables.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis en ganglios linfáticos anteriores (pretímicos).</entry>
+          </Row>
+          <Row>
+            <entry>N2 = metástasis en ganglios linfáticos intratorácicos profundos o cervicales.</entry>
+          </Row>
+          <Row>
+            <entry>M1b = nódulo pulmonar intraparenquimatoso o metástasis en órganos a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><SummarySection id="_12"><Para id="_99">Cuando el sistema de estadificación de Masaoka se usó en una serie de 85 pacientes con timoma tratados quirúrgicamente se confirmó su utilidad para determinar el pronóstico, con tasas de supervivencia a 5 años del 96 % para la enfermedad en estadio I, del 86 % para la enfermedad en estadio II, del 69 % para la enfermedad en estadio III y del50 % para la enfermedad en estadio IV.<Reference refidx="1"/> En un estudio retrospectivo amplio de 273 pacientes con timoma, se notificaron tasas de supervivencia a 20 años (definida como ausencia de muerte por tumor) de acuerdo con el sistema de estadificación de Masaoka del 89 % para la enfermedad en estadio I, del 91 % para la enfermedad en estadio II, del 49 % para la enfermedad en estadio III y del 0 % para la enfermedad en estadio IV.<Reference refidx="6"/></Para><Para id="_641">El sistema de estadificación TNM, que se puede usar para timoma y carcinoma tímico, se formuló a partir de una base de datos mundial grande de más de 10 000 personas, en lugar de las series más pequeñas de menos de 100 pacientes que se usaron para formular los sistemas de estadificación más antiguos. El sistema TNM también se benefició de un análisis estadístico estricto de un gran conjunto de datos y de la contribución de un grupo multidisciplinario de expertos. La tasa de recidiva de la enfermedad fue del 5 % en los pacientes con enfermedad en estadio I, del 18 % para la enfermedad en estadio II, del 32 % para la enfermedad en estadio III, del 59 % para la enfermedad en estadio IVA, y del 49 % para la enfermedad en estadio IVB. La tasa de mortalidad fue del 7 % en los pacientes con enfermedad en estadio I, del 16 % para la enfermedad en estadio II, del 18 % para la enfermedad en estadio III, del 30 % para la enfermedad en estadio IVA, y del 33 % para la enfermedad en estadio IVB.<Reference refidx="5"/></Para></SummarySection><ReferenceSection><Citation idx="1" PMID="7296496" MedlineID="82048374">Masaoka A, Monden Y, Nakahara K, et al.: Follow-up study of thymomas with special reference to their clinical stages. Cancer 48 (11): 2485-92, 1981.</Citation><Citation idx="2" PMID="8044305">Koga K, Matsuno Y, Noguchi M, et al.: A review of 79 thymomas: modification of staging system and reappraisal of conventional division into invasive and non-invasive thymoma. Pathol Int 44 (5): 359-67, 1994.</Citation><Citation idx="3">Thymus. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 423–9.</Citation><Citation idx="4" PMID="28493800">Carter BW, Benveniste MF, Madan R, et al.: IASLC/ITMIG Staging System and Lymph Node Map for Thymic Epithelial Neoplasms. Radiographics 37 (3): 758-776, 2017 May-Jun.</Citation><Citation idx="5" PMID="25396314">Detterbeck FC, Stratton K, Giroux D, et al.: The IASLC/ITMIG Thymic Epithelial Tumors Staging Project: proposal for an evidence-based stage classification system for the forthcoming (8th) edition of the TNM classification of malignant tumors. J Thorac Oncol 9 (9 Suppl 2): S65-72, 2014.</Citation><Citation idx="6" PMID="11857293" MedlineID="21845610">Okumura M, Ohta M, Tateyama H, et al.: The World Health Organization histologic classification system reflects the oncologic behavior of thymoma: a clinical study of 273 patients. Cancer 94 (3): 624-32, 2002.</Citation></ReferenceSection></SummarySection><SummarySection id="_16"><SectMetaData><SpecificDiagnosis ref="CDR0000038797">thymoma and thymic carcinoma</SpecificDiagnosis><SectionType>Treatment option overview--legacy</SectionType></SectMetaData><Title>Aspectos generales de las opciones de tratamiento del timoma y el carcinoma tímico</Title><Para id="_294">El tratamiento primario para los pacientes con timoma y carcinoma tímico es la extirpación quirúrgica, si es posible, con resección en bloque de los tumores invasivos.<Reference refidx="1"/><Reference refidx="2"/><Reference refidx="3"/> De acuerdo con el estadio tumoral, es posible usar opciones de tratamiento multimodal (que incluyen el uso de radioterapia y quimioterapia con o sin cirugía).<Reference refidx="4"/><Reference refidx="5"/> Todavía se desconoce la estrategia óptima para la terapia de inducción, que reduzca al mínimo la morbimortalidad quirúrgica, y optimice las tasas de resecabilidad, y en última instancia, la supervivencia. Se publicó una revisión del tratamiento de los tumores epiteliales de timo.<Reference refidx="1"/></Para><Table id="_633">
+      <Title>Cuadro13.  Opciones de tratamiento del timoma y carcinoma tímico recidivantes</Title>
+      <TGroup Cols="2">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+        <THead>
+          <Row>
+            <entry Align="Center"><SummaryRef href="CDR0000256717#_6" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Estadio</SummaryRef></entry>
+            <entry Align="Center">Opciones de tratamiento</entry>
+          </Row>
+        </THead>
+        <TBody>
+          <Row>
+            <entry MoreRows="1">Timoma en estadios I y II</entry>
+            <entry><SummaryRef href="CDR0000256717#_332" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_334" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía con radioterapia posoperatoria o sin esta</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry MoreRows="1">Timoma en estadios III y IV (operable)</entry>
+            <entry><SummaryRef href="CDR0000256717#_616" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía seguida de radioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_616" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia de inducción seguida de cirugía y radioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">Timoma en estadios III y IV (inoperable)</entry>
+            <entry><SummaryRef href="CDR0000256717#_626" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_626" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia seguida de radioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_626" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia seguida de cirugía (si es operable) y radioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Carcinoma tímico (operable)</entry>
+            <entry><SummaryRef href="CDR0000256717#_538" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía</SummaryRef> (resección en bloque) seguida de radioterapia posoperatoria con quimioterapia posoperatoria o sin esta.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">Carcinoma tímico (inoperable)</entry>
+            <entry><SummaryRef href="CDR0000256717#_540" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia </SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_540" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimiorradioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_540" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia seguida de cirugía (si es operable) y radioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry MoreRows="3">Timoma y carcinoma tímico recidivantes</entry>
+            <entry><SummaryRef href="CDR0000256717#_664" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_672" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Terapias biológicas</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry><SummaryRef href="CDR0000256717#_425" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía</SummaryRef> o <SummaryRef href="CDR0000256717#_431" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">radioterapia</SummaryRef> en casos seleccionados cuidadosamente</entry>
+          </Row><Row><entry><SummaryRef href="CDR0000256717#_710" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Pembrolizumab</SummaryRef> (en evaluación clínica)</entry></Row>
+        </TBody>
+      </TGroup>
+    </Table><SummarySection id="_712"><Title>Administración de capecitabina y fluorouracilo</Title><SummarySection id="_sm_CDR0000813954_3"><Para id="_sm_CDR0000813954_4">El gen <GeneName>DPYD</GeneName> codifica la enzima que cataboliza las pirimidinas y las fluoropirimidinas, como la capecitabina y el fluorouracilo. Se estima que entre el 1 % y el 2 % de la población tiene variantes defectuosas de  <GeneName>DPYD</GeneName> que reducen la función de la proteína DPD y la acumulación de pirimidinas y fluoropirimidinas en el cuerpo.<Reference refidx="6"/><Reference refidx="7"/> Los pacientes con la variante <GeneName>DPYD*2A</GeneName> que reciben fluoropirimidinas quizás presenten efectos tóxicos graves que ponen en riesgo la salud, y a veces son mortales. Se han identificado muchas otras variantes de <GeneName>DPYD</GeneName>, con diferentes efectos clínicos.<Reference refidx="6"/><Reference refidx="7"/><Reference refidx="8"/> Es posible que se recomiende evitar la fluoropirimidina o reducir la dosis al 50 % según el genotipo <GeneName>DPYD</GeneName> del paciente y el número de alelos funcionales de <GeneName>DPYD</GeneName>.<Reference refidx="9"/><Reference refidx="10"/><Reference refidx="11"/> Las pruebas genéticas para <GeneName>DPYD</GeneName> cuestan menos de $200, pero la cobertura del seguro varía debido a la falta de directrices nacionales.<Reference refidx="12"/> Además, es posible que las pruebas retrasen el tratamiento por 2 semanas, lo que no sería aconsejable en casos de urgencia. Este tema es objeto de controversia y requiere evaluación adicional.<Reference refidx="13"/></Para></SummarySection></SummarySection><ReferenceSection><Citation idx="1" PMID="26314779">Girard N, Ruffini E, Marx A, et al.: Thymic epithelial tumours: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 26 (Suppl 5): v40-55, 2015.</Citation><Citation idx="2" PMID="29571996">Ruffini E, Filosso PL, Guerrera F, et al.: Optimal surgical approach to thymic malignancies: New trends challenging old dogmas. Lung Cancer 118: 161-170, 2018.</Citation><Citation idx="3">Cameron RB, Loehrer Sr, Marx A: Neoplasms of the mediastinum. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles &amp; Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 700-12.</Citation><Citation idx="4" PMID="27346413">Rimner A, Yao X, Huang J, et al.: Postoperative Radiation Therapy Is Associated with Longer Overall Survival in Completely Resected Stage II and III Thymoma-An Analysis of the International Thymic Malignancies Interest Group Retrospective Database. J Thorac Oncol 11 (10): 1785-92, 2016.</Citation><Citation idx="5" PMID="21070992">Rajan A, Giaccone G: Chemotherapy for thymic tumors: induction, consolidation, palliation. Thorac Surg Clin 21 (1): 107-14, viii, 2011.</Citation><Citation idx="6" PMID="34506675">Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021.</Citation><Citation idx="7" PMID="27569869">Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016.</Citation><Citation idx="8" PMID="33410339">Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021.</Citation><Citation idx="9" PMID="29152729">Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018.</Citation><Citation idx="10" PMID="30348537">Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018.</Citation><Citation idx="11" PMID="34996412">Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022.</Citation><Citation idx="12" PMID="35668003">Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022.</Citation><Citation idx="13" PMID="36821823">Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023.</Citation></ReferenceSection></SummarySection><SummarySection id="_131"><Title>Tratamiento del timoma</Title><Para id="_311">Para los pacientes que presentan una masa mediastínica muy sugestiva de un tumor epitelial de timo (TET) en estadio temprano que potencialmente es resecable, la resección quirúrgica es el tratamiento inicial preferido.<Reference refidx="1"/> En estos casos, la resección quirúrgica sirve como procedimiento diagnóstico y terapéutico. La resección completa del tumor se logra en casi todos los pacientes con TET en estadio I y estadio II.</Para><Para id="_654">La radioterapia posoperatoria (RTPO) se relaciona con beneficio de supervivencia y por lo general se recomienda para los pacientes con enfermedad en estadios II o III.<Reference refidx="2"/> A los pacientes con enfermedad en estadio IVA por lo general se les ofrece terapia multimodal compuesta de quimioterapia de inducción seguida de cirugía (si la enfermedad es resecable) y RTPO.<Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/><Reference refidx="6"/> Los pacientes con enfermedad en estadio IVB se tratan con quimioterapia definitiva.<Reference refidx="7"/><Reference refidx="8"/><Reference refidx="9"/><Reference refidx="9"/><Reference refidx="10"/> La cirugía y la radioterapia por lo general no tienen una función en el tratamiento primario de la enfermedad avanzada.</Para><SummarySection id="_246"><SectMetaData><SpecificDiagnosis ref="CDR0000671748">stage I thymoma</SpecificDiagnosis><SpecificDiagnosis ref="CDR0000671751">stage II thymoma</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Timoma en estadios I y II</Title><SummarySection id="_329"><Title>Opciones de tratamiento del timoma en estadios I y II</Title><Para id="_330">Las opciones de tratamiento del timoma en <SummaryRef href="CDR0000256717#_643" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">estadio I</SummaryRef> y <SummaryRef href="CDR0000256717#_644" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">estadio II</SummaryRef> (operable) son las siguientes:</Para><OrderedList id="_331" Style="Arabic">
+          <ListItem><SummaryRef href="CDR0000256717#_332" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía</SummaryRef> (estadio I).</ListItem>
+          <ListItem><SummaryRef href="CDR0000256717#_334" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía con radioterapia posoperatoria o sin esta</SummaryRef> (estadio II).</ListItem>
+        </OrderedList><SummarySection id="_332"><Title>Cirugía (estadio I)</Title><Para id="_333">Se obtiene una excelente supervivencia a largo plazo después de una extirpación quirúrgica completa en pacientes con un timoma en estadio patológico I. Pareciera que no se obtiene beneficio de la radioterapia adyuvante después de una resección completa de tumores encapsulados no invasivos.<Reference refidx="1"/><Reference refidx="11"/></Para></SummarySection><SummarySection id="_334"><Title>Cirugía con radioterapia posoperatoria o sin esta (estadio II)</Title><Para id="_335">Para los pacientes con timomas en estadio II con invasión capsular demostrada en el examen patológico, la radioterapia adyuvante después de la escisión quirúrgica completa se ha considerado el tratamiento estándar pese a la falta de ensayos clínicos prospectivos sobre este tema.<Reference refidx="12"/><Reference refidx="13"/> En la mayoría de los estudios se usan 40 a 70 Gy con un esquema de fraccionamiento estándar (1,8–2,0 Gy por fracción).</Para><Para id="_588">Se deben estudiar más a fondo la función y los riesgos de la radioterapia adyuvante para los pacientes con timomas en estadio II completamente resecados. Con el fin de evitar la posible morbilidad y los costos relacionados con la radiación torácica, se puede reservar la radioterapia postoperatoria (RTPO) para los pacientes en estadio II cuyos órganos adyacentes están a pocos milímetros o se incluyen en el margen quirúrgico (márgenes quirúrgicos positivos o estrechos), de acuerdo con lo determinado en los hallazgos patológicos e intraoperatorios.</Para><Para id="_500">Evidencia (cirugía seguida de PORT):</Para><OrderedList id="_501" Style="Arabic">
+            <ListItem>Los datos se obtuvieron de un estudio clínico con 1320 pacientes japoneses.<Reference refidx="14"/> Los pacientes con timoma en estadio I se trataron con cirugía sola, y los pacientes con timoma en estadio II se sometieron a cirugía y radioterapia adicional.<ItemizedList id="_502" Style="bullet"><ListItem>La radioterapia mediastínica profiláctica no fue eficaz para prevenir las recidivas locales de los pacientes con timoma en estadio II totalmente resecado.</ListItem></ItemizedList></ListItem>
+            <ListItem>En algunos estudios clínicos se observó mejora del control local y la supervivencia cuando se adicionó RTPO.<Reference refidx="2"/><Reference refidx="14"/><Reference refidx="15"/><Reference refidx="16"/><Reference refidx="17"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</ListItem>
+            <ListItem>Sin embargo, en otros estudios retrospectivos más recientes no se encontraron diferencias en el desenlace de los pacientes tratados con RTPO o sin esta después de la resección completa del tumor de timo.<Reference refidx="18"/><Reference refidx="19"/><Reference refidx="20"/><Reference refidx="21"/></ListItem>
+          </OrderedList></SummarySection></SummarySection><SummarySection id="_TrialSearch_246_sid_4"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_246_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection></SummarySection><SummarySection id="_612"><Title>Timoma en estadios III y IV</Title><SummarySection id="_613"><Title>Opciones de tratamiento del timoma en estadios III y IV operable o potencialmente operable</Title><Para id="_614">Las mejoras en las técnicas de imágenes se traducen en una estadificación más exacta de los TET. Sin embargo, en ocasiones, es posible que el timoma en estadio III sea difícil de identificar antes de la cirugía, y la invasión a las estructuras adyacentes quizás se identifique solo durante el procedimiento quirúrgico.</Para><Para id="_655">La resección quirúrgica con intención curativa se debe sopesar para todos los pacientes en quienes se considere el diagnóstico de timoma en estadio III después de la evaluación diagnóstica inicial. Se ofrece RTPO a todos los pacientes sin importar el estado de los márgenes quirúrgicos porque se relaciona con una supervivencia general (SG) más prolongada.<Reference refidx="2"/></Para><Para id="_656">El tratamiento de modalidad combinada que abarque inducción con quimioterapia seguida de cirugía y radioterapia se debe considerar para todos los pacientes con timoma en estadio III irresecable. No se ha definido la estrategia óptima para el tratamiento de inducción que permita optimizar las tasas de resecabilidad, y en última instancia, la supervivencia. No obstante, un régimen de quimioterapia de inducción de uso frecuente comprende combinaciones de cisplatino, doxorrubicina y ciclofosfamida, o cisplatino y etopósido. Las tasas de respuesta a la quimioterapia de inducción oscilan del 79 % al 100 %, y las tasas de resecabilidad posteriores oscilan del 36 % al 69 %.<Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/><Reference refidx="6"/><Reference refidx="7"/><Reference refidx="22"/><Reference refidx="23"/><Reference refidx="24"/><Reference refidx="25"/></Para><Para id="_615">Las opciones de tratamiento del timoma en estadios III y IV operable o potencialmente operable son las siguientes:</Para><OrderedList id="_616" Style="Arabic">
+          <ListItem>Cirugía seguida de radioterapia posoperatoria.</ListItem>
+          <ListItem>Quimioterapia de inducción seguida de cirugía y radioterapia.</ListItem>
+        </OrderedList><Para id="_619">Evidencia (tratamiento del timoma en estadios III y IV operable o potencialmente operable):</Para><OrderedList id="_620" Style="Arabic">
+          <ListItem>Los datos se obtuvieron de un estudio clínico grande de 1320 pacientes japoneses.<Reference refidx="14"/> Los pacientes con timoma en estadios III y IV se sometieron a cirugía y terapia multimodal con resección quirúrgica seguidas de terapia adyuvante compuesta de radioterapia o quimioterapia. <ItemizedList id="_622" Style="bullet"><ListItem>Se observó que el estadio clínico de Masaoka se correlacionó bien con el pronóstico del timoma y carcinoma tímico.</ListItem><ListItem>Para los pacientes con timoma en estadios III o IV, las tasas de supervivencia a 5 años fueron del 93 % en los pacientes tratados con resección total, del 64 % en los pacientes tratados con resección subtotal y del 36 % en los pacientes cuya enfermedad era inoperable. Estos datos señalan la utilidad pronóstica de completar la resección quirúrgica del tumor.</ListItem><ListItem>La radioterapia mediastínica profiláctica no fue eficaz para prevenir las recidivas locales de los pacientes con timoma en estadio III totalmente resecado.</ListItem><ListItem>La terapia adyuvante, incluso radiación o quimioterapia, no pareció mejorar el pronóstico de los pacientes con timoma en estadios III o IV totalmente resecado.</ListItem></ItemizedList></ListItem>
+          <ListItem>En un estudio retrospectivo numeroso se identificaron 1334 pacientes en la base de datos del Surveillance, Epidemiology, and End Results (SEER) Program con diagnóstico de timoma maligno tratados entre 1973 y 2005.<Reference refidx="25"/><ItemizedList id="_623" Style="bullet"><ListItem>Durante una mediana de seguimiento relativamente corta de 65 meses, la radioterapia no pareció aumentar el riesgo de mortalidad cardíaca o de segundas neoplasias malignas.</ListItem><ListItem>En los pacientes con enfermedad en estadios III y IV (después de excluir a los pacientes que sobrevivieron menos de 4 meses, que componen la mortalidad quirúrgica), el uso de rutina de RTPO no pareció mejorar la supervivencia a largo plazo.</ListItem></ItemizedList></ListItem>
+          <ListItem>En un estudio retrospectivo, se identificaron 476 pacientes de la base de datos SEER con timoma en estadio III sometidos a resección quirúrgica . Se administró RTPO a 322 pacientes (67,6 %).<Reference refidx="26"/> <ItemizedList id="_657" Style="bullet"><ListItem>Los pacientes que recibieron RTPO tuvieron una mediana de SG de 127 meses (intervalo de confianza [IC] 95 %, 100,9–153,1) en comparación con 105 meses (IC 95 %, 76,9–133,1) en los pacientes tratados con cirugía sola (<Emphasis>P</Emphasis> = 0,038).</ListItem><ListItem>La supervivencia específica de la enfermedad mejoró de manera significativa en los pacientes que recibieron RTPO en comparación con los pacientes sometidos a cirugía sola (<Emphasis>P</Emphasis> = 0,049).</ListItem></ItemizedList></ListItem>
+          <ListItem>En distintas series publicadas se notificaron tasas de supervivencia a largo plazo después de la quimioterapia de inducción y  cirugía, con radioterapia y quimioterapia de consolidación o sin estas. Las tasas variaron desde un 50 % a  los 4 años hasta un 77 % a los 7 años; las tasas a 10 años fueron del 86 % en los pacientes en estadio III y del 76 % en pacientes en estadio IV.<Reference refidx="5"/><Reference refidx="22"/><Reference refidx="23"/><Reference refidx="27"/></ListItem>
+          <ListItem>Sin embargo, se notificaron tasas de supervivencia similares con radioterapia preoperatoria sin quimioterapia, en particular si están comprometidos vasos grandes. Los resultados indican una tasa de SG del 77 % y una tasa de SG a 10 años del 59 %.<Reference refidx="28"/><Reference refidx="29"/></ListItem>
+        </OrderedList></SummarySection><SummarySection id="_624"><Title>Opciones de tratamiento del timoma en estadios III y IV inoperable</Title><Para id="_625">Las opciones de tratamiento de los pacientes con timoma en estadios III y IV inoperables son las siguientes:</Para><OrderedList id="_626" Style="Arabic">
+          <ListItem>Quimioterapia.</ListItem>
+          <ListItem>Quimioterapia seguida de radioterapia.</ListItem>
+          <ListItem>Quimioterapia seguida de cirugía (si es operable) y radioterapia.</ListItem>
+        </OrderedList><Para id="_627">La función de la citorreducción quirúrgica para los pacientes de enfermedad en estadios III o IVA es polémica. La información de fase II indica que se puede obtener una supervivencia prolongada con quimioterapia y radioterapia solas en muchos pacientes que presentan un timoma local avanzado o incluso metastásico.<Reference refidx="24"/> La utilidad de la cirugía es cuestionable cuando no se puede obtener una extirpación que por lo menos llegue a ser casi completa.</Para><Para id="_628">Evidencia (tratamiento del timoma en estadios III y IV inoperable):</Para><OrderedList id="_629" Style="Arabic">
+          <ListItem>En un ensayo intergrupal conducido en los Estados Unidos, se notificó una tasa prevista de SG a 5 años del 52 % en 26 pacientes que recibieron el régimen de quimioterapia PAC (cisplatino, doxorrubicina y ciclofosfamida) seguido de radioterapia sin cirugía.<Reference refidx="24"/></ListItem>
+          <ListItem>En una serie de 30 pacientes con tumor en estadio IV o localmente progresivo después de la radioterapia se administró el régimen PAC.<Reference refidx="7"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_658" Style="bullet"><ListItem>Se obtuvo una tasa de respuesta general del 50 %, incluso 3 respuestas completas.</ListItem><ListItem>La mediana de duración de la respuesta fue de 12 meses.</ListItem><ListItem>La tasa de supervivencia a 5 años fue del 32 %.</ListItem></ItemizedList></ListItem>
+          <ListItem>El régimen ADOC (doxorrubicina, cisplatino, vincristina y ciclofosfamida) se administró a 37 pacientes.<Reference refidx="8"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_659" Style="bullet"><ListItem>Se logró una tasa de respuesta del 92 % (34 de 37 pacientes), incluso respuestas completas en el 43 % de los pacientes.</ListItem></ItemizedList></ListItem>
+          <ListItem>En un estudio de quimioterapia combinada con cisplatino y etopósido se notificó lo siguiente:<Reference refidx="30"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>] <ItemizedList id="_660" Style="bullet"><ListItem>Se logró una tasa de respuesta del 56 % (9 de 16 pacientes).</ListItem><ListItem>Una mediana de duración de la respuesta de 3,4 años y una mediana de supervivencia de 4,3 años.</ListItem></ItemizedList></ListItem>
+          <ListItem>Los pacientes con timoma o carcinoma tímico invasivos se tratados con cuatro ciclos de etopósido, ifosfamida y cisplatino (VIP) en intervalos de 3 semanas.<Reference refidx="9"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_661" Style="bullet"><ListItem>Se presentaron respuestas parciales en 9 de 28 pacientes evaluables (32 %; IC 95 %, 16–52 %).</ListItem><ListItem>La mediana de seguimiento fue de 43 meses (intervalo, 12,8–52,3 meses).</ListItem><ListItem>La mediana de duración de la respuesta fue de 11,9 meses (intervalo, &lt;1–26).</ListItem><ListItem>La mediana de SG fue de 31,6 meses.</ListItem><ListItem>La tasa de supervivencia a 1 año fue del 89 % y la tasa de supervivencia a 2 años fue del 70 % de acuerdo con los estimados de Kaplan-Meier.</ListItem><ListItem>Estos resultados son inferiores a los que se obtienen con otras combinaciones.</ListItem></ItemizedList></ListItem>
+          <ListItem>En un estudio de fase II se evaluó la actividad de una combinación de carboplatino y paclitaxel en 46 pacientes con TET irresecables, entre ellos, 21 pacientes con timoma irresecable.<Reference refidx="10"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_662" Style="bullet"><ListItem>De 21 pacientes con timoma, 9 presentaron respuestas objetivas (42,9 %; IC 90 %, 24,5–62,8 %).</ListItem><ListItem>La duración media de la respuesta fue de 16,9 meses (IC 95 %, 3,1–22,0).</ListItem><ListItem>La mediana de supervivencia sin progresión para la cohorte de timoma fue de 16,7 meses (IC 95 %, 7,2–19,8); no se alcanzó la mediana de SG después de una mediana de seguimiento de 59,4 meses.</ListItem></ItemizedList></ListItem>
+        </OrderedList></SummarySection></SummarySection><ReferenceSection><Citation idx="1" PMID="1985561" MedlineID="91090500">Maggi G, Casadio C, Cavallo A, et al.: Thymoma: results of 241 operated cases. Ann Thorac Surg 51 (1): 152-6, 1991.</Citation><Citation idx="2" PMID="27346413">Rimner A, Yao X, Huang J, et al.: Postoperative Radiation Therapy Is Associated with Longer Overall Survival in Completely Resected Stage II and III Thymoma-An Analysis of the International Thymic Malignancies Interest Group Retrospective Database. J Thorac Oncol 11 (10): 1785-92, 2016.</Citation><Citation idx="3" PMID="1855170" MedlineID="91309008">Macchiarini P, Chella A, Ducci F, et al.: Neoadjuvant chemotherapy, surgery, and postoperative radiation therapy for invasive thymoma. Cancer 68 (4): 706-13, 1991.</Citation><Citation idx="4" PMID="8361199" MedlineID="93368168">Rea F, Sartori F, Loy M, et al.: Chemotherapy and operation for invasive thymoma. J Thorac Cardiovasc Surg 106 (3): 543-9, 1993.</Citation><Citation idx="5" PMID="15140551">Kim ES, Putnam JB, Komaki R, et al.: Phase II study of a multidisciplinary approach with induction chemotherapy, followed by surgical resection, radiation therapy, and consolidation chemotherapy for unresectable malignant thymomas: final report. Lung Cancer 44 (3): 369-79, 2004.</Citation><Citation idx="6" PMID="17410014">Yokoi K, Matsuguma H, Nakahara R, et al.: Multidisciplinary treatment for advanced invasive thymoma with cisplatin, doxorubicin, and methylprednisolone. J Thorac Oncol 2 (1): 73-8, 2007.</Citation><Citation idx="7" PMID="8201378" MedlineID="94260262">Loehrer PJ, Kim K, Aisner SC, et al.: Cisplatin plus doxorubicin plus cyclophosphamide in metastatic or recurrent thymoma: final results of an intergroup trial. The Eastern Cooperative Oncology Group, Southwest Oncology Group, and Southeastern Cancer Study Group. J Clin Oncol 12 (6): 1164-8, 1994.</Citation><Citation idx="8" PMID="2049749" MedlineID="91266223">Fornasiero A, Daniele O, Ghiotto C, et al.: Chemotherapy for invasive thymoma. A 13-year experience. Cancer 68 (1): 30-3, 1991.</Citation><Citation idx="9" PMID="11391579" MedlineID="21285887">Loehrer PJ, Jiroutek M, Aisner S, et al.: Combined etoposide, ifosfamide, and cisplatin in the treatment of patients with advanced thymoma and thymic carcinoma: an intergroup trial. Cancer 91 (11): 2010-5, 2001.</Citation><Citation idx="10" PMID="21502559">Lemma GL, Lee JW, Aisner SC, et al.: Phase II study of carboplatin and paclitaxel in advanced thymoma and thymic carcinoma. J Clin Oncol 29 (15): 2060-5, 2011.</Citation><Citation idx="11" PMID="7296496" MedlineID="82048374">Masaoka A, Monden Y, Nakahara K, et al.: Follow-up study of thymomas with special reference to their clinical stages. Cancer 48 (11): 2485-92, 1981.</Citation><Citation idx="12" PMID="1639638">Pollack A, Komaki R, Cox JD, et al.: Thymoma: treatment and prognosis. Int J Radiat Oncol Biol Phys 23 (5): 1037-43, 1992.</Citation><Citation idx="13" PMID="11920495" MedlineID="21916586">Ogawa K, Uno T, Toita T, et al.: Postoperative radiotherapy for patients with completely resected thymoma: a multi-institutional, retrospective review of 103 patients. Cancer 94 (5): 1405-13, 2002.</Citation><Citation idx="14" PMID="12963221">Kondo K, Monden Y: Therapy for thymic epithelial tumors: a clinical study of 1,320 patients from Japan. Ann Thorac Surg 76 (3): 878-84; discussion 884-5, 2003.</Citation><Citation idx="15" PMID="106036" MedlineID="79130081">Ariaratnam LS, Kalnicki S, Mincer F, et al.: The management of malignant thymoma with radiation therapy. Int J Radiat Oncol Biol Phys 5 (1): 77-80, 1979.</Citation><Citation idx="16" PMID="4114376" MedlineID="72227974">Penn CR, Hope-Stone HF: The role of radiotherapy in the management of malignant thymoma. Br J Surg 59 (7): 533-9, 1972.</Citation><Citation idx="17" PMID="3183702" MedlineID="89036312">Curran WJ, Kornstein MJ, Brooks JJ, et al.: Invasive thymoma: the role of mediastinal irradiation following complete or incomplete surgical resection. J Clin Oncol 6 (11): 1722-7, 1988.</Citation><Citation idx="18" PMID="12400741">Mangi AA, Wright CD, Allan JS, et al.: Adjuvant radiation therapy for stage II thymoma. Ann Thorac Surg 74 (4): 1033-7, 2002.</Citation><Citation idx="19" PMID="14602300">Singhal S, Shrager JB, Rosenthal DI, et al.: Comparison of stages I-II thymoma treated by complete resection with or without adjuvant radiation. Ann Thorac Surg 76 (5): 1635-41; discussion 1641-2, 2003.</Citation><Citation idx="20" PMID="10561285" MedlineID="20030014">Thomas CR, Wright CD, Loehrer PJ: Thymoma: state of the art. J Clin Oncol 17 (7): 2280-9, 1999.</Citation><Citation idx="21" PMID="21287527">Berman AT, Litzky L, Livolsi V, et al.: Adjuvant radiotherapy for completely resected stage 2 thymoma. Cancer 117 (15): 3502-8, 2011.</Citation><Citation idx="22" PMID="10555755">Berruti A, Borasio P, Gerbino A, et al.: Primary chemotherapy with adriamycin, cisplatin, vincristine and cyclophosphamide in locally advanced thymomas: a single institution experience. Br J Cancer 81 (5): 841-5, 1999.</Citation><Citation idx="23" PMID="9669967" MedlineID="98318188">Shin DM, Walsh GL, Komaki R, et al.: A multidisciplinary approach to therapy for unresectable malignant thymoma. Ann Intern Med 129 (2): 100-4, 1998.</Citation><Citation idx="24" PMID="9294472" MedlineID="97440164">Loehrer PJ, Chen M, Kim K, et al.: Cisplatin, doxorubicin, and cyclophosphamide plus thoracic radiation therapy for limited-stage unresectable thymoma: an intergroup trial. J Clin Oncol 15 (9): 3093-9, 1997.</Citation><Citation idx="25" PMID="20651611">Fernandes AT, Shinohara ET, Guo M, et al.: The role of radiation therapy in malignant thymoma: a Surveillance, Epidemiology, and End Results database analysis. J Thorac Oncol 5 (9): 1454-60, 2010.</Citation><Citation idx="26" PMID="22551847">Weksler B, Shende M, Nason KS, et al.: The role of adjuvant radiation therapy for resected stage III thymoma: a population-based study. Ann Thorac Surg 93 (6): 1822-8; discussion 1828-9, 2012.</Citation><Citation idx="27" PMID="17409875">Lucchi M, Melfi F, Dini P, et al.: Neoadjuvant chemotherapy for stage III and IVA thymomas: a single-institution experience with a long follow-up. J Thorac Oncol 1 (4): 308-13, 2006.</Citation><Citation idx="28" PMID="8572759">Yagi K, Hirata T, Fukuse T, et al.: Surgical treatment for invasive thymoma, especially when the superior vena cava is invaded. Ann Thorac Surg 61 (2): 521-4, 1996.</Citation><Citation idx="29" PMID="8841462">Akaogi E, Ohara K, Mitsui K, et al.: Preoperative radiotherapy and surgery for advanced thymoma with invasion to the great vessels. J Surg Oncol 63 (1): 17-22, 1996.</Citation><Citation idx="30" PMID="8622029" MedlineID="96186207">Giaccone G, Ardizzoni A, Kirkpatrick A, et al.: Cisplatin and etoposide combination chemotherapy for locally advanced or metastatic thymoma. A phase II study of the European Organization for Research and Treatment of Cancer Lung Cancer Cooperative Group. J Clin Oncol 14 (3): 814-20, 1996.</Citation></ReferenceSection></SummarySection><SummarySection id="_148"><SectMetaData><SpecificDiagnosis ref="CDR0000331691">thymic carcinoma</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Tratamiento del carcinoma tímico</Title><Para id="_423">El carcinoma tímico es poco frecuente y el tratamiento óptimo permanece indefinido. Para los pacientes con enfermedad resecable bien definida, la resección quirúrgica es a menudo la intervención terapéutica inicial. Para pacientes con lesiones clínicamente dudosas o directamente irresecables, se han usado la quimioterapia neoadyuvante (preoperatoria), la radioterapia torácica o ambas.<Reference refidx="1"/> Los pacientes que presentan enfermedad local avanzada se evalúan con cuidado y se someten a terapia multimodal. En general, los pacientes con estado funcional precario y alto riesgo operatorio no son aptos para estos tratamientos intensivos. Los pacientes con enfermedad metastásica a veces responden a la quimioterapia combinada.</Para><SummarySection id="_363"><Title>Opciones de tratamiento del carcinoma tímico</Title><Para id="_537">Las opciones de tratamiento de los pacientes con carcinoma tímico operable son las siguientes:<Reference refidx="2"/></Para><OrderedList id="_538" Style="Arabic">
+        <ListItem>Cirugía (resección quirúrgica en bloque) seguida de radioterapia posoperatoria (RTPO) con o sin quimioterapia posoperatoria.</ListItem>
+      </OrderedList><Para id="_539">Las opciones de tratamiento para los pacientes con carcinoma tímico inoperable (estadio III y estadio IV con obstrucción de la vena cava, compromiso pleural, implantes pericárdicos, etc.) incluyen los siguientes procedimientos:</Para><OrderedList id="_540" Style="Arabic">
+        <ListItem>Quimioterapia.</ListItem>
+        <ListItem>Quimiorradioterapia.</ListItem>
+        <ListItem>Quimioterapia seguida de cirugía (si es operable) y radioterapia.</ListItem>
+      </OrderedList><Para id="_377">En la mayoría de los estudios publicados, después de la cirugía se administró radioterapia adyuvante.<Reference refidx="3"/><Reference refidx="4"/> No se ha identificado el intervalo de la dosis de prescripción. En la mayoría de los estudios se usan 40 a 70 Gy con un esquema de fraccionamiento estándar (1,8–2,0 Gy por fracción).</Para><Para id="_552">Evidencia (cirugía seguida de RTPO con quimioterapia posoperatoria o sin esta):</Para><OrderedList id="_542" Style="Arabic">
+        <ListItem>En la serie más grande notificada, los datos se obtuvieron de un estudio clínico con 1320 pacientes japoneses.<Reference refidx="5"/> Los pacientes de carcinoma tímico se trataron con RTPO o quimioterapia.<ItemizedList id="_543" Style="bullet"><ListItem>Las tasas de supervivencia a 5 años fueron de 67 % para los pacientes tratados con resección total, del 30 % para los pacientes tratados con resección subtotal y del 24 % para los pacientes cuya enfermedad era inoperable.</ListItem><ListItem>La terapia adyuvante, incluso la radiación o la quimioterapia, no pareció mejorar el pronóstico de los pacientes de carcinoma tímico.</ListItem></ItemizedList></ListItem>
+        <ListItem>Se notificaron los resultados de un análisis retrospectivo multicéntrico de desenlaces de 186 pacientes con carcinoma tímico.<Reference refidx="5"/><ItemizedList id="_577" Style="bullet"><ListItem>Las tasas de supervivencia a 5 años de los pacientes de carcinoma tímico totalmente resecado fueron del 81,5 % para los tratados con quimioterapia; de 46,6 % para los tratados con radioterapia y quimioterapia; del 73,6 % para los tratados con radioterapia sola y del 72,2 % para los pacientes que no recibieron terapia adyuvante.</ListItem><ListItem>En este estudio no se logró detectar un beneficio para la supervivencia a largo plazo de los pacientes tratados con resección subtotal ni un aumento estadísticamente significativo de la supervivencia con la adición de radiación adyuvante a la resección quirúrgica.</ListItem><ListItem>Los autores estipularon que no se lograron conclusiones definitivas con respecto a la función de la radioterapia adyuvante en el tratamiento del carcinoma tímico debido a limitaciones del tamaño de la muestra.</ListItem></ItemizedList></ListItem>
+      </OrderedList><Para id="_382">Los resultados de estos estudios ponen en entredicho el pensamiento tradicional sobre la eficacia de un abordaje multimodal intensivo que incluya citorreducción, radioterapia y quimioterapia a base de cisplatino.<Reference refidx="6"/><Reference refidx="7"/><Reference refidx="8"/> En otros estudios se respalda la adición de radioterapia adyuvante y quimioterapia, por lo tanto está por determinarse los regímenes de tratamiento óptimos.</Para><Para id="_383">La quimioterapia es la modalidad de tratamiento principal para los pacientes con carcinoma tímico localmente avanzados. La mayoría de los regímenes usados son similares a los que se usan para tratar el timoma e incluyen un derivado del platino con o sin antraciclina (PAC [cisplatino, doxorrubicina y ciclofosfamida], VIP [etopósido, ifosfamida y cisplatino], ADOC [doxorrubicina, cisplatino, vincristina y ciclofosfamida], cisplatino y etopósido, carboplatino y paclitaxel).<Reference refidx="1"/><Reference refidx="9"/><Reference refidx="10"/><Reference refidx="11"/><Reference refidx="12"/><Reference refidx="13"/><Reference refidx="14"/></Para><Para id="_578">Evidencia (quimioterapia):</Para><OrderedList id="_579" Style="Arabic">
+        <ListItem>En un estudio de fase II se evaluó la combinación de carboplatino y paclitaxel en 46 pacientes con tumores epiteliales de timo irresecables, entre ellos, 23 pacientes con carcinoma tímico irresecable.<Reference refidx="14"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_663" Style="bullet"><ListItem>Se presentaron respuestas objetivas en 5 de 23 pacientes con carcinoma tímico (21,7 %; intervalo de confianza [IC] 90 %, 9,0–40,4 %).</ListItem><ListItem>La mediana de duración de la respuesta de los pacientes con carcinoma tímico fue de 4,5 meses (IC 95 %, 3,4–9,9).</ListItem><ListItem>La mediana de supervivencia sin progresión para la cohorte de carcinoma tímico fue de 5 meses (IC 95 %, 3,0–8,3) y la mediana de supervivencia general fue de 20 meses (IC 95 %, 5,0–43,6) después de una mediana de seguimiento de 59,4 meses.</ListItem></ItemizedList></ListItem>
+        <ListItem>El régimen VIP se utilizó en un ensayo intergrupal en América del Norte.<Reference refidx="11"/> <ItemizedList id="_580" Style="bullet"><ListItem>La respuesta parcial se logró en 8 pacientes con carcinoma tímico (25 %).</ListItem><ListItem>La tasa de supervivencia a 1 año de los pacientes con carcinoma tímico fue de 75 % y la tasa de supervivencia a 2 años fue del 50 %.</ListItem></ItemizedList></ListItem>
+      </OrderedList></SummarySection><SummarySection id="_TrialSearch_148_sid_6"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_148_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="12040285">Koizumi T, Takabayashi Y, Yamagishi S, et al.: Chemotherapy for advanced thymic carcinoma: clinical response to cisplatin, doxorubicin, vincristine, and cyclophosphamide (ADOC chemotherapy). Am J Clin Oncol 25 (3): 266-8, 2002.</Citation><Citation idx="2" PMID="11849804">Hsu HC, Huang EY, Wang CJ, et al.: Postoperative radiotherapy in thymic carcinoma: treatment results and prognostic factors. Int J Radiat Oncol Biol Phys 52 (3): 801-5, 2002.</Citation><Citation idx="3" PMID="25565590">Omasa M, Date H, Sozu T, et al.: Postoperative radiotherapy is effective for thymic carcinoma but not for thymoma in stage II and III thymic epithelial tumors: the Japanese Association for Research on the Thymus Database Study. Cancer 121 (7): 1008-16, 2015.</Citation><Citation idx="4" PMID="25524678">Ahmad U, Yao X, Detterbeck F, et al.: Thymic carcinoma outcomes and prognosis: results of an international analysis. J Thorac Cardiovasc Surg 149 (1): 95-100, 101.e1-2, 2015.</Citation><Citation idx="5" PMID="12963221">Kondo K, Monden Y: Therapy for thymic epithelial tumors: a clinical study of 1,320 patients from Japan. Ann Thorac Surg 76 (3): 878-84; discussion 884-5, 2003.</Citation><Citation idx="6" PMID="12115342" MedlineID="22109416">Ogawa K, Toita T, Uno T, et al.: Treatment and prognosis of thymic carcinoma: a retrospective analysis of 40 cases. Cancer 94 (12): 3115-9, 2002.</Citation><Citation idx="7" PMID="12579125" MedlineID="22466995">Greene MA, Malias MA: Aggressive multimodality treatment of invasive thymic carcinoma. J Thorac Cardiovasc Surg 125 (2): 434-6, 2003.</Citation><Citation idx="8" PMID="11669591">Lucchi M, Mussi A, Ambrogi M, et al.: Thymic carcinoma: a report of 13 cases. Eur J Surg Oncol 27 (7): 636-40, 2001.</Citation><Citation idx="9" PMID="8435796">Weide LG, Ulbright TM, Loehrer PJ, et al.: Thymic carcinoma. A distinct clinical entity responsive to chemotherapy. Cancer 71 (4): 1219-23, 1993.</Citation><Citation idx="10" PMID="8201378" MedlineID="94260262">Loehrer PJ, Kim K, Aisner SC, et al.: Cisplatin plus doxorubicin plus cyclophosphamide in metastatic or recurrent thymoma: final results of an intergroup trial. The Eastern Cooperative Oncology Group, Southwest Oncology Group, and Southeastern Cancer Study Group. J Clin Oncol 12 (6): 1164-8, 1994.</Citation><Citation idx="11" PMID="11391579" MedlineID="21285887">Loehrer PJ, Jiroutek M, Aisner S, et al.: Combined etoposide, ifosfamide, and cisplatin in the treatment of patients with advanced thymoma and thymic carcinoma: an intergroup trial. Cancer 91 (11): 2010-5, 2001.</Citation><Citation idx="12" PMID="2049749" MedlineID="91266223">Fornasiero A, Daniele O, Ghiotto C, et al.: Chemotherapy for invasive thymoma. A 13-year experience. Cancer 68 (1): 30-3, 1991.</Citation><Citation idx="13" PMID="8622029" MedlineID="96186207">Giaccone G, Ardizzoni A, Kirkpatrick A, et al.: Cisplatin and etoposide combination chemotherapy for locally advanced or metastatic thymoma. A phase II study of the European Organization for Research and Treatment of Cancer Lung Cancer Cooperative Group. J Clin Oncol 14 (3): 814-20, 1996.</Citation><Citation idx="14" PMID="21502559">Lemma GL, Lee JW, Aisner SC, et al.: Phase II study of carboplatin and paclitaxel in advanced thymoma and thymic carcinoma. J Clin Oncol 29 (15): 2060-5, 2011.</Citation></ReferenceSection></SummarySection><SummarySection id="_36"><SectMetaData><SpecificDiagnosis ref="CDR0000038800">recurrent thymoma and thymic carcinoma</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Tratamiento del timoma y carcinoma tímico recidivantes</Title><SummarySection id="_393"><Title>Opciones de tratamiento del timoma y carcinoma tímico recidivantes</Title><Para id="_394">Las opciones de tratamiento para los pacientes con timoma y carcinoma tímico recidivantes son las siguientes:</Para><OrderedList id="_709" Style="Arabic"><ListItem><SummaryRef href="CDR0000256717#_664" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Quimioterapia.</SummaryRef></ListItem><ListItem><SummaryRef href="CDR0000256717#_672" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Terapias biológicas.</SummaryRef></ListItem><ListItem><SummaryRef href="CDR0000256717#_425" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Cirugía</SummaryRef> o <SummaryRef href="CDR0000256717#_431" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">radioterapia</SummaryRef> en casos seleccionados con cautela.</ListItem><ListItem><SummaryRef href="CDR0000062912#_709" url="/types/thymoma/hp/thymoma-treatment-pdq">Pembrolizumab</SummaryRef> (en evaluación clínica).</ListItem></OrderedList><SummarySection id="_664"><Title>Quimioterapia</Title><Para id="_665">En varios estudios se demostró que ciertos medicamentos de quimioterapia en monoterapia o terapia combinada inducen respuestas tumorales. Estos medicamentos son pemetrexed, gemcitabina, taxanos, capecitabina y fluorouracilo con etopósido. En general, las tasas más altas de respuesta se notificaron con las combinaciones; sin embargo, no se han realizado ensayos aleatorizados. En la mayoría de los casos de enfermedad recidivante inoperable, se prefiere la terapia sistémica con un solo fármaco. La quimioterapia combinada se considera en algunos pacientes con buena respuesta previa, un intervalo sin recidiva largo, buen estado funcional y que, de recibir un régimen con antraciclina, no hayan recibido antes dosis acumuladas altas que pudieran socavar la inocuidad, en especial por toxicidad cardíaca.<Reference refidx="1"/></Para><Para id="_666">Evidencia (quimioterapia en monoterapia):</Para><OrderedList id="_667" Style="Arabic">
+          <ListItem>Se llevó a cabo un ensayo de fase II de pemetrexed (500 mg/m<Superscript>2</Superscript>) en 27 pacientes, entre ellos 16 pacientes con tumores epiteliales de timo (TET) recidivantes y 11 pacientes con carcinoma tímico recidivante.<Reference refidx="2"/><ItemizedList id="_668" Style="bullet"><ListItem>La tasa de respuesta objetiva fue del 19,2 % (intervalo de confianza [IC] 95 %, 6,3–38,1 %) (26,7 % [IC 95 %, 7,8–55,1 %] en pacientes con timoma y del 9,1 % [IC 95 %, 0,2–41,3 %] en pacientes con carcinoma tímico).</ListItem><ListItem>La mediana de supervivencia sin progresión (SSP) fue de 10,6 meses (12,1 meses para pacientes con timoma vs. 2,9 meses para pacientes con carcinoma tímico).</ListItem><ListItem>La mediana de supervivencia general (SG) fue de 28,7 meses (46,4 meses para pacientes con timoma vs. 9,8 meses para pacientes con carcinoma tímico).</ListItem><ListItem>La mediana de duración de la respuesta fue de 4 meses en los pacientes con timoma (intervalo, 3,26–6,28 meses) y de 3,8 meses en un paciente con carcinoma tímico que exhibió una respuesta parcial.</ListItem></ItemizedList></ListItem>
+          <ListItem>Se lograron respuestas objetivas en 6 de 16 pacientes que recibieron octreotida (1,5 mg cada día por vía subcutánea) combinada con prednisona (0,6 mg/kg cada día por vía oral durante 3 meses y 0,2 mg/kg cada día por vía oral durante el seguimiento).<Reference refidx="3"/></ListItem>
+        </OrderedList><Para id="_669">Evidencia (quimioterapia combinada):</Para><OrderedList id="_670" Style="Arabic">
+          <ListItem>En un ensayo de fase II participaron 30 pacientes (22 pacientes con timoma recidivante y 8 pacientes con carcinoma tímico) tratados con capecitabina (650 mg/m<Superscript>2</Superscript> dos veces al día, los días 1–14, y oxaliplatino (1000 mg/m<Superscript>2</Superscript> en los días 1 y 8 cada 3 semanas).<Reference refidx="4"/><ItemizedList id="_671" Style="bullet"><ListItem>Se observaron respuestas objetivas en 9 de 22 pacientes (41 %) con timoma y 3 de 8 pacientes (38 %) con carcinoma tímico.</ListItem><ListItem>Al cabo de una mediana de seguimiento de 18 meses (intervalo, 15–22), la mediana de SSP fue de 11 meses (intervalo, 6,5–16,5). La mediana de SSP fue de 11 meses para los pacientes con timoma y de 6 meses para los pacientes con carcinoma tímico. La mediana de SSP también fue de 11 meses.</ListItem><ListItem>Las tasas de supervivencia a 1 y 2 años para la población del estudio fueron del 90 % y del 66 %, respectivamente.</ListItem></ItemizedList></ListItem>
+        </OrderedList></SummarySection><SummarySection id="_672"><Title>Terapias biológicas</Title><Para id="_673">La octreotida con prednisona o sin esta a veces induce respuestas en pacientes con un timoma con resultado positivo en la gammagrafía con octreotida. También se han notificado tasas de respuesta objetiva con sunitinib y everólimus en pacientes con TET recidivantes.</Para><SummarySection id="_674"><Title>Octreotida con prednisona o sin esta</Title><Para id="_675">Evidencia (octreotida con prednisona o sin esta):</Para><OrderedList id="_676" Style="Arabic">
+            <ListItem>En un estudio, 6 de 16 pacientes lograron respuestas objetivas a la octreotida (1,5 mg cada día por vía subcutánea) en combinación con prednisona (0,6 mg/kg cada día por vía oral durante 3 meses y 0,2 mg/kg cada día por vía oral durante el seguimiento).<Reference refidx="3"/></ListItem>
+            <ListItem>En un estudio de octreotida con o sin prednisona, se observaron 2 respuestas completas (5,3 %) y 10 respuestas parciales (25 %) en 42 pacientes.<Reference refidx="5"/></ListItem>
+          </OrderedList></SummarySection><SummarySection id="_691"><Title>Sunitinib</Title><Para id="_692">Evidencia (sunitinib):</Para><OrderedList id="_693" Style="Arabic">
+            <ListItem>En un ensayo de fase II participaron 41 pacientes con TET recidivantes (25 carcinoma tímico, 16 timoma) que se trataron con sunitinib en dosis de 50 mg al día administrados en ciclos de 6 semanas (4 semanas de tratamiento seguidos de un descanso de 2 semanas).<Reference refidx="6"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_694" Style="bullet"><ListItem>Después de una mediana de seguimiento de 17 meses, 6 de 23 pacientes evaluables con carcinoma tímico (26 %; IC 90 %, 12,1–45,3 %; IC 95 %, 10,2–48,4 %) exhibieron una respuesta objetiva, y 15 pacientes (65 %; IC 95 %, 42,7–83,6 %) exhibieron estabilización de la enfermedad. De los 16 pacientes con timoma, 1 paciente (6 %; IC 95 %, 0,2–30,2 %) exhibió una respuesta parcial y 12 pacientes (75 %; 47,6–92,7 %) exhibieron enfermedad estable.</ListItem><ListItem>La mediana de tiempo hasta la respuesta en la cohorte de carcinoma tímico fue de 5,6 meses (intervalo, 2,7–13,8), y la mediana de duración de la respuesta fue de 16,4 meses (intervalo, 1,4–16,4).</ListItem><ListItem>La mediana de SSP fue de 7,2 meses (IC 95 %, 3,4–15,2) para los pacientes con carcinoma tímico y de 8,5 meses (2,8–11,3) para los pacientes con timoma.</ListItem><ListItem>La mediana de SG no se alcanzó en los pacientes con carcinoma tímico y fue de 15,5 meses (IC 95 %, 12,6–indefinido) en los pacientes con timoma.</ListItem><ListItem>La SG estimada a 1 año fue de 78 % (IC 95 %, 58,0–90,4 %) para los pacientes con carcinoma tímico y de 86 % (60,9–96,1 %) para los pacientes con timoma.</ListItem></ItemizedList></ListItem>
+          </OrderedList></SummarySection><SummarySection id="_695"><Title>Everólimus</Title><Para id="_696">Evidencia (everólimus):</Para><OrderedList id="_697" Style="Arabic">
+            <ListTitle/>
+            <ListItem>En un estudio de fase II participaron 51 pacientes con TET recidivantes (32 con timoma y 19 con carcinoma tímico). Los pacientes recibieron everólimus oral en dosis de 10 mg por día.<Reference refidx="7"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_698" Style="bullet"><ListItem>Se observaron tasas de respuesta objetiva en 3 de 32 pacientes (9,4 %) con timoma y 3 de 19 pacientes (15,8 %) con carcinoma tímico.</ListItem><ListItem>La tasa de control de la enfermedad fue del 88 % (timoma: 93,8 %; carcinoma tímico: 77,8 %).</ListItem><ListItem>Después una mediana de seguimiento de 25,7 meses, la mediana de SSP fue de 10,1 meses (timoma: 16,6 meses; carcinoma tímico: 5,6 meses).</ListItem><ListItem>La mediana de SG fue de 25,7 meses (timoma: no alcanzada; carcinoma tímico: 14,7 meses).</ListItem></ItemizedList></ListItem>
+          </OrderedList></SummarySection><SummarySection id="_702"><Title>Lenvatinib</Title><Para id="_703">El lenvatinib es un inhibidor de multicinasa, que se administra de forma oral, dirigido a los receptores del factor de crecimiento endotelial vascular, el receptor α del factor de crecimiento derivado de plaquetas, los receptores del factor de crecimiento de fibroblastos, el c-KIT y el protooncogén <GeneName>RET</GeneName>.</Para><Para id="_704">Evidencia (lenvatinib):</Para><OrderedList id="_705" Style="Arabic"><ListItem>En un ensayo de fase II, se inscribió a 42 pacientes de carcinoma tímico recidivante y se los trató con 24 mg diarios de lenvatinib oral en ciclos de 4 semanas hasta la progresión de la enfermedad o la presentación de efectos adversos inaceptables. El criterio principal de valoración fue la tasa de respuesta objetiva evaluada mediante una revisión central independiente.<Reference refidx="8"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]<ItemizedList id="_706" Style="bullet"><ListItem>Se observaron respuestas objetivas en 16 de 42 pacientes (38 %; IC 90 %, 25,6–52,0 %).</ListItem><ListItem>	La tasa de control de la enfermedad fue del 95 % (IC 95 %, 83,8–99,4 %).</ListItem><ListItem>Al cabo de una mediana de seguimiento de 15,5 meses, la mediana de tiempo hasta la respuesta fue de 2,0 meses, la mediana de duración de la respuesta fue de 11,6 meses (IC 95 %, 5,8–18,0 meses), la mediana de SSP fue de 9,3 meses (IC 95 %, 7,7–13,9 meses) y no se alcanzó (NA) la mediana de SG (IC 95 %, 16,1 meses–NA).</ListItem><ListItem>Los efectos adversos más comunes relacionados con el tratamiento fueron hipertensión (88 %), eritrodisestesia palmoplantar (69 %), trombocitopenia (52 %) y diarrea (50 %). </ListItem><ListItem>	Todos los pacientes necesitaron por lo menos una reducción de la dosis debida a efectos adversos. En este estudio se permitieron 5 reducciones de dosis (20 mg, 14 mg, 10 mg, 8 mg, 4 mg). No hubo defunciones relacionadas con el tratamiento.</ListItem><ListItem>	En este ensayo no se realizó un análisis de biomarcadores pronósticos.</ListItem></ItemizedList></ListItem></OrderedList></SummarySection></SummarySection><SummarySection id="_425"><Title>Cirugía</Title><Para id="_426">Es posible repetir la resección quirúrgica, en especial para las recidiva locales y, en algunos casos, implantes pleurales y pericárdicos. Los pacientes con timomas recidivantes sometidos a una nueva resección de la enfermedad recidivante a veces obtienen una supervivencia prolongada si se logra una resección completa.<Reference refidx="9"/> Sin embargo, solo una minoría de los pacientes son aptos para la resección.</Para><Para id="_458">Evidencia (cirugía):</Para><OrderedList id="_459" Style="Arabic">
+          <ListItem>En una revisión de 395 pacientes sometidos a resecciones de TET, 67 presentaron recidivas tumorales y en 22 se repitió el procedimiento de resección.<Reference refidx="10"/><ItemizedList id="_460" Style="bullet"><ListItem>La tasa de supervivencia a 10 años fue del 70 %.</ListItem></ItemizedList></ListItem>
+          <ListItem>En otro estudio, 30 de 266 pacientes tratados inicialmente con resección total del tumor tuvieron una recidiva y en los 30 pacientes se intentó una resección quirúrgica.<Reference refidx="11"/> Se logró la resección completa del tumor recidivante en 10 casos.<ItemizedList id="_461" Style="bullet"><ListItem>La tasa de supervivencia a 5 años fue del 48 %.</ListItem><ListItem>La tasa de supervivencia a 10 años fue del 24 %.</ListItem></ItemizedList></ListItem>
+        </OrderedList><Para id="_433">Cabe destacar que algunos de los pacientes de estas series recibieron quimioterapia o radioterapia además de la cirugía.</Para></SummarySection><SummarySection id="_431"><Title>Radioterapia</Title><Para id="_432">La radioterapia posoperatoria se ha usado para pacientes con resecciones incompletas y para algunos pacientes después de una resección completa de un timoma recidivante.<Reference refidx="9"/> La radioterapia también está indicada para la paliación de los síntomas como dolor por invasión de la pared torácica y síndrome de la vena cava superior.</Para></SummarySection><SummarySection id="_710"><Title>Pembrolizumab</Title><Para id="_711">El pembrolizumab (un anticuerpo anti-ligando 1 de muerte programada) se ha evaluado en pacientes con TET recidivantes. La terapia con inhibidores de puntos de control inmunitario está en evaluación clínica y se debe usar en el entorno de un ensayo clínico.</Para><OrderedList id="_687" Style="Arabic"><ListItem>	En un ensayo de fase II sobre pembrolizumab participaron 33 pacientes con TET recidivante o en recaída (26 con carcinoma tímico, 7 con timoma).<Reference refidx="12"/> <ItemizedList id="_688" Style="bullet"><ListItem>Se observaron respuestas objetivas en 2 de 7 pacientes con timoma (28,6 %; IC 95 %, 8,2–64,1 %) y en 5 de 26 pacientes con carcinoma tímico (19,2 %; IC 95 %, 8,5–37,9 %).</ListItem><ListItem>La mediana de SSP fue de 6,1 meses para ambos grupos.</ListItem><ListItem>Los efectos adversos inmunitarios de grado 3 se observaron en 5 de 7 pacientes (71,4 %) con timoma y en 4 de 26 pacientes (15,4 %) con carcinoma tímico; estos incluyeron hepatitis (12,1%), miocarditis (9,1 %) y miastenia grave (6,1 %).</ListItem></ItemizedList></ListItem><ListItem>En un estudio de fase II de un solo grupo sobre pembrolizumab, se inscribieron  	41 pacientes con carcinoma tímico recidivante.<Reference refidx="13"/><ItemizedList id="_689" Style="bullet"><ListItem>Después de una mediana de seguimiento de 20 meses, la tasa de respuesta objetiva fue del 22,5 % (IC 95 %, 10,8–38,5 %). </ListItem><ListItem>La mediana de duración de la respuesta fue de 22,4 meses (IC 95 %, 12,3–34,7).</ListItem><ListItem>La mediana de SSP fue de 4,2 meses (IC  95 %, 2,9–10,3), y la mediana de SG fue de 24,9 meses (15,5–NR). </ListItem><ListItem>Se observaron eventos adversos graves relacionados con el sistema inmunitario  en 6 pacientes (15 %), incluso 2 pacientes (5 %) presentaron miocarditis.</ListItem></ItemizedList> </ListItem></OrderedList></SummarySection></SummarySection><SummarySection id="_TrialSearch_36_sid_7"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_36_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="26314779">Girard N, Ruffini E, Marx A, et al.: Thymic epithelial tumours: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 26 (Suppl 5): v40-55, 2015.</Citation><Citation idx="2" PMID="30121390">Gbolahan OB, Porter RF, Salter JT, et al.: A Phase II Study of Pemetrexed in Patients with Recurrent Thymoma and Thymic Carcinoma. J Thorac Oncol 13 (12): 1940-1948, 2018.</Citation><Citation idx="3" PMID="11920496">Palmieri G, Montella L, Martignetti A, et al.: Somatostatin analogs and prednisone in advanced refractory thymic tumors. Cancer 94 (5): 1414-20, 2002.</Citation><Citation idx="4" PMID="25471029">Palmieri G, Buonerba C, Ottaviano M, et al.: Capecitabine plus gemcitabine in thymic epithelial tumors: final analysis of a Phase II trial. Future Oncol 10 (14): 2141-7, 2014.</Citation><Citation idx="5" PMID="14722038">Loehrer PJ, Wang W, Johnson DH, et al.: Octreotide alone or with prednisone in patients with advanced thymoma and thymic carcinoma: an Eastern Cooperative Oncology Group phase II trial. J Clin Oncol 22 (2): 293-9, 2004.</Citation><Citation idx="6" PMID="25592632">Thomas A, Rajan A, Berman A, et al.: Sunitinib in patients with chemotherapy-refractory thymoma and thymic carcinoma: an open-label phase 2 trial. Lancet Oncol 16 (2): 177-86, 2015.</Citation><Citation idx="7" PMID="29240542">Zucali PA, De Pas T, Palmieri G, et al.: Phase II Study of Everolimus in Patients With Thymoma and Thymic Carcinoma Previously Treated With Cisplatin-Based Chemotherapy. J Clin Oncol 36 (4): 342-349, 2018.</Citation><Citation idx="8" PMID="32502444">Sato J, Satouchi M, Itoh S, et al.: Lenvatinib in patients with advanced or metastatic thymic carcinoma (REMORA): a multicentre, phase 2 trial. Lancet Oncol 21 (6): 843-850, 2020.</Citation><Citation idx="9" PMID="1410577" MedlineID="93029634">Urgesi A, Monetti U, Rossi G, et al.: Aggressive treatment of intrathoracic recurrences of thymoma. Radiother Oncol 24 (4): 221-5, 1992.</Citation><Citation idx="10" PMID="17192865">Okumura M, Shiono H, Inoue M, et al.: Outcome of surgical treatment for recurrent thymic epithelial tumors with reference to world health organization histologic classification system. J Surg Oncol 95 (1): 40-4, 2007.</Citation><Citation idx="11" PMID="9011702">Ruffini E, Mancuso M, Oliaro A, et al.: Recurrence of thymoma: analysis of clinicopathologic features, treatment, and outcome. J Thorac Cardiovasc Surg 113 (1): 55-63, 1997.</Citation><Citation idx="12" PMID="29906252">Cho J, Kim HS, Ku BM, et al.: Pembrolizumab for Patients With Refractory or Relapsed Thymic Epithelial Tumor: An Open-Label Phase II Trial. J Clin Oncol 37 (24): 2162-2170, 2019.</Citation><Citation idx="13" PMID="29395863">Giaccone G, Kim C, Thompson J, et al.: Pembrolizumab in patients with thymic carcinoma: a single-arm, single-centre, phase 2 study. Lancet Oncol 19 (3): 347-355, 2018.</Citation></ReferenceSection></SummarySection><SummarySection id="_60"><SectMetaData><SectionType>Changes to summary</SectionType></SectMetaData><Title>Actualizaciones más recientes a este resumen (01/17/2025)</Title><Para id="_61">Los resúmenes del PDQ con información sobre el cáncer se revisan con regularidad y se actualizan en la medida en que se obtiene nueva información.  Esta sección describe los cambios más recientes introducidos en este resumen a partir de la fecha arriba indicada.</Para><Para id="_715">Se incorporaron cambios editoriales en este resumen.</Para><Para id="_disclaimerHP_3">El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">Consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> es responsable de la redacción y actualización de este resumen y mantiene independencia editorial respecto del NCI. El resumen refleja una revisión independiente de la bibliografía médica y no representa las políticas del NCI ni de los NIH. Para obtener más  información sobre las políticas relativas a los resúmenes y la función de los  consejos editoriales  del PDQ responsables de su actualización, consultar <SummaryRef href="CDR0000256717#_AboutThis_1" url="/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">Información sobre este resumen del PDQ</SummaryRef> e   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq">Información del PDQ® sobre el cáncer dirigida a profesionales de la salud</ExternalRef>.</Para></SummarySection><SummarySection id="_AboutThis_1"><Title>Información sobre este resumen del PDQ</Title><SummarySection id="_AboutThis_2"><Title>Propósito de este resumen</Title><Para id="_AboutThis_3">Este resumen de información del PDQ sobre el cáncer dirigido a profesionales de la salud proporciona información integral revisada por expertos y basada en la evidencia  sobre el tratamiento del timoma y carcinoma tímico en adultos. El objetivo es servir como fuente de información y ayuda para los profesionales clínicos  durante la atención de pacientes. No  ofrece pautas ni recomendaciones formales para tomar decisiones relacionadas con la atención sanitaria.</Para></SummarySection><SummarySection id="_AboutThis_21"><Title>Revisores y actualizaciones</Title><Para id="_AboutThis_22">El   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef>, que mantiene independencia editorial respecto del  Instituto Nacional del Cáncer (NCI), revisa este resumen de manera periódica y, en caso necesario,   lo actualiza. Este resumen es el resultado de una revisión bibliográfica independiente y no constituye una declaración de política del NCI ni de los Institutos Nacionales de la Salud (NIH).</Para><Para id="_AboutThis_26">Cada mes, los integrantes de este consejo revisan los artículos  publicados recientemente para determinar lo siguiente:</Para><ItemizedList id="_AboutThis_23" Style="bullet"><ListItem>Si el artículo se debe analizar en una reunión del consejo.</ListItem><ListItem>Si conviene añadir texto acerca del artículo.</ListItem><ListItem>Si se debe reemplazar o actualizar un artículo que ya se citó.</ListItem></ItemizedList><Para id="_AboutThis_24">Los cambios en los resúmenes se deciden mediante consenso de los integrantes del consejo después de evaluar la solidez de la evidencia de los artículos publicados y determinar la forma de incorporar el artículo en el resumen.</Para><Para>Los revisores principales del sumario sobre Tratamiento del timoma y carcinoma tímico son:</Para><ItemizedList Style="bullet"><ListItem>Janet Dancey, MD, FRCPC (Ontario Institute for Cancer Research &amp; NCIC Clinical Trials Group)</ListItem><ListItem>Meredith McAdams, MD (National Cancer Institute)</ListItem><ListItem>Arun Rajan, MD (National Cancer Institute)</ListItem><ListItem>Eva Szabo, MD (National Cancer Institute)</ListItem></ItemizedList><Para id="_AboutThis_25">Cualquier comentario o pregunta sobre el contenido de este resumen se debe enviar al   <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.  Por favor, no enviar preguntas o comentarios directamente a los integrantes del consejo, ya que no responderán consultas de manera individual.</Para></SummarySection><SummarySection id="_AboutThis_9"><Title>Niveles de evidencia</Title><Para id="_AboutThis_10">Algunas de las referencias bibliográficas de este resumen se acompañan del nivel de evidencia. El propósito de esto es ayudar al lector a evaluar la solidez de la evidencia que respalda el uso de  ciertas intervenciones  o abordajes. El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> emplea un <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">sistema de jerarquización formal</SummaryRef> para asignar los niveles de evidencia científica.</Para></SummarySection><SummarySection id="_AboutThis_11"><Title>Permisos para el uso de este resumen</Title><Para id="_AboutThis_12">PDQ (Physician Data Query) es una marca registrada. Se autoriza el uso del texto  de los documentos del PDQ; sin embargo, no se podrá identificar como un resumen de información sobre cáncer del PDQ del  NCI,  salvo que el resumen se reproduzca en su totalidad y se actualice de manera periódica. Por otra parte, se permitirá que un autor  escriba una oración como “En el resumen del PDQ  del NCI de información sobre la prevención del cáncer de mama se describen, de manera concisa, los siguientes riesgos: [incluir fragmento del resumen]”.</Para><Para id="_AboutThis_13">Se sugiere citar la referencia bibliográfica de este resumen del PDQ de la siguiente forma:</Para><Para id="_AboutThis_14">PDQ® sobre el tratamiento para adultos. PDQ Tratamiento del timoma y carcinoma tímico. Bethesda, MD: National Cancer Institute. Actualización:  &lt;MM/DD/YYYY&gt;. Disponible en: <ExternalRef xref="https://www.cancer.gov/espanol/tipos/timoma/pro/tratamiento-timoma-pdq">https://www.cancer.gov/espanol/tipos/timoma/pro/tratamiento-timoma-pdq</ExternalRef>.  Fecha de acceso: &lt;MM/DD/YYYY&gt;. </Para><Para id="_AboutThis_15">Las imágenes  en este resumen se reproducen  con autorización del autor, el artista o la  editorial para uso exclusivo en los resúmenes del PDQ. La utilización de las imágenes fuera del  PDQ requiere la autorización del propietario, que el Instituto Nacional del Cáncer no  puede otorgar. Para obtener más información sobre el uso de las ilustraciones de este resumen o de  otras imágenes relacionadas con el cáncer, consultar <ExternalRef xref="https://visualsonline.cancer.gov/">Visuals Online</ExternalRef>, una colección de más de 2000 imágenes científicas.</Para></SummarySection><SummarySection id="_AboutThis_16"><Title>Cláusula sobre el descargo de responsabilidad</Title><Para id="_AboutThis_17">Según la solidez de la evidencia, las opciones de tratamiento se clasifican  como “estándar” o “en evaluación clínica”. Estas clasificaciones no  se deben utilizar para justificar decisiones sobre reembolsos de seguros. Para obtener más información  sobre la cobertura de seguros, consultar la página <ExternalRef xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer">Manejo de la atención del cáncer</ExternalRef> en Cancer.gov/espanol.</Para></SummarySection><SummarySection id="_AboutThis_19"><Title>Comuníquese con el Instituto Nacional del Cáncer</Title><Para id="_AboutThis_20">Para obtener más información sobre las opciones para comunicarse con el NCI, incluso la dirección de correo electrónico, el número telefónico o el chat, consultar la página del <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.</Para></SummarySection></SummarySection><TranslationOf ref="CDR0000062912"/><DateLastModified>2025-01-17</DateLastModified></Summary>

@@ -1,0 +1,236 @@
+<Summary id="CDR0000256675" LegacyPDQID=""><SummaryMetaData><SummaryType>Treatment</SummaryType><SummaryAudience>Health professionals</SummaryAudience><SummaryLanguage>Spanish</SummaryLanguage><SummaryDescription>Clasificación de los tumores de encéfalo (tumores cerebrales) y médula espinal en niños. Resumen para profesionales de la salud con enlaces a documentos sobre el tratamiento de estos tumores según sus características histológicas y localización.</SummaryDescription><SummaryURL xref="https://www.cancer.gov/espanol/tipos/cerebro/pro/tratamiento-cerebro-infantil-pdq">Resumen de la clasificación de los tumores de encéfalo y médula espinal infantiles (PDQ®): Tratamiento</SummaryURL><SummaryEditorialBoard ref="CDR0000028557">PDQ Pediatric Treatment Editorial Board</SummaryEditorialBoard><MainTopics><TermRef ref="CDR0000041539">childhood brain tumor</TermRef></MainTopics><SummaryAbstract>
+      <Para id="_420">This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of childhood brain and spinal cord tumors. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions.</Para>
+      <Para id="_421">This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board, which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).</Para>
+    </SummaryAbstract><SummaryKeyWords><SummaryKeyWord>childhood brain tumor</SummaryKeyWord></SummaryKeyWords></SummaryMetaData><SummaryTitle>Resumen de la clasificación de los tumores de encéfalo y médula espinal infantiles (PDQ®)–Versión para profesionales de salud</SummaryTitle><AltTitle TitleType="Browser">Resumen de la clasificación de los tumores de encéfalo y médula espinal infantiles (PDQ®)</AltTitle><AltTitle TitleType="CancerTypeHomePage">Resumen de la clasificación de los tumores de encéfalo y médula espinal infantiles</AltTitle><SummarySection id="_1"><SectMetaData><SpecificDiagnosis ref="CDR0000041539">childhood brain tumor</SpecificDiagnosis><SectionType>Prognosis--legacy</SectionType></SectMetaData><Title>Información general sobre los tumores de encéfalo y de médula espinal infantiles</Title><Para id="_441">Los tumores primarios de encéfalo son un grupo diverso de enfermedades que, juntas, constituyen el tumor sólido más frecuente de la niñez. El Central Brain Tumor Registry of the United States (CBTRUS) calcula que alrededor de 4300 niños reciben este diagnóstico cada año en los Estados Unidos.<Reference refidx="1"/></Para><Para id="_442">Los tumores de encéfalo (también llamados tumores encefálicos, tumores cerebrales o cánceres cerebrales) se clasifican según sus características histológicas, pero la ubicación del tumor y el grado de diseminación también son factores importantes que repercuten en el tratamiento y el pronóstico. Para el diagnóstico y la clasificación de los tumores, cada vez es más frecuente que se tome en cuenta la información de los análisis inmunohistoquímicos, los hallazgos citogenéticos y genético-moleculares, así como las mediciones de la actividad proliferativa.<Reference refidx="2"/></Para><ReferenceSection><Citation idx="1" PMID="24137015">Ostrom QT, Gittleman H, Farah P, et al.: CBTRUS statistical report: Primary brain and central nervous system tumors diagnosed in the United States in 2006-2010. Neuro Oncol 15 (Suppl 2): ii1-56, 2013.</Citation><Citation idx="2" PMID="27157931">Louis DN, Perry A, Reifenberger G, et al.: The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary. Acta Neuropathol 131 (6): 803-20, 2016.</Citation></ReferenceSection></SummarySection><SummarySection id="_397"><Title>Tipos de tumores de encéfalo y médula espinal infantiles</Title><Para id="_448">Para obtener información sobre los tipos de tumores de encéfalo y médula espinal infantiles y el resumen del PDQ correspondiente, consultar el cuadro a continuación. Si no se incluye algún tipo de tumor, significa que no se dispone de ningún resumen de tratamiento correspondiente en el PDQ.</Para><Table id="_443">
+      <Title>Tipo de tumor del sistema nervioso central, subtipo patológico y resumen de tratamiento del PDQ correspondiente</Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col0" ColNum="1" ColWidth="33.33%"/>
+        <ColSpec ColName="col1" ColNum="2" ColWidth="33.33%"/>
+        <ColSpec ColName="col2" ColNum="3" ColWidth="33.33%"/>
+        <THead>
+          <Row>
+            <entry>Tipo de tumor (según la clasificación de la OMS de 2021)<Superscript>a</Superscript></entry>
+            <entry>Subtipo patológico (según la clasificación de la OMS de 2021)<Superscript>a</Superscript></entry>
+            <entry>Resumen de tratamiento del PDQ correspondiente</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col2" NameSt="col0">SNC = sistema nervioso central; SC = sin clasificar; SAI = sin otra indicación; OMS = Organización Mundial de la Salud.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col2" NameSt="col0"><Superscript>a</Superscript>Clasificación de la OMS adaptada de Louis et al.<Reference refidx="1"/></entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="3"><Strong>Gliomas difusos de grado alto de tipo pediátrico</Strong></entry>
+            <entry>Glioma difuso de grado alto de tipo pediátrico, con H3 natural e <GeneName>IDH</GeneName> natural</entry>
+            <entry MoreRows="3"><SummaryRef href="CDR0000655358" url="/espanol/tipos/cerebro/pro/tratamiento-gliomas-astrocitomas-infantiles-pdq">Tratamiento de gliomas (incluso astrocitomas) y de tumores neuronales o glioneuronales infantiles</SummaryRef> <SummaryRef href="CDR0000655358" url="/espanol/tipos/cerebro/pro/tratamiento-gliomas-astrocitomas-infantiles-pdq"/></entry>
+          </Row>
+          <Row>
+            <entry>Glioma difuso de línea media con alteración H3 K27</entry>
+          </Row>
+          <Row>
+            <entry>Glioma hemisférico difuso con mutación H3 G34</entry>
+          </Row>
+          <Row>
+            <entry>Glioma hemisférico de tipo infantil (de lactantes)</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="5"><Strong>Gliomas astrocíticos circunscritos</Strong></entry>
+            <entry>Astrocitoma pilocítico</entry>
+            <entry MoreRows="5"><SummaryRef href="CDR0000655358" url="/espanol/tipos/cerebro/pro/tratamiento-gliomas-astrocitomas-infantiles-pdq">Tratamiento de gliomas (incluso astrocitomas) y de tumores neuronales o glioneuronales infantiles</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Astrocitoma de grado alto con características piloides</entry>
+          </Row>
+          <Row>
+            <entry>Astrocitoma subependimario de células gigantes</entry>
+          </Row>
+          <Row>
+            <entry>Xantoastrocitoma pleomórfico</entry>
+          </Row>
+          <Row>
+            <entry>Glioma coroideo</entry>
+          </Row>
+          <Row>
+            <entry>Astroblastoma con alteración de <GeneName>MN1</GeneName></entry>
+          </Row>
+          <Row>
+            <entry MoreRows="9"><Strong>Tumores ependimarios</Strong></entry>
+            <entry>Subependimoma</entry>
+            <entry MoreRows="9"><SummaryRef href="CDR0000256754" url="/espanol/tipos/cerebro/pro/tratamiento-ependimoma-infantil-pdq">Tratamiento del ependimoma infantil</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma mixopapilar</entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma supratentorial, SAI</entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma supratentorial, positivo para una fusión de <GeneName>ZFTA</GeneName></entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma supratentorial, positivo para una fusión de <GeneName>YAP1</GeneName></entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma de fosa posterior, SAI</entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma de fosa posterior del grupo A (PFA)</entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma de fosa posterior del grupo B (PFB)</entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma medular, SAI</entry>
+          </Row>
+          <Row>
+            <entry>Ependimoma medular con amplificación de <GeneName>MYCN</GeneName></entry>
+          </Row>
+          <Row>
+            <entry MoreRows="3"><Strong>Glioma difuso de grado bajo de tipo pediátrico</Strong></entry>
+            <entry>Astrocitoma difuso con alteración de <GeneName>MYB</GeneName> o <GeneName>MYBL1</GeneName></entry>
+            <entry MoreRows="3"><SummaryRef href="CDR0000655358" url="/espanol/tipos/cerebro/pro/tratamiento-gliomas-astrocitomas-infantiles-pdq">Tratamiento de gliomas (incluso astrocitomas) y de tumores neuronales o glioneuronales infantiles</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Glioma angiocéntrico</entry>
+          </Row>
+          <Row>
+            <entry>Tumor neuroepitelial polimorfo juvenil de grado bajo</entry>
+          </Row>
+          <Row>
+            <entry>Glioma difuso de grado bajo con alteración de la vía MAPK</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="14"><Strong>Tumores glioneuronales y neuronales</Strong></entry>
+            <entry>Tumor neuroepitelial disembrioplásico</entry>
+            <entry MoreRows="14"><SummaryRef href="CDR0000655358" url="/espanol/tipos/cerebro/pro/tratamiento-gliomas-astrocitomas-infantiles-pdq">Tratamiento de gliomas (incluso astrocitomas) y de tumores neuronales o glioneuronales infantiles</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Ganglioglioma</entry>
+          </Row>
+          <Row>
+            <entry>Gangliocitoma</entry>
+          </Row>
+          <Row>
+            <entry>Ganglioglioma desmoplásico infantil (de lactantes)</entry>
+          </Row>
+          <Row>
+            <entry>Astrocitoma desmoplásico infantil (de lactantes)</entry>
+          </Row>
+          <Row>
+            <entry>Tumor glioneuronal difuso con características similares al oligodendroglioma y cúmulos nucleares (entidad provisional)</entry>
+          </Row>
+          <Row>
+            <entry>Tumor glioneuronal papilar</entry>
+          </Row>
+          <Row>
+            <entry>Tumor glioneuronal formador de rosetas</entry>
+          </Row>
+          <Row>
+            <entry>Tumor glioneuronal mixoide</entry>
+          </Row>
+          <Row>
+            <entry>Tumor glioneuronal leptomeníngeo difuso</entry>
+          </Row>
+          <Row>
+            <entry>Tumor neuronal multinodular y vacuolizante</entry>
+          </Row>
+          <Row>
+            <entry>Gangliocitoma displásico cerebeloso (enfermedad de Lhermitte-Duclos)</entry>
+          </Row>
+          <Row>
+            <entry>Neurocitoma extraventricular</entry>
+          </Row>
+          <Row>
+            <entry>Liponeurocitoma cerebeloso</entry>
+          </Row>
+          <Row>
+            <entry>Neurocitoma central</entry>
+          </Row>
+          <Row>
+            <entry><Strong>Tumores de la región pineal</Strong></entry>
+            <entry>Pineoblastoma</entry>
+            <entry><SummaryRef href="CDR0000588641" url="/espanol/tipos/cerebro/pro/tratamiento-embrionarios-snc-infantil-pdq">Tratamiento del meduloblastoma y otros tumores embrionarios del sistema nervioso central infantil</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry MoreRows="12"><Strong>Tumores embrionarios</Strong></entry>
+            <entry>Meduloblastoma con activación de <GeneName>WNT</GeneName></entry>
+            <entry MoreRows="11"><SummaryRef href="CDR0000588641" url="/espanol/tipos/cerebro/pro/tratamiento-embrionarios-snc-infantil-pdq">Tratamiento del meduloblastoma y otros tumores embrionarios del sistema nervioso central infantil</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Meduloblastoma con activación de SHH y mutación en <GeneName>TP53</GeneName>; meduloblastoma con activación de SHH y <GeneName>TP53</GeneName> natural</entry>
+          </Row>
+          <Row>
+            <entry>Meduloblastoma, sin activación de <GeneName>WNT</GeneName> ni SHH</entry>
+          </Row>
+          <Row>
+            <entry>Meduloblastoma definido por características histológicas</entry>
+          </Row>
+          <Row>
+            <entry>Meduloblastoma desmoplásico nodular</entry>
+          </Row>
+          <Row>
+            <entry>Meduloblastoma con nodularidad extensa</entry>
+          </Row>
+          <Row>
+            <entry>Meduloblastoma de células grandes</entry>
+          </Row>
+          <Row>
+            <entry>Meduloblastoma anaplásico</entry>
+          </Row>
+          <Row>
+            <entry>Tumor embrionario con rosetas de capas múltiples y alteración de <GeneName>C19MC</GeneName></entry>
+          </Row>
+          <Row>
+            <entry>Tumor del SNC con duplicación interna en tándem de <GeneName>BCOR</GeneName></entry>
+          </Row>
+          <Row>
+            <entry>Neuroblastoma del SNC con activación de <GeneName>FOXR2</GeneName></entry>
+          </Row>
+          <Row>
+            <entry>Tumor embrionario del SNC, SC o SAI</entry>
+          </Row>
+          <Row>
+            <entry>Tumor teratoide rabdoide atípico</entry>
+            <entry><SummaryRef href="CDR0000632470" url="/espanol/tipos/cerebro/pro/tratamiento-atrt-snc-infantil-pdq">Tratamiento del tumor teratoide rabdoide atípico del sistema nervioso central infantil</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry MoreRows="7"><Strong>Tumores de células germinativas</Strong></entry>
+            <entry>Germinoma</entry>
+            <entry MoreRows="7"><SummaryRef href="CDR0000722293" url="/espanol/tipos/cerebro/pro/tratamiento-celulas-germinativas-snc-infantil-pdq">Tratamiento de los tumores de células germinativas del sistema nervioso central infantil</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Carcinoma embrionario</entry>
+          </Row>
+          <Row>
+            <entry>Tumor de saco vitelino</entry>
+          </Row>
+          <Row>
+            <entry>Coriocarcinoma</entry>
+          </Row>
+          <Row>
+            <entry>Teratoma maduro</entry>
+          </Row>
+          <Row>
+            <entry>Teratoma inmaduro</entry>
+          </Row>
+          <Row>
+            <entry>Teratoma con malignidad de tipo somático</entry>
+          </Row>
+          <Row>
+            <entry>Tumor mixto de células germinativas</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="1"><Strong>Tumores de la región selar</Strong></entry>
+            <entry>Craneofaringioma adamantinomatoso</entry>
+            <entry MoreRows="1"><SummaryRef href="CDR0000632986" url="/espanol/tipos/cerebro/pro/tratamiento-craneo-infantil-pdq">Tratamiento del craneofaringioma infantil</SummaryRef></entry>
+          </Row>
+          <Row>
+            <entry>Craneofaringioma papilar</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><ReferenceSection><Citation idx="1" PMID="34185076">Louis DN, Perry A, Wesseling P, et al.: The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro Oncol 23 (8): 1231-1251, 2021.</Citation></ReferenceSection></SummarySection><SummarySection id="_112"><SectMetaData><SectionType>Changes to summary</SectionType></SectMetaData><Title>Actualizaciones más recientes a este resumen (12/20/2023)</Title><Para id="_113">Los resúmenes del PDQ con información sobre el cáncer se revisan con regularidad y se actualizan a medida que se obtiene nueva información. Esta sección describe los cambios más recientes introducidos en este resumen a partir de la fecha arriba indicada.</Para><Para id="_449">Este resumen fue objeto de revisión integral.</Para><Para id="_450">El título de este resumen se cambió de Descripción del tratamiento de tumores de encéfalo y de médula espinal infantiles a Resumen de la clasificación de los tumores de encéfalo y médula espinal infantiles.</Para><Para id="_disclaimerHP_3">El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-pediatrico">Consejo editorial del PDQ sobre el tratamiento pediátrico</ExternalRef> es responsable de la redacción y actualización de este resumen y mantiene independencia editorial respecto del NCI. El resumen refleja una revisión independiente de la bibliografía médica y no representa las políticas del NCI ni de los NIH. Para obtener más  información sobre las políticas relativas a los resúmenes y la función de los  consejos editoriales  del PDQ responsables de su actualización, consultar <SummaryRef href="CDR0000256675#_AboutThis_1" url="/espanol/tipos/cerebro/pro/tratamiento-cerebro-infantil-pdq">Información sobre este resumen del PDQ</SummaryRef> e   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq">Información del PDQ® sobre el cáncer dirigida a profesionales de la salud</ExternalRef>.</Para></SummarySection><SummarySection id="_AboutThis_1"><Title>Información sobre este resumen del PDQ</Title><SummarySection id="_AboutThis_2"><Title>Propósito de este resumen</Title><Para id="_AboutThis_3">Este resumen de información del PDQ sobre el cáncer dirigido a profesionales de la salud proporciona información integral revisada por expertos y basada en la evidencia  sobre el tratamiento de tumores de encéfalo y de médula espinal infantiles. El objetivo es servir como fuente de información y ayuda para los profesionales clínicos  durante la atención de pacientes. No  ofrece pautas ni recomendaciones formales para tomar decisiones relacionadas con la atención sanitaria.</Para></SummarySection><SummarySection id="_AboutThis_21"><Title>Revisores y actualizaciones</Title><Para id="_AboutThis_22">El   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-pediatrico">consejo editorial del PDQ sobre el tratamiento pediátrico</ExternalRef>, que mantiene independencia editorial respecto del  Instituto Nacional del Cáncer (NCI), revisa este resumen de manera periódica y, en caso necesario,   lo actualiza. Este resumen es el resultado de una revisión bibliográfica independiente y no constituye una declaración de política del NCI ni de los Institutos Nacionales de la Salud (NIH).</Para><Para id="_AboutThis_26">Cada mes, los integrantes de este consejo revisan los artículos  publicados recientemente para determinar lo siguiente:</Para><ItemizedList id="_AboutThis_23" Style="bullet"><ListItem>Si el artículo se debe analizar en una reunión del consejo.</ListItem><ListItem>Si conviene añadir texto acerca del artículo.</ListItem><ListItem>Si se debe reemplazar o actualizar un artículo que ya se citó.</ListItem></ItemizedList><Para id="_AboutThis_24">Los cambios en los resúmenes se deciden mediante consenso de los integrantes del consejo después de evaluar la solidez de la evidencia de los artículos publicados y determinar la forma de incorporar el artículo en el resumen.</Para><Para>Los revisores principales del sumario sobre Resumen de la clasificación de los tumores de encéfalo y médula espinal infantiles son:</Para><ItemizedList Style="bullet"><ListItem>Kenneth J. Cohen, MD, MBA (Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Hospital)</ListItem><ListItem>Louis S. Constine, MD (James P. Wilmot Cancer Center at University of Rochester Medical Center)</ListItem><ListItem>Roger J. Packer, MD (Children's National Hospital)</ListItem><ListItem>D. Williams Parsons, MD, PhD (Texas Children's Hospital)</ListItem><ListItem>Malcolm A. Smith, MD, PhD (National Cancer Institute)</ListItem></ItemizedList><Para id="_AboutThis_25">Cualquier comentario o pregunta sobre el contenido de este resumen se debe enviar al   <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.  Por favor, no enviar preguntas o comentarios directamente a los integrantes del consejo, ya que no responderán consultas de manera individual.</Para></SummarySection><SummarySection id="_AboutThis_9"><Title>Niveles de evidencia</Title><Para id="_AboutThis_10">Algunas de las referencias bibliográficas de este resumen se acompañan del nivel de evidencia. El propósito de esto es ayudar al lector a evaluar la solidez de la evidencia que respalda el uso de  ciertas intervenciones  o abordajes. El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-pediatrico">consejo editorial del PDQ sobre el tratamiento pediátrico</ExternalRef> emplea un <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">sistema de jerarquización formal</SummaryRef> para asignar los niveles de evidencia científica.</Para></SummarySection><SummarySection id="_AboutThis_11"><Title>Permisos para el uso de este resumen</Title><Para id="_AboutThis_12">PDQ (Physician Data Query) es una marca registrada. Se autoriza el uso del texto  de los documentos del PDQ; sin embargo, no se podrá identificar como un resumen de información sobre cáncer del PDQ del  NCI,  salvo que el resumen se reproduzca en su totalidad y se actualice de manera periódica. Por otra parte, se permitirá que un autor  escriba una oración como “En el resumen del PDQ  del NCI de información sobre la prevención del cáncer de mama se describen, de manera concisa, los siguientes riesgos: [incluir fragmento del resumen]”.</Para><Para id="_AboutThis_13">Se sugiere citar la referencia bibliográfica de este resumen del PDQ de la siguiente forma:</Para><Para id="_AboutThis_14">PDQ® sobre el tratamiento pediátrico. PDQ Resumen de la clasificación de los tumores de encéfalo y médula espinal infantiles. Bethesda, MD: National Cancer Institute. Actualización:  &lt;MM/DD/YYYY&gt;. Disponible en: <ExternalRef xref="https://www.cancer.gov/espanol/tipos/cerebro/pro/tratamiento-cerebro-infantil-pdq">https://www.cancer.gov/espanol/tipos/cerebro/pro/tratamiento-cerebro-infantil-pdq</ExternalRef>.  Fecha de acceso: &lt;MM/DD/YYYY&gt;. </Para><Para id="_AboutThis_15">Las imágenes  en este resumen se reproducen  con autorización del autor, el artista o la  editorial para uso exclusivo en los resúmenes del PDQ. La utilización de las imágenes fuera del  PDQ requiere la autorización del propietario, que el Instituto Nacional del Cáncer no  puede otorgar. Para obtener más información sobre el uso de las ilustraciones de este resumen o de  otras imágenes relacionadas con el cáncer, consultar <ExternalRef xref="https://visualsonline.cancer.gov/">Visuals Online</ExternalRef>, una colección de más de 2000 imágenes científicas.</Para></SummarySection><SummarySection id="_AboutThis_16"><Title>Cláusula sobre el descargo de responsabilidad</Title><Para id="_AboutThis_17">Según la solidez de la evidencia, las opciones de tratamiento se clasifican  como “estándar” o “en evaluación clínica”. Estas clasificaciones no  se deben utilizar para justificar decisiones sobre reembolsos de seguros. Para obtener más información  sobre la cobertura de seguros, consultar la página <ExternalRef xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer">Manejo de la atención del cáncer</ExternalRef> en Cancer.gov/espanol.</Para></SummarySection><SummarySection id="_AboutThis_19"><Title>Comuníquese con el Instituto Nacional del Cáncer</Title><Para id="_AboutThis_20">Para obtener más información sobre las opciones para comunicarse con el NCI, incluso la dirección de correo electrónico, el número telefónico o el chat, consultar la página del <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.</Para></SummarySection></SummarySection><TranslationOf ref="CDR0000062680"/><DateLastModified>2023-12-20</DateLastModified></Summary>

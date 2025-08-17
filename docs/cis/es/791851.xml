@@ -1,0 +1,447 @@
+<Summary id="CDR0000791851" LegacyPDQID=""><SummaryMetaData><SummaryType>Treatment</SummaryType><SummaryAudience>Health professionals</SummaryAudience><SummaryLanguage>Spanish</SummaryLanguage><SummaryDescription>Información sobre las opciones de tratamiento de los niños con cáncer de nasofaringe: terapia de modalidad combinada con quimiorradioterapia.  Esta enfermedad suele ser irresecable por diseminación local extensa y la cirugía casi no se usa. Resumen para profesionales de la salud.</SummaryDescription><SummaryURL xref="https://www.cancer.gov/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Cáncer de nasofaringe infantil (PDQ®): Tratamiento</SummaryURL><SummaryEditorialBoard ref="CDR0000028557">PDQ Pediatric Treatment Editorial Board</SummaryEditorialBoard><MainTopics><TermRef ref="CDR0000038904">nasopharyngeal cancer</TermRef></MainTopics><SummaryAbstract>
+      <Para id="_1556">This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of childhood nasopharyngeal cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions.</Para>
+      <Para id="_1557">This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board, which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).</Para>
+    </SummaryAbstract><SummaryKeyWords><SummaryKeyWord>Nasopharyngeal cancer</SummaryKeyWord></SummaryKeyWords></SummaryMetaData><SummaryTitle>Tratamiento del cáncer de nasofaringe infantil (PDQ®)–Versión para profesionales de salud</SummaryTitle><AltTitle TitleType="Browser">Tratamiento del cáncer de nasofaringe infantil (PDQ®)</AltTitle><AltTitle TitleType="CancerTypeHomePage">Tratamiento del cáncer de nasofaringe infantil</AltTitle><SummarySection id="_905"><Title>Incidencia</Title><Para id="_906">El carcinoma de nasofaringe (carcinoma nasofaríngeo) surge en el revestimiento de la cavidad nasal y la faringe, y representa alrededor de un tercio de todos los cánceres de las vías respiratorias superiores en los niños.<Reference refidx="1"/><Reference refidx="2"/></Para><Para id="_1880">Las tasas de incidencia ajustadas por edad (2016–2020) para ambos sexos y todas las razas en personas menores de 20 años en los Estados Unidos se muestran en el <SummaryRef href="CDR0000791851#_2462" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Cuadro 1</SummaryRef>.<Reference refidx="3"/> El carcinoma de nasofaringe es un tipo de cáncer muy raro en niños menores de 10 años, pero su incidencia anual aumenta hasta 0,5 casos por 1 millón entre los 10 a 14 años y hasta 1,1 casos por millón entre los 15 a 19 años de edad.<Reference refidx="3"/></Para><Table id="_2462">
+      <Title>Cuadro 1.  Tasas de incidencia ajustadas por edad del carcinoma de nasofaringe en personas menores de 20 años en los Estados Unidos (2016–2020)<Superscript>a</Superscript></Title>
+      <TGroup Cols="2">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="50.00%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="50.00%"/>
+        <THead>
+          <Row>
+            <entry>Edad</entry>
+            <entry>Tasa por 1 000 000</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col2" NameSt="col1"><Superscript>a</Superscript>Adaptación del National Childhood Cancer Registry.<Reference refidx="3"/></entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry>0–4 años</entry>
+            <entry>0</entry>
+          </Row>
+          <Row>
+            <entry>5–9 años</entry>
+            <entry>0,1</entry>
+          </Row>
+          <Row>
+            <entry>10–14 años</entry>
+            <entry>0,5</entry>
+          </Row>
+          <Row>
+            <entry>15–19 años</entry>
+            <entry>1,1</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Para id="_1234">La incidencia del carcinoma de nasofaringe se caracteriza por variaciones raciales y geográficas, con una distribución endémica entre grupos étnicos bien definidos. Estos grupos incluyen a los habitantes de algunas áreas del África del Norte, la cuenca mediterránea y, en particular, Asia del Sudeste. En los Estados Unidos, la incidencia de carcinoma de nasofaringe es marcadamente más alta en los niños y adolescentes negros que en otros grupos raciales o étnicos (ver el <SummaryRef href="CDR0000791851#_2463" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Cuadro 2</SummaryRef>).<Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/></Para><Table id="_2463">
+      <Title>Cuadro 2.  Tasas de incidencia ajustadas por edad del carcinoma de nasofaringe en personas menores de 20 años en los Estados Unidos, por raza o grupo étnico para ambos sexos (2016–2020; NCCR)</Title>
+      <TGroup Cols="4">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="32.20%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="30.50%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="16.94%"/>
+        <ColSpec ColName="col4" ColNum="4" ColWidth="20.33%"/>
+        <THead>
+          <Row>
+            <entry>Raza o etnia</entry>
+            <entry>Tasa por 1 000 000</entry>
+            <entry>Límite inferior del IC 95 %</entry>
+            <entry>Límite superior del IC 95 %</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col4" NameSt="col1">IC = intervalo de confianza.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col4" NameSt="col1"><Superscript>a</Superscript>Adaptación del National Childhood Cancer Registry.<Reference refidx="3"/></entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry>Todas las razas</entry>
+            <entry>0,4</entry>
+            <entry>0,3</entry>
+            <entry>0,5</entry>
+          </Row>
+          <Row>
+            <entry>Personas hispanas</entry>
+            <entry>0,4</entry>
+            <entry>0,3</entry>
+            <entry>0,6</entry>
+          </Row>
+          <Row>
+            <entry>Personas asiáticas no hispanas o isleñas del Pacífico</entry>
+            <entry>0,4</entry>
+            <entry>0,2</entry>
+            <entry>0,8</entry>
+          </Row>
+          <Row>
+            <entry>Personas negras no hispanas</entry>
+            <entry>1,0</entry>
+            <entry>0,7</entry>
+            <entry>1,4</entry>
+          </Row>
+          <Row>
+            <entry>Personas blancas no hispanas</entry>
+            <entry>0,2</entry>
+            <entry>0,2</entry>
+            <entry>0,3</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><ReferenceSection><Citation idx="1" PMID="12517535">Ayan I, Kaytan E, Ayan N: Childhood nasopharyngeal carcinoma: from biology to treatment. Lancet Oncol 4 (1): 13-21, 2003.</Citation><Citation idx="2" PMID="23830224">Yan Z, Xia L, Huang Y, et al.: Nasopharyngeal carcinoma in children and adolescents in an endemic area: a report of 185 cases. Int J Pediatr Otorhinolaryngol 77 (9): 1454-60, 2013.</Citation><Citation idx="3">National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. <ExternalRef xref="https://NCCRExplorer.ccdi.cancer.gov/">Available online</ExternalRef>. Last accessed February 25, 2025.</Citation><Citation idx="4" PMID="20582982">Sultan I, Casanova M, Ferrari A, et al.: Differential features of nasopharyngeal carcinoma in children and adults: a SEER study. Pediatr Blood Cancer 55 (2): 279-84, 2010.</Citation><Citation idx="5" PMID="26769566">Richards MK, Dahl JP, Gow K, et al.: Factors Associated With Mortality in Pediatric vs Adult Nasopharyngeal Carcinoma. JAMA Otolaryngol Head Neck Surg 142 (3): 217-22, 2016.</Citation></ReferenceSection></SummarySection><SummarySection id="_907"><Title>Factores de riesgo</Title><Para id="_908"><Strong>Infección por el virus de Epstein-Barr (VEB).</Strong> El carcinoma de nasofaringe se relaciona de manera importante con la infección por el VEB. Además de que se hallan indicios serológicos de esta infección en más del 98 % de los pacientes, también se encuentra DNA del VEB como un episoma monoclonal en las células del carcinoma de nasofaringe; por otra parte, las células tumorales pueden expresar antígenos del VEB en su superficie.<Reference refidx="1"/> Las concentraciones circulantes de DNA del VEB y la documentación serológica de la infección por el VEB facilitan el diagnóstico.<Reference refidx="2"/></Para><Para id="_2402"><Strong>Subtipos de HLA.</Strong> Los subtipos específicos de HLA, como el haplotipo HLA A2Bsin2, se relacionan con un riesgo más alto de carcinoma de nasofaringe.<Reference refidx="3"/></Para><ReferenceSection><Citation idx="1" PMID="22249143">Dawson CW, Port RJ, Young LS: The role of the EBV-encoded latent membrane proteins LMP1 and LMP2 in the pathogenesis of nasopharyngeal carcinoma (NPC). Semin Cancer Biol 22 (2): 144-53, 2012.</Citation><Citation idx="2" PMID="10096545">Lo YM, Chan LY, Lo KW, et al.: Quantitative analysis of cell-free Epstein-Barr virus DNA in plasma of patients with nasopharyngeal carcinoma. Cancer Res 59 (6): 1188-91, 1999.</Citation><Citation idx="3" PMID="12517535">Ayan I, Kaytan E, Ayan N: Childhood nasopharyngeal carcinoma: from biology to treatment. Lancet Oncol 4 (1): 13-21, 2003.</Citation></ReferenceSection></SummarySection><SummarySection id="_911"><Title>Cuadro clínico inicial</Title><Para id="_912">Debido al abundante drenaje linfático de la nasofaringe, la linfadenopatía cervical bilateral con frecuencia es el primer signo del carcinoma de nasofaringe. Otros signos y síntomas son los siguientes:<Reference refidx="1"/><Reference refidx="2"/></Para><ItemizedList id="_1237" Style="bullet">
+      <ListItem>Hemorragias nasales.</ListItem>
+      <ListItem>Congestión y obstrucción nasal.</ListItem>
+      <ListItem>Cefalea.</ListItem>
+      <ListItem>Otalgia.</ListItem>
+      <ListItem>Otitis media.</ListItem>
+    </ItemizedList><Para id="_1238">El tumor se disemina localmente a las áreas adyacentes de la orofaringe y es posible que invada la base del cráneo, dando lugar a parálisis de nervios craneales o dificultad para mover la mandíbula (trismo). Los sitios de metástasis a distancia incluyen los huesos, los pulmones y el hígado.</Para><ReferenceSection><Citation idx="1" PMID="23830224">Yan Z, Xia L, Huang Y, et al.: Nasopharyngeal carcinoma in children and adolescents in an endemic area: a report of 185 cases. Int J Pediatr Otorhinolaryngol 77 (9): 1454-60, 2013.</Citation><Citation idx="2" PMID="23303571">Hu S, Xu X, Xu J, et al.: Prognostic factors and long-term outcomes of nasopharyngeal carcinoma in children and adolescents. Pediatr Blood Cancer 60 (7): 1122-7, 2013.</Citation></ReferenceSection></SummarySection><SummarySection id="_913"><Title>Evaluación para el diagnóstico y la estadificación</Title><Para id="_914">Las pruebas diagnósticas determinarán el grado de extensión del tumor primario y la presencia de metástasis. Para determinar el grado de extensión del tumor primario, un especialista en otorrinolaringología observará la nasofaringe durante una endoscopia nasal o en una resonancia magnética de la cabeza y el cuello.</Para><Para id="_1240">Es posible establecer el diagnóstico con una biopsia del tumor primario o de las adenopatías del cuello. Los carcinomas de nasofaringe se deben diferenciar de todos los tipos de cáncer que se manifiestan con adenopatías y de otros tipos de cáncer del área de la cabeza y el cuello. En consecuencia, se deben considerar enfermedades como el cáncer de tiroides, el rabdomiosarcoma, el linfoma no Hodgkin (incluso el linfoma de Burkitt) y el linfoma de Hodgkin, además de afecciones benignas como el angiofibroma nasal (que suele producir epistaxis en adolescentes varones), la linfadenitis infecciosa y la enfermedad de Rosai-Dorfman.</Para><Para id="_1241">También se deben evaluar el tórax y el abdomen mediante tomografía computarizada (TC) y gammagrafía ósea para determinar si hay enfermedad metastásica. La tomografía por emisión de positrones (TEP) con flúor F 18-fludesoxiglucosa también puede ser útil en la evaluación de posibles lesiones metastásicas.<Reference refidx="1"/></Para><ReferenceSection><Citation idx="1" PMID="22532252">Cheuk DK, Sabin ND, Hossain M, et al.: PET/CT for staging and follow-up of pediatric nasopharyngeal carcinoma. Eur J Nucl Med Mol Imaging 39 (7): 1097-106, 2012.</Citation></ReferenceSection></SummarySection><SummarySection id="_909"><Title>Características histológicas</Title><Para id="_910">La Organización Mundial de la Salud (OMS) reconoce los siguientes tres subtipos histológicos de carcinoma de nasofaringe:</Para><ItemizedList id="_1235" Style="bullet">
+      <ListItem>Tipo I: carcinoma de células escamosas queratinizantes.</ListItem>
+      <ListItem>Tipo II: carcinoma de células escamosas no queratinizantes. El tipo II se subclasifica además en tipo IIa y IIb por la presencia o ausencia de infiltración linfoide, respectivamente.</ListItem>
+      <ListItem>Tipo III: carcinoma indiferenciado. El tipo III se subclasifica además en tipo IIIa y IIIb por la presencia o ausencia de infiltración linfoide, respectivamente.</ListItem>
+    </ItemizedList><Para id="_1236">Es más probable que los niños con carcinoma de nasofaringe tengan enfermedad de tipo II o III de la OMS.<Reference refidx="1"/><Reference refidx="2"/></Para><ReferenceSection><Citation idx="1" PMID="20582982">Sultan I, Casanova M, Ferrari A, et al.: Differential features of nasopharyngeal carcinoma in children and adults: a SEER study. Pediatr Blood Cancer 55 (2): 279-84, 2010.</Citation><Citation idx="2" PMID="26769566">Richards MK, Dahl JP, Gow K, et al.: Factors Associated With Mortality in Pediatric vs Adult Nasopharyngeal Carcinoma. JAMA Otolaryngol Head Neck Surg 142 (3): 217-22, 2016.</Citation></ReferenceSection></SummarySection><SummarySection id="_2426"><Title>Características genómicas del carcinoma de nasofaringe infantil</Title><Para id="_2425">En 4 centros de atención académicos terciarios de China se estudió a 30 pacientes (25 hombres y 5 mujeres) menores de 20 años con carcinoma de nasofaringe confirmado patológicamente.<Reference refidx="1"/> Se obtuvieron muestras de tumores primarios de nasofaringe con muestras de sangre emparejadas y se hizo secuenciación del exoma completo. En el carcinoma de nasofaringe se observó la alteración frecuente de varios genes como <GeneName>SHOC1</GeneName> (antes conocido como <GeneName>C9orf84</GeneName>) (20 %), <GeneName>ZFHX4</GeneName> (16,7 %), <GeneName>ZC3H6</GeneName> (16,7 %) y <GeneName>RBM38</GeneName> (16,7 %). El análisis del número de copias reveló una ganancia o amplificación muy recurrente de los genes de HLA de clase II en 6p21.32 (63,3 %) y pérdidas de <GeneName>TOLLIP</GeneName> en 11p15.5 (20 %). Además, se encontraron por primera vez variantes de fusión recurrentes de <GeneName>NUTM1</GeneName> (16,7 %) en el carcinoma de nasofaringe. Las fusiones génicas fueron <GeneName>NUTM1</GeneName>::<GeneName>PAIP2B</GeneName>, <GeneName>NUTM1</GeneName>::<GeneName>TFDP2</GeneName> y <GeneName>NUTM1</GeneName>::<GeneName>CUL2</GeneName>. En el estudio también se observó que 8 de 30 pacientes (26,7 %) con carcinoma de nasofaringe portaban variantes germinales patogénicas o probablemente patogénicas en genes conocidos de predisposición al cáncer.</Para><Para id="_2433">En otro análisis, se confirmó la deleción homocigótica del locus de <GeneName>CDKN2A</GeneName> en 9p21.3 en 7 de 15 muestras de carcinoma de nasofaringe (46,7 %) y en 3 de 5 líneas celulares o xenoinjertos derivados de pacientes (60 %). Se encontró amplificación de <GeneName>CCND1</GeneName> en 3 de 20 tumores de nasofaringe (15 %).<Reference refidx="2"/> La secuenciación del genoma completo del carcinoma de nasofaringe reveló que el gen <GeneName>TP53</GeneName> fue el más alterado (n = 10), con significación estadística, seguido de <GeneName>TRAF3</GeneName>, <GeneName>NFKBIA</GeneName>, <GeneName>AEBP1</GeneName> y <GeneName>NLRC5</GeneName>. Se notificó que todos estos genes regulan el factor nuclear κB.<Reference refidx="3"/> Además, las anomalías somáticas significativas detectadas en HLA-A y <GeneName>NLRC5</GeneName> indican un deterioro de la presentación de antígenos, mientras que las variantes de <GeneName>PTEN</GeneName> pueden activar la vía PI3K. En este estudio se encontraron 4 genes codificantes con alteraciones significativas, a saber, <GeneName>PLIN4</GeneName>, <GeneName>MUC21</GeneName>, <GeneName>SLC35G5</GeneName> y <GeneName>ERVW-1</GeneName>.</Para><ReferenceSection><Citation idx="1" PMID="36332446">Wu B, Shen L, Peng G, et al.: Molecular characteristics of pediatric nasopharyngeal carcinoma using whole-exome sequencing. Oral Oncol 135: 106218, 2022.</Citation><Citation idx="2" PMID="31521748">Tsang CM, Lui VWY, Bruce JP, et al.: Translational genomics of nasopharyngeal cancer. Semin Cancer Biol 61: 84-100, 2020.</Citation><Citation idx="3" PMID="34234122">Bruce JP, To KF, Lui VWY, et al.: Whole-genome profiling of nasopharyngeal carcinoma reveals viral-host co-operation in inflammatory NF-κB activation and immune escape. Nat Commun 12 (1): 4193, 2021.</Citation></ReferenceSection></SummarySection><SummarySection id="_917"><Title>Pronóstico</Title><Para id="_918">La supervivencia general de los niños y adolescentes con cáncer de nasofaringe ha mejorado en los últimos 40 años gracias al uso de tratamiento multimodal de vanguardia.<Reference refidx="1"/><Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/><Reference refidx="6"/><Reference refidx="7"/><Reference refidx="8"/> La tasa de supervivencia relativa a 5 años fue del 91 % en los pacientes menores de 20 años a los que se les diagnosticó carcinoma de nasofaringe en los Estados Unidos entre 2013 y 2019.<Reference refidx="9"/> Después de controlar por estadio, los niños con carcinoma de nasofaringe tienen desenlaces significativamente mejores que los adultos.<Reference refidx="1"/><Reference refidx="7"/> Sin embargo, el uso intensivo de quimioterapia y radioterapia produce compliaciones mórbidas agudas y a largo plazo importantes, incluso neoplasias subsiguientes.<Reference refidx="1"/><Reference refidx="2"/><Reference refidx="3"/><Reference refidx="6"/></Para><ReferenceSection><Citation idx="1" PMID="20582982">Sultan I, Casanova M, Ferrari A, et al.: Differential features of nasopharyngeal carcinoma in children and adults: a SEER study. Pediatr Blood Cancer 55 (2): 279-84, 2010.</Citation><Citation idx="2" PMID="20737561">Cheuk DK, Billups CA, Martin MG, et al.: Prognostic factors and long-term outcomes of childhood nasopharyngeal carcinoma. Cancer 117 (1): 197-206, 2011.</Citation><Citation idx="3" PMID="21918965">Casanova M, Bisogno G, Gandola L, et al.: A prospective protocol for nasopharyngeal carcinoma in children and adolescents: the Italian Rare Tumors in Pediatric Age (TREP) project. Cancer 118 (10): 2718-25, 2012.</Citation><Citation idx="4" PMID="22359313">Buehrlen M, Zwaan CM, Granzen B, et al.: Multimodal treatment, including interferon beta, of nasopharyngeal carcinoma in children and young adults: preliminary results from the prospective, multicenter study NPC-2003-GPOH/DCOG. Cancer 118 (19): 4892-900, 2012.</Citation><Citation idx="5" PMID="23303571">Hu S, Xu X, Xu J, et al.: Prognostic factors and long-term outcomes of nasopharyngeal carcinoma in children and adolescents. Pediatr Blood Cancer 60 (7): 1122-7, 2013.</Citation><Citation idx="6" PMID="27681956">Sahai P, Mohanti BK, Sharma A, et al.: Clinical outcome and morbidity in pediatric patients with nasopharyngeal cancer treated with chemoradiotherapy. Pediatr Blood Cancer 64 (2): 259-266, 2017.</Citation><Citation idx="7" PMID="26769566">Richards MK, Dahl JP, Gow K, et al.: Factors Associated With Mortality in Pediatric vs Adult Nasopharyngeal Carcinoma. JAMA Otolaryngol Head Neck Surg 142 (3): 217-22, 2016.</Citation><Citation idx="8" PMID="27318701">Gioacchini FM, Tulli M, Kaleci S, et al.: Prognostic aspects in the treatment of juvenile nasopharyngeal carcinoma: a systematic review. Eur Arch Otorhinolaryngol 274 (3): 1205-1214, 2017.</Citation><Citation idx="9">National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. <ExternalRef xref="https://NCCRExplorer.ccdi.cancer.gov/">Available online</ExternalRef>. Last accessed February 25, 2025.</Citation></ReferenceSection></SummarySection><SummarySection id="_915"><Title>Información sobre los estadios del carcinoma de nasofaringe infantil</Title><Para id="_916">La estadificación del tumor se realiza mediante el sistema de clasificación por tumor, ganglios y metástasis (TNM) del American Joint Committee on Cancer (AJCC).<Reference refidx="1"/><Reference refidx="2"/></Para><Para id="_203">El AJCC designó la estadificación según la clasificación TNM para definir el carcinoma de nasofaringe.<Reference refidx="3"/></Para><Table id="_337">
+      <Title>Cuadro 3.  Definiciones TNM para el estadio 0<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="12.67%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="27.75%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="59.56%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">TNM</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Nasopharynx. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8.ª edición Nueva York, NY: Springer, 2017, págs. 103-11.</entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="2">0</entry>
+            <entry MoreRows="2">Tis, N0, M0</entry>
+            <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Table id="_338">
+      <Title>Cuadro 4. Definiciones TNM para el estadio I<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="12.98%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="27.14%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="59.87%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">TNM</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Nasopharynx. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8.ª edición Nueva York, NY: Springer, 2017, págs. 103-11.</entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="2">I</entry>
+            <entry MoreRows="2">T1, N0, M0</entry>
+            <entry>T1 = tumor limitado a la nasofaringe, o diseminación a la orofaringe o la cavidad nasal sin compromiso parafaríngeo.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Table id="_339">
+      <Title>Cuadro 5.  Definiciones TNM para el estadio II<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="13.58%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="25.27%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="61.14%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">TNM</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; VEB = virus de Epstein-Barr.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Nasopharynx. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8.ª edición Nueva York, NY: Springer, 2017, págs. 103-11.</entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="10">II</entry>
+            <entry MoreRows="4">T0, Tis, T1, N1, M0</entry>
+            <entry>T0 = no se identifica un tumor, pero hay compromiso de uno o más ganglios cervicales positivos para VEB.</entry>
+          </Row>
+          <Row>
+            <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+          </Row>
+          <Row>
+            <entry>T1 = tumor limitado a la nasofaringe, o diseminación a la orofaringe o la cavidad nasal sin compromiso parafaríngeo.</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis unilateral en uno o más ganglios linfáticos cervicales, o metástasis unilaterales o bilaterales en uno o más ganglios linfáticos retrofaríngeos que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T2, N0, M0</entry>
+            <entry>T2 = tumor con diseminación al espacio parafaríngeo o compromiso de tejidos blandos adyacentes (músculos pterigoideo medial, pterigoideo lateral y prevertebrales).</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T2, N1, M0</entry>
+            <entry>T2 = tumor con diseminación al espacio parafaríngeo o compromiso de tejidos blandos adyacentes (músculos pterigoideo medial, pterigoideo lateral y prevertebrales).</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis unilateral en uno o más ganglios linfáticos cervicales, o metástasis unilaterales o bilaterales en uno o más ganglios linfáticos retrofaríngeos que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Table id="_340">
+      <Title>Cuadro 6.  Definiciones TNM para el estadio III<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="13.17%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="25.55%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="61.26%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">TNM</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; VEB = virus de Epstein-Barr.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Nasopharynx. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8.ª edición Nueva York, NY: Springer, 2017, págs. 103-11.</entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="16">III</entry>
+            <entry MoreRows="4">T0, Tis, T1, N2, M0</entry>
+            <entry>T0 = no se identifica un tumor, pero hay compromiso de uno o más ganglios cervicales positivos para VEB.</entry>
+          </Row>
+          <Row>
+            <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+          </Row>
+          <Row>
+            <entry>T1 = tumor limitado a la nasofaringe, o diseminación a la orofaringe o la cavidad nasal sin compromiso parafaríngeo.</entry>
+          </Row>
+          <Row>
+            <entry>N2 = metástasis bilaterales en uno o más ganglios linfáticos cervicales que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T2, N2, M0</entry>
+            <entry>T2 = tumor con diseminación al espacio parafaríngeo o compromiso de tejidos blandos adyacentes (músculos pterigoideo medial, pterigoideo lateral y prevertebrales).</entry>
+          </Row>
+          <Row>
+            <entry>N2 = metástasis bilaterales en uno o más ganglios linfáticos cervicales que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T3, N0, M0</entry>
+            <entry>T3 = tumor con infiltración de estructuras óseas en la base del cráneo, vertebras cervicales, estructuras pterigoideas o senos paranasales.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T3, N1, M0</entry>
+            <entry>T3 = tumor con infiltración de estructuras óseas en la base del cráneo, vertebras cervicales, estructuras pterigoideas o senos paranasales.</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis unilateral en uno o más ganglios linfáticos cervicales, o metástasis unilaterales o bilaterales en uno o más ganglios linfáticos retrofaríngeos que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T3, N2, M0</entry>
+            <entry>T3 = tumor con infiltración de estructuras óseas en la base del cráneo, vertebras cervicales, estructuras pterigoideas o senos paranasales.</entry>
+          </Row>
+          <Row>
+            <entry>N2 = metástasis bilaterales en uno o más ganglios linfáticos cervicales que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Table id="_341">
+      <Title>Cuadro 7.  Definiciones TNM para los estadios IVA y IVB<Superscript>a</Superscript></Title>
+      <TGroup Cols="3">
+        <ColSpec ColName="col1" ColNum="1" ColWidth="13.08%"/>
+        <ColSpec ColName="col2" ColNum="2" ColWidth="25.91%"/>
+        <ColSpec ColName="col3" ColNum="3" ColWidth="60.99%"/>
+        <THead>
+          <Row>
+            <entry Align="Center">Estadio</entry>
+            <entry Align="Center">TNM</entry>
+            <entry Align="Center">Descripción</entry>
+          </Row>
+        </THead>
+        <TFoot>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia; VEB = virus de Epstein-Barr.</entry>
+          </Row>
+          <Row>
+            <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Nasopharynx. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8.ª edición Nueva York, NY: Springer, 2017, págs. 103-11.</entry>
+          </Row>
+        </TFoot>
+        <TBody>
+          <Row>
+            <entry MoreRows="17">IVA</entry>
+            <entry MoreRows="2">T4, N0, M0</entry>
+            <entry>T4 = tumor con diseminación intracraneal, compromiso de nervios craneales, hipofaringe, órbita, glándula paratiroidea o infiltración generalizada de tejidos blandos más allá de la superficie lateral del músculo pterigoideo lateral.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T4, N1, M0</entry>
+            <entry>T4 = tumor con diseminación intracraneal, compromiso de nervios craneales, hipofaringe, órbita, glándula paratiroidea o infiltración generalizada de tejidos blandos más allá de la superficie lateral del músculo pterigoideo lateral.</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis unilateral en uno o más ganglios linfáticos cervicales, o metástasis unilaterales o bilaterales en uno o más ganglios linfáticos retrofaríngeos que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="2">T4, N2, M0</entry>
+            <entry>T4 = tumor con diseminación intracraneal, compromiso de nervios craneales, hipofaringe, órbita, glándula paratiroidea o infiltración generalizada de tejidos blandos más allá de la superficie lateral del músculo pterigoideo lateral.</entry>
+          </Row>
+          <Row>
+            <entry>N2 = metástasis bilaterales en uno o más ganglios linfáticos cervicales que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="8">Cualquier T, N3, M0</entry>
+            <entry>TX = tumor primario no evaluable.</entry>
+          </Row>
+          <Row>
+            <entry>T0 = no se identifica un tumor, pero hay compromiso de uno o más ganglios cervicales positivos para VEB.</entry>
+          </Row>
+          <Row>
+            <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+          </Row>
+          <Row>
+            <entry>T1 = tumor limitado a la nasofaringe, o diseminación a la orofaringe o la cavidad nasal sin compromiso parafaríngeo.</entry>
+          </Row>
+          <Row>
+            <entry>T2 = tumor con diseminación al espacio parafaríngeo o compromiso de tejidos blandos adyacentes (músculos pterigoideo medial, pterigoideo lateral y prevertebrales).</entry>
+          </Row>
+          <Row>
+            <entry>T3 = tumor con infiltración de estructuras óseas en la base del cráneo, vertebras cervicales, estructuras pterigoideas o senos paranasales.</entry>
+          </Row>
+          <Row>
+            <entry>T4 = tumor con diseminación intracraneal, compromiso de nervios craneales, hipofaringe, órbita, glándula paratiroidea o infiltración generalizada de tejidos blandos más allá de la superficie lateral del músculo pterigoideo lateral.</entry>
+          </Row>
+          <Row>
+            <entry>N3 = metástasis unilaterales o bilaterales en uno o más ganglios linfáticos cervicales que miden &gt;6 cm en su mayor dimensión o diseminación por debajo del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M0 = sin metástasis a distancia.</entry>
+          </Row>
+          <Row>
+            <entry MoreRows="6">IVB</entry>
+            <entry MoreRows="6">Cualquier T, cualquier N, M1</entry>
+            <entry>Cualquier T = consultar la descripción del estadio IVA en este cuadro.</entry>
+          </Row>
+          <Row>
+            <entry>NX = ganglios linfáticos regionales no evaluables.</entry>
+          </Row>
+          <Row>
+            <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+          </Row>
+          <Row>
+            <entry>N1 = metástasis unilateral en uno o más ganglios linfáticos cervicales, o metástasis unilaterales o bilaterales en uno o más ganglios linfáticos retrofaríngeos que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>N2 = metástasis bilaterales en uno o más ganglios linfáticos cervicales que miden ≤6 cm en su mayor dimensión y se ubican por encima del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>N3 = metástasis unilaterales o bilaterales en uno o más ganglios linfáticos cervicales que miden &gt;6 cm en su mayor dimensión o diseminación por debajo del borde inferior del cartílago cricoides.</entry>
+          </Row>
+          <Row>
+            <entry>M1 = metástasis a distancia.</entry>
+          </Row>
+        </TBody>
+      </TGroup>
+    </Table><Para id="_1242">Más de un 90 % de los niños y adolescentes con carcinoma de nasofaringe presentan enfermedad avanzada (estadio III/IV o T3/T4).<Reference refidx="4"/><Reference refidx="5"/> En estudios poblacionales se notificó que los pacientes menores de 20 años tuvieron una incidencia más alta de enfermedad en estadio avanzado que los pacientes adultos.<Reference refidx="6"/><Reference refidx="7"/> Sin embargo, menos del 10 % de los niños y adolescentes con carcinoma de nasofaringe presentaban metástasis a distancia en el momento del diagnóstico.<Reference refidx="4"/><Reference refidx="5"/><Reference refidx="8"/></Para><ReferenceSection><Citation idx="1">Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017.</Citation><Citation idx="2">Lee AWM, Lydiatt WM, Colevas AD, et al.: Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 103-11.</Citation><Citation idx="3">Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 103–11.</Citation><Citation idx="4" PMID="20737561">Cheuk DK, Billups CA, Martin MG, et al.: Prognostic factors and long-term outcomes of childhood nasopharyngeal carcinoma. Cancer 117 (1): 197-206, 2011.</Citation><Citation idx="5" PMID="21918965">Casanova M, Bisogno G, Gandola L, et al.: A prospective protocol for nasopharyngeal carcinoma in children and adolescents: the Italian Rare Tumors in Pediatric Age (TREP) project. Cancer 118 (10): 2718-25, 2012.</Citation><Citation idx="6" PMID="20582982">Sultan I, Casanova M, Ferrari A, et al.: Differential features of nasopharyngeal carcinoma in children and adults: a SEER study. Pediatr Blood Cancer 55 (2): 279-84, 2010.</Citation><Citation idx="7" PMID="26769566">Richards MK, Dahl JP, Gow K, et al.: Factors Associated With Mortality in Pediatric vs Adult Nasopharyngeal Carcinoma. JAMA Otolaryngol Head Neck Surg 142 (3): 217-22, 2016.</Citation><Citation idx="8" PMID="22359313">Buehrlen M, Zwaan CM, Granzen B, et al.: Multimodal treatment, including interferon beta, of nasopharyngeal carcinoma in children and young adults: preliminary results from the prospective, multicenter study NPC-2003-GPOH/DCOG. Cancer 118 (19): 4892-900, 2012.</Citation></ReferenceSection></SummarySection><SummarySection id="_1864"><SectMetaData><SectionType>Unusual Cancers Special Considerations</SectionType></SectMetaData><Title>Consideraciones especiales para el tratamiento de niños con cáncer</Title>
+
+<Para id="_1864_md_3">El cáncer en niños y adolescentes es raro, aunque desde 1975 se ha observado un aumento gradual de la incidencia general.<Reference refidx="1"/> Los niños y adolescentes con cáncer se deben derivar a centros médicos que cuenten con equipos multidisciplinarios de especialistas en oncología con experiencia en el tratamiento de los cánceres que se presentan en la niñez y la adolescencia. Este equipo multidisciplinario incorpora la pericia de los siguientes especialistas en pediatría y otros para asegurar que los niños reciban el tratamiento, los cuidados médicos de apoyo y la rehabilitación que les permitan lograr una supervivencia y calidad de vida óptimas:</Para>
+<ItemizedList id="_1864_md_4" Style="bullet"><ListItem>Médicos de atención primaria.</ListItem><ListItem>Cirujanos pediatras.</ListItem><ListItem>Patólogos.</ListItem><ListItem>Radioncólogo pediatras.</ListItem><ListItem>Oncólogos y hematólogos pediatras.</ListItem><ListItem>Oftalmólogos.</ListItem><ListItem>Especialistas en rehabilitación.</ListItem><ListItem>Enfermeros de oncología pediátrica.</ListItem><ListItem>Trabajadores o asistentes sociales.</ListItem><ListItem>Profesionales de la vida infantil.</ListItem><ListItem>Psicólogos.</ListItem><ListItem>Nutricionistas  y dietistas.</ListItem></ItemizedList><Para id="_1864_md_5">Para obtener información específica sobre los cuidados médicos de apoyo para niños y adolescentes con cáncer, consultar los resúmenes de <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/sumarios-de-informacion/cuidados-medicos-apoyo">Cuidados médicos de apoyo y cuidados paliativos</ExternalRef>.</Para><Para id="_1864_md_6">La American Academy of Pediatrics estableció pautas para los centros de oncología pediátrica y su función en el tratamiento de los pacientes con cáncer infantil.<Reference refidx="2"/> En estos centros, se dispone de ensayos clínicos para la mayoría de los tipos de cáncer que se presentan en niños y adolescentes, y se ofrece la oportunidad de participar a la mayoría de los pacientes y familiares. Por lo general, los ensayos clínicos para los niños y adolescentes con cáncer se diseñan a fin de comparar un tratamiento que parece mejor con el tratamiento estándar actual. En otros tipos de ensayos clínicos se prueban tratamientos nuevos cuando no hay un tratamiento estándar para el cáncer que se ha diagnosticado. La mayoría de los avances en la identificación de tratamientos curativos para los cánceres infantiles se lograron mediante ensayos clínicos. Para obtener información sobre los ensayos clínicos en curso, consultar el <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">portal de Internet del NCI</ExternalRef>.</Para><Para id="_1864_md_7">Se han logrado mejoras notables en la supervivencia de niños y adolescentes con cáncer. Entre 1975 y 2020, la mortalidad por cáncer infantil disminuyó en más del 50 %.<Reference refidx="3"/><Reference refidx="4"/><Reference refidx="5"/> Los sobrevivientes del cáncer que se presenta en edad pediátrica necesitan un seguimiento minucioso, ya que es posible que los efectos secundarios del tratamiento del cáncer persistan o se presenten meses o años después de este. Para obtener información específica sobre la incidencia, el tipo y la vigilancia de los efectos tardíos en los sobrevivientes de cáncer infantil, consultar <SummaryRef href="CDR0000371825" url="/espanol/tipos/infantil/efectos-tardios-pro-pdq">Efectos tardíos del tratamiento anticanceroso en la niñez</SummaryRef>.</Para><Para id="_1864_md_8">El cáncer infantil (cáncer en edad pediátrica) es una enfermedad rara con cerca de 15 000 casos anuales diagnosticados antes de los 20 años de edad en los Estados Unidos.<Reference refidx="6"/> En la <ExternalRef xref="https://www.congress.gov/107/plaws/publ280/PLAW-107publ280.pdf">Rare Diseases Act of 2002</ExternalRef> de los Estados Unidos se define una enfermedad rara como la que afecta a poblaciones de menos de 200 000 personas. Por lo tanto, todos los cánceres infantiles se consideran enfermedades raras.</Para><Para id="_1864_md_9">La designación de un tumor raro es diferente entre los grupos pediátricos y de adultos. En el caso de los adultos, se considera que un cáncer es raro cuando su incidencia anual es inferior a 6 casos por 100 000 personas. Representan  hasta el 24 % de los cánceres diagnosticados en la Unión Europea y alrededor del 20 % de los cánceres diagnosticados en los Estados Unidos.<Reference refidx="7"/><Reference refidx="8"/> Además, tal como se indica a continuación, la designación de un tumor raro durante la niñez y adolescencia no es uniforme entre los grupos internacionales:</Para><ItemizedList id="_1864_md_10" Style="bullet"><ListItem>En una iniciativa conjunta de la European Union Joint Action on Rare Cancers y el European Cooperative Study Group for Rare Pediatric Cancers se estimó que el 11 % de todos los cánceres en pacientes menores de 20 años se podrían clasificar como muy raros. Este grupo de consenso definió los cánceres muy raros como los cánceres con incidencia anual inferior a 2 casos por millón de personas. Sin embargo, también se incluyen en este grupo de tumores muy raros otros 3 tipos histológicos (carcinoma de tiroides, melanoma y cáncer de testículo) con incidencias superiores a 2 casos por millón de personas, porque  se cuenta con poco conocimiento y experiencia sobre el tratamiento de estos tumores.<Reference refidx="9"/></ListItem><ListItem>El Children's Oncology Group (COG) define los cánceres raros en pediatría según la lista del subgrupo XI de la International Classification of Childhood Cancer, en la que se incluyen los cánceres de tiroides, los cánceres de piel melanoma y no melanoma, además de los múltiples tipos de carcinomas (por ejemplo, los carcinomas de corteza suprarrenal, los carcinomas de nasofaringe y la mayoría de los carcinomas de tipo adulto, como los cánceres de mama, los cánceres colorrectales, etc.).<Reference refidx="10"/> Estos cánceres representan casi el 5 % de aquellos diagnosticados entre los 0 y 14 años de edad y casi el 27 % de los que se diagnostican entre los 15 a 19 años de edad.<Reference refidx="4"/><Para id="_11">La mayoría de los cánceres del subgrupo XI son melanomas o cánceres de tiroides, mientras que otros tipos de cáncer solo representan el 2 % de los cánceres diagnosticados entre los 0 y 14 años de edad y el 9,3 % de los cánceres entre los 15 y 19 años de edad.</Para></ListItem></ItemizedList><Para id="_1864_md_12">Estudiar estos cánceres raros es un reto por el número bajo de pacientes con cualquier diagnóstico individual, el predominio de estos cánceres raros en adolescentes y la carencia de ensayos clínicos con adolescentes que tienen estos cánceres.</Para><Para id="_1837">También es posible obtener información sobre estos tumores en fuentes relacionadas con el cáncer en adultos, por ejemplo, <SummaryRef href="CDR0000256723" url="/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-nasofaringe-pdq">Tratamiento del carcinoma de nasofaringe</SummaryRef>.</Para><ReferenceSection><Citation idx="1" PMID="20404250">Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010.</Citation><Citation idx="2">American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics  134 (2): 410-4, 2014. <ExternalRef xref="https://pediatrics.aappublications.org/content/134/2/410">Also available online</ExternalRef>. Last accessed February 25, 2025.</Citation><Citation idx="3" PMID="24853691">Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014.</Citation><Citation idx="4">National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. <ExternalRef xref="https://NCCRExplorer.ccdi.cancer.gov/">Available online</ExternalRef>. Last accessed February 25, 2025.</Citation><Citation idx="5">Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. 	Bethesda, MD: National Cancer Institute. <ExternalRef xref="https://seer.cancer.gov/statistics-network/explorer/">Available online</ExternalRef>. Last accessed December 30, 2024.</Citation><Citation idx="6" PMID="24488779">Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr.</Citation><Citation idx="7" PMID="28687376">Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017.</Citation><Citation idx="8" PMID="28542893">DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017.</Citation><Citation idx="9" PMID="30785015">Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019.</Citation><Citation idx="10" PMID="20956621">Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010.</Citation></ReferenceSection></SummarySection><SummarySection id="_919"><Title>Tratamiento del carcinoma de nasofaringe infantil recién diagnosticado</Title><Para id="_2413">El European Cooperative Study Group for Pediatric Rare Tumors del proyecto PARTNER (Paediatric Rare Tumours Network–European Registry) publicó recomendaciones integrales para el diagnóstico y tratamiento del blastoma pleuropulmonar en niños y adolescentes.<Reference refidx="1"/></Para><Para id="_920">El tratamiento del carcinoma de nasofaringe es multimodal e incluye los siguientes procedimientos:</Para><OrderedList id="_2393" Style="Arabic">
+      <ListItem><SummaryRef href="CDR0000791851#_2394" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Terapia de modalidad combinada con quimioterapia y radioterapia</SummaryRef>.</ListItem>
+      <ListItem><SummaryRef href="CDR0000791851#_2400" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Cirugía</SummaryRef>.</ListItem>
+      <ListItem><SummaryRef href="CDR0000791851#_2453" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Inmunoterapia con inhibidores de puntos de control</SummaryRef>.</ListItem>
+    </OrderedList><SummarySection id="_2394"><Title>Terapia de modalidad combinada con quimioterapia y radioterapia</Title><Para id="_2395">La radioterapia de dosis altas sola desempeña una función en el tratamiento del carcinoma de nasofaringe. Sin embargo, en estudios en niños y adultos se observó que la terapia de modalidad combinada con quimioterapia y radiación es la forma más eficaz de tratar el carcinoma de nasofaringe.</Para><Para id="_2403">En múltiples estudios se investigó la función de la quimioterapia en el tratamiento de pacientes adultos con carcinoma de nasofaringe. El uso de quimiorradioterapia concomitante se ha relacionado de manera consistente con un beneficio significativo de supervivencia, como un mejor control de la enfermedad locorregional y una reducción de las metástasis a distancia.<Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/> La adición de quimioterapia neoadyuvante o adyuvante a la quimiorradiación simultánea mejoró aún más los desenlaces. El grupo de colaboración Meta-Analysis of Chemotherapy in Nasopharyngeal Carcinoma (MAC-NPC) presentó un análisis de 26 ensayos en los que participaron 7080 pacientes. Los resultados mostraron que la adición de quimioterapia a la radioterapia redujo el riesgo de muerte y que el cociente de riesgos instantáneos (CRI) para el riesgo de muerte fue más bajo para la quimioterapia adyuvante o neoadyuvante combinada con quimiorradioterapia simultánea, en comparación con la quimiorradioterapia simultánea sola.<Reference refidx="5"/></Para><Para id="_2464">En un estudio de fase III, se comparó la quimiorradioterapia simultánea con la terapia de inducción con gemcitabina y cisplatino, o sin esta, para pacientes con carcinoma de nasofaringe localmente avanzado. En el estudio se encontró una mejora significativa en la supervivencia general (SG) de los pacientes que recibieron quimioterapia de inducción con gemcitabina y cisplatino, en comparación con aquellos que no recibieron quimioterapia de inducción (tasas de SG a 5 años, 87,9 vs. 78,8 %; CRI, 0,51; intervalo de confianza de 95 %, 0,34–0,78; <Emphasis>P</Emphasis> = 0,001).<Reference refidx="6"/><Reference refidx="7"/></Para><Para id="_2404">En la mayoría de los estudios en niños se utilizó quimioterapia neoadyuvante con cisplatino y fluorouracilo (5-FU) seguida de quimiorradiación simultánea con cisplatino en monoterapia.<Reference refidx="8"/><Reference refidx="9"/><Reference refidx="10"/>[<LOERef href="CDR0000810033" dictionary="NotSet" audience="Health professional">Nivel de evidencia B4</LOERef>] Con este abordaje, las estimaciones de la tasa de SG a 5 años son consistentemente superiores al 80 %.<Reference refidx="9"/><Reference refidx="10"/> Se han investigado las siguientes dos modificaciones de este abordaje:</Para><ItemizedList id="_776" Style="bullet">
+        <ListItem>En el estudio NPC-2003 de la German Society of Pediatric Oncology and Hematology (GPOH) se incluyó una fase de terapia de mantenimiento de 6 meses con interferón β. En el estudio se notificó una estimación de la tasa de SG a 30 meses del 97,1 %.<Reference refidx="9"/></ListItem>
+        <ListItem>En un ensayo prospectivo aleatorizado, se comparó cisplatino y 5-FU con docetaxel o sin este.<Reference refidx="10"/>[<LOERef href="CDR0000810017" dictionary="NotSet" audience="Health professional">Nivel de evidencia A1</LOERef>] La adición de docetaxel no se relacionó con mejores desenlaces.</ListItem>
+      </ItemizedList><Para id="_2466">En los adultos con carcinoma de nasofaringe, la gemcitabina con cisplatino ha demostrado ser más eficaz que el 5-FU con cisplatino, tanto en entornos de primera línea como en entornos recidivantes.<Reference refidx="11"/><Reference refidx="12"/></Para><Para id="_2405">Si bien el carcinoma de nasofaringe es una neoplasia muy quimiosensible, se necesitan dosis altas de radiación dirigida a la nasofaringe y el cuello (aproximadamente 65–70 Gy) para un control locorregional óptimo.<Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/> Sin embargo, en los niños, en los estudios en los que se usó quimioterapia neoadyuvante se observó que es posible reducir la dosis de radiación a 55 Gy o 60 Gy en los pacientes que responden bien.<Reference refidx="8"/><Reference refidx="9"/><Reference refidx="13"/> El GPOH realizó una revisión de 45 pacientes inscritos en el estudio NPC-2003 y otros 21 pacientes que recibieron tratamiento posterior según el ensayo NPC-2003.<Reference refidx="14"/> Los 66 pacientes con carcinoma de nasofaringe locorregional avanzado tuvieron una tasa de supervivencia sin complicaciones (SSC) del 93,6 % y una tasa de SG del 96,7 % después de una mediana de seguimiento de 73 meses. De los pacientes, 7 que tuvieron respuestas completas después de la terapia de inducción recibieron una dosis reducida de radiación de 54 Gy. Ninguno de estos pacientes presentó una recaída. En pacientes jóvenes con carcinoma de nasofaringe locorregional avanzado, se pueden lograr tasas excelentes de supervivencia a largo plazo mediante el tratamiento multimodal, incluso el interferón beta. Las dosis de radiación se pueden reducir en los pacientes con remisión completa después de la quimioterapia de inducción. Es posibles que las dosis reducidas de radiación limiten los efectos tardíos relacionados con la exposición a la radiación.</Para><Para id="_2406">El Children's Oncology Group realizó un ensayo prospectivo para evaluar el efecto de la quimioterapia de inducción y la quimiorradioterapia simultánea.<Reference refidx="15"/> Se programó que los pacientes recibieran 3 ciclos de quimioterapia de inducción con cisplatino y 5-FU, seguidos de quimiorradioterapia con 3 ciclos de cisplatino. Los pacientes con respuestas completas o parciales a la quimioterapia de inducción recibieron 61,2 Gy de radiación dirigida a la nasofaringe y el cuello, y los pacientes con enfermedad estable recibieron 71,2 Gy de radiación. Después de un análisis de viabilidad, se modificó el estudio para reducir el cisplatino a 2 ciclos durante la quimiorradioterapia. Los resultados del estudio son los siguientes:</Para><ItemizedList id="_1887" Style="bullet">
+        <ListItem>La tasa estimada de SSC a 5 años fue del 84,3 %, y la tasa estimada de SG fue del 89,2 %.</ListItem>
+        <ListItem>Las tasas de SSC a 5 años fueron del 100 % en los pacientes con enfermedad en estadio IIb, del 82,8 % en los pacientes con enfermedad en estadio III y del 82,7 % en los pacientes con enfermedad en estadio IV.</ListItem>
+        <ListItem>La incidencia acumulada estimada a 5 años de recaídas locales, a distancia y combinadas fueron del 3,7 %, 8,7 % y 1,8 %, respectivamente.</ListItem>
+        <ListItem>Se observó que los pacientes tratados con 3 ciclos de quimiorradioterapia de cisplatino tenían tasas de SSC posinducción a 5 años más altas que los pacientes tratados con 2 ciclos, aunque la diferencia no fue estadísticamente significativa (90,7 vs. 81,2 %; <Emphasis>P</Emphasis> = 0,14).</ListItem>
+      </ItemizedList><Para id="_2399">La combinación de quimioterapia a base de cisplatino y dosis altas de radioterapia dirigida a la nasofaringe y el cuello se relacionan con una probabilidad alta de hipoacusia, hipotiroidismo y panhipopituitarismo, trismo, xerostomía, problemas dentales y sinusitis u otitis crónica.<Reference refidx="8"/><Reference refidx="16"/><Reference refidx="17"/>; <Reference refidx="18"/>[<LOERef href="CDR0000810035" dictionary="NotSet" audience="Health professional">Nivel de evidencia C1</LOERef>] El uso de radioterapia de protones puede reducir la toxicidad en la región de la base del encéfalo y el cráneo sin comprometer el control de la enfermedad.<Reference refidx="19"/> Para obtener más información, consultar <SummaryRef href="CDR0000371825" url="/espanol/tipos/infantil/efectos-tardios-pro-pdq">Efectos tardíos del tratamiento anticanceroso en la niñez</SummaryRef>.</Para><Para id="_2467">En un grupo de 549 pacientes pediátricos con carcinoma de nasofaringe diagnosticado entre 2005 y 2021, se realizó una partición recursiva según el estadio y la carga viral del virus de Epstein-Barr (VEB). Esto dio lugar a tres grupos de pacientes: pacientes de riesgo bajo, pacientes de riesgo intermedio y pacientes de riesgo alto.<Reference refidx="20"/></Para><ItemizedList id="_2414" Style="bullet">
+        <ListItem>Los pacientes de riesgo intermedio (carcinoma de nasofaringe en estadio IVa y &lt;4000 copias/ml de VEB) presentaron respuestas significativas con quimioterapia de inducción seguida de quimioterapia y radioterapia simultáneas. Estos pacientes tuvieron una mejora significativa de las tasas de supervivencia sin progresión (SSP) y supervivencia sin metástasis a distancia cuando se compararon con los pacientes de riesgo intermedio, que solo recibieron quimioterapia y radioterapia simultáneas.</ListItem>
+        <ListItem>Por el contrario, no hubo diferencias significativas entre estos dos regímenes de tratamiento en pacientes de riesgo bajo y riesgo alto.</ListItem>
+      </ItemizedList></SummarySection><SummarySection id="_2400"><Title>Cirugía</Title><Para id="_2401">La cirugía tiene una función limitada en el tratamiento del carcinoma de nasofaringe. Por lo general, la enfermedad se considera irresecable debido a la diseminación local extensa.</Para></SummarySection><SummarySection id="_2453"><Title>Inmunoterapia con inhibidores de puntos de control.</Title><Para id="_2454">La Administración de Alimentos y Medicamentos de los Estados Unidos (FDA) aprobó el anticuerpo monoclonal anti-PD-1 toripalimab-tpzi en combinación con cisplatino y gemcitabina para el tratamiento de primera línea de adultos con carcinoma de nasofaringe metastásico o recidivante localmente avanzado. La aprobación se basó en los resultados de un ensayo clínico de fase III controlado con placebo. Los pacientes recibieron toripalimab-tpzi o placebo en combinación con gemcitabina y cisplatino cada 3 semanas durante un máximo de 6 ciclos, seguidos de monoterapia con toripalimab-tpzi o placebo. Los pacientes asignados al azar para recibir toripalimab-tpzi presentaron tasas superiores de SSP y SG. Las tasas de SSP a 1 y 2 años fueron del 59,0 versus el 32,9 % y el 44,8 versus el 25,4 % en los grupos de toripalimab-tpzi y placebo, respectivamente. Las tasas de SG correspondientes a 2 años fueron del 78,0  versus el 65,1 %, respectivamente. A los 3 años, las tasas de SG fueron del 64,5 versus el 49,2 %, respectivamente.<Reference refidx="21"/>[<LOERef href="CDR0000810025" dictionary="NotSet" audience="Health professional">Nivel de evidencia B1</LOERef>]</Para></SummarySection><SummarySection id="_2436"><Title>Opciones de tratamiento en evaluación clínica para el carcinoma de nasofaringe infantil recién diagnosticado</Title><Para id="_2451">La información en inglés sobre los ensayos clínicos patrocinados por el Instituto Nacional del Cáncer (NCI) se encuentra en el <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search">portal de Internet del NCI</ExternalRef>. Para obtener información en inglés sobre ensayos clínicos patrocinados por otras organizaciones, consultar el <ExternalRef xref="https://clinicaltrials.gov/">portal de Internet ClinicalTrials.gov</ExternalRef>.</Para><Para id="_2452">A continuación, se presenta un ejemplo de un ensayo clínico nacional o institucional en curso:</Para><ItemizedList id="_2437" Style="bullet"><ListItem><Strong><ProtocolRef nct_id="NCT06064097">ARAR2221 (NCT06064097)</ProtocolRef></Strong> (A Study Using Nivolumab, in Combination with Chemotherapy Drugs to Treat Nasopharyngeal Carcinoma)<Strong>:</Strong> en este estudio se evaluará la inocuidad de una quimioterapia de inducción combinada con un inhibidor de puntos de control inmunitario anti-PD-1 (nivolumab) en niños, adolescentes y adultos jóvenes con carcinoma de nasofaringe. También se calculará la tasa de SSC a 2 años en pacientes tratados con quimioinmunoterapia de inducción con gemcitabina y cisplatino, seguido de quimioterapia de consolidación, radioterapia, inmunoterapia (cisplatino, nivolumab y radioterapia ajustada según la respuesta y con reducción escalonada de la dosis) y terapia de mantenimiento con nivolumab. <Para id="_2440">El plan de tratamiento del ensayo ARAR2221 se basó en la terapia que resultó eficaz en los ensayos de fase III de adultos con carcinoma de nasofaringe.</Para></ListItem></ItemizedList></SummarySection><ReferenceSection><Citation idx="1" PMID="33844410">Ben-Ami T, Kontny U, Surun A, et al.: Nasopharyngeal carcinoma in children and adolescents: The EXPeRT/PARTNER diagnostic and therapeutic recommendations. Pediatr Blood Cancer 68 (Suppl 4): e29018, 2021.</Citation><Citation idx="2" PMID="15542811">Langendijk JA, Leemans ChR, Buter J, et al.: The additional value of chemotherapy to radiotherapy in locally advanced nasopharyngeal carcinoma: a meta-analysis of the published literature. J Clin Oncol 22 (22): 4604-12, 2004.</Citation><Citation idx="3" PMID="26044925">Yan M, Kumachev A, Siu LL, et al.: Chemoradiotherapy regimens for locoregionally advanced nasopharyngeal carcinoma: A Bayesian network meta-analysis. Eur J Cancer 51 (12): 1570-9, 2015.</Citation><Citation idx="4" PMID="27918720">Ribassin-Majed L, Marguet S, Lee AWM, et al.: What Is the Best Treatment of Locally Advanced Nasopharyngeal Carcinoma? An Individual Patient Data Network Meta-Analysis. J Clin Oncol 35 (5): 498-505, 2017.</Citation><Citation idx="5" PMID="34935776">Blanchard P, Lee AWM, Carmel A, et al.: Meta-analysis of chemotherapy in nasopharynx carcinoma (MAC-NPC): An update on 26 trials and 7080 patients. Clin Transl Radiat Oncol 32: 59-68, 2022.</Citation><Citation idx="6" PMID="31150573">Zhang Y, Chen L, Hu GQ, et al.: Gemcitabine and Cisplatin Induction Chemotherapy in Nasopharyngeal Carcinoma. N Engl J Med 381 (12): 1124-1135, 2019.</Citation><Citation idx="7" PMID="35709465">Zhang Y, Chen L, Hu GQ, et al.: Final Overall Survival Analysis of Gemcitabine and Cisplatin Induction Chemotherapy in Nasopharyngeal Carcinoma: A Multicenter, Randomized Phase III Trial. J Clin Oncol 40 (22): 2420-2425, 2022.</Citation><Citation idx="8" PMID="21918965">Casanova M, Bisogno G, Gandola L, et al.: A prospective protocol for nasopharyngeal carcinoma in children and adolescents: the Italian Rare Tumors in Pediatric Age (TREP) project. Cancer 118 (10): 2718-25, 2012.</Citation><Citation idx="9" PMID="22359313">Buehrlen M, Zwaan CM, Granzen B, et al.: Multimodal treatment, including interferon beta, of nasopharyngeal carcinoma in children and young adults: preliminary results from the prospective, multicenter study NPC-2003-GPOH/DCOG. Cancer 118 (19): 4892-900, 2012.</Citation><Citation idx="10" PMID="26666649">Casanova M, Özyar E, Patte C, et al.: International randomized phase 2 study on the addition of docetaxel to the combination of cisplatin and 5-fluorouracil in the induction treatment for nasopharyngeal carcinoma in children and adolescents. Cancer Chemother Pharmacol 77 (2): 289-98, 2016.</Citation><Citation idx="11" PMID="27567279">Zhang L, Huang Y, Hong S, et al.: Gemcitabine plus cisplatin versus fluorouracil plus cisplatin in recurrent or metastatic nasopharyngeal carcinoma: a multicentre, randomised, open-label, phase 3 trial. Lancet 388 (10054): 1883-1892, 2016.</Citation><Citation idx="12" PMID="37290468">Liu LT, Liu H, Huang Y, et al.: Concurrent chemoradiotherapy followed by adjuvant cisplatin-gemcitabine versus cisplatin-fluorouracil chemotherapy for N2-3 nasopharyngeal carcinoma: a multicentre, open-label, randomised, controlled, phase 3 trial. Lancet Oncol 24 (7): 798-810, 2023.</Citation><Citation idx="13" PMID="36375563">Yao JJ, Jin YN, Lin YJ, et al.: The feasibility of reduced-dose radiotherapy in childhood nasopharyngeal carcinoma with favorable response to neoadjuvant chemotherapy. Radiother Oncol 178: 109414, 2023.</Citation><Citation idx="14" PMID="35267570">Römer T, Franzen S, Kravets H, et al.: Multimodal Treatment of Nasopharyngeal Carcinoma in Children, Adolescents and Young Adults-Extended Follow-Up of the NPC-2003-GPOH Study Cohort and Patients of the Interim Cohort. Cancers (Basel) 14 (5): , 2022.</Citation><Citation idx="15" PMID="31553639">Rodriguez-Galindo C, Krailo MD, Krasin MJ, et al.: Treatment of Childhood Nasopharyngeal Carcinoma With Induction Chemotherapy and Concurrent Chemoradiotherapy: Results of the Children's Oncology Group ARAR0331 Study. J Clin Oncol 37 (35): 3369-3376, 2019.</Citation><Citation idx="16" PMID="20737561">Cheuk DK, Billups CA, Martin MG, et al.: Prognostic factors and long-term outcomes of childhood nasopharyngeal carcinoma. Cancer 117 (1): 197-206, 2011.</Citation><Citation idx="17" PMID="27681956">Sahai P, Mohanti BK, Sharma A, et al.: Clinical outcome and morbidity in pediatric patients with nasopharyngeal cancer treated with chemoradiotherapy. Pediatr Blood Cancer 64 (2): 259-266, 2017.</Citation><Citation idx="18" PMID="23303571">Hu S, Xu X, Xu J, et al.: Prognostic factors and long-term outcomes of nasopharyngeal carcinoma in children and adolescents. Pediatr Blood Cancer 60 (7): 1122-7, 2013.</Citation><Citation idx="19" PMID="31524334">Uezono H, Indelicato DJ, Rotondo RL, et al.: Proton therapy following induction chemotherapy for pediatric and adolescent nasopharyngeal carcinoma. Pediatr Blood Cancer 66 (12): e27990, 2019.</Citation><Citation idx="20" PMID="34743068">Liang YJ, Wen DX, Luo MJ, et al.: Induction or adjuvant chemotherapy plus concurrent chemoradiotherapy versus concurrent chemoradiotherapy alone in paediatric nasopharyngeal carcinoma in the IMRT era: A recursive partitioning risk stratification analysis based on EBV DNA. Eur J Cancer 159: 133-143, 2021.</Citation><Citation idx="21" PMID="34341578">Mai HQ, Chen QY, Chen D, et al.: Toripalimab or placebo plus chemotherapy as first-line treatment in advanced nasopharyngeal carcinoma: a multicenter randomized phase 3 trial. Nat Med 27 (9): 1536-1543, 2021.</Citation></ReferenceSection></SummarySection><SummarySection id="_1876"><Title>Tratamiento del carcinoma de nasofaringe infantil en recaída o resistente al tratamiento</Title><Para id="_2407">El desenlace de los pacientes con carcinoma de nasofaringe en recaída o resistente al tratamiento es precario y la mayoría de los pacientes presentan metástasis a distancia.</Para><Para id="_2408">El tratamiento del carcinoma de nasofaringe en recaída o resistente al tratamiento incluye los siguientes procedimientos:</Para><OrderedList id="_2409" Style="Arabic">
+      <ListItem><SummaryRef href="CDR0000791851#_2410" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Quimioterapia</SummaryRef>.</ListItem>
+      <ListItem><SummaryRef href="CDR0000791851#_2412" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Inmunoterapia</SummaryRef>.</ListItem>
+    </OrderedList><SummarySection id="_2410"><Title>Quimioterapia</Title><Para id="_2411">Las remisiones a largo plazo se pueden lograr con quimioterapia convencional. En una revisión retrospectiva de 14 pacientes pediátricos con carcinoma de nasofaringe en recaída tratados con diferentes regímenes quimioterapéuticos, la tasa de supervivencia sin complicaciones a 3 años fue del 34 % y la tasa de supervivencia general fue del 44 %.<Reference refidx="1"/></Para></SummarySection><SummarySection id="_2412"><Title>Inmunoterapia</Title><Para id="_1877">Dada la patogenia única del carcinoma de nasofaringe, se ha explorado la inmunoterapia para el tratamiento de los pacientes con enfermedad resistente al tratamiento de la siguiente manera:</Para><ItemizedList id="_1878" Style="bullet">
+        <ListItem>El uso de terapia de linfocitos T citotóxicos específicos para el virus de Epstein-Barr (VEB) es un abordaje prometedor, con toxicidad mínima y evidencia de actividad antitumoral significativa en pacientes con carcinoma de nasofaringe en recaída o resistente al tratamiento.<Reference refidx="2"/> En un estudio de fase I/II de la terapia de linfocitos T citotóxicos específicos para el VEB en pacientes con enfermedad resistente al tratamiento, se observaron tasas de respuesta en un 33,3 % de los pacientes. Se obtuvieron remisiones a largo plazo en el 62 % de los pacientes tratados en su segunda remisión o en remisiones posteriores.<Reference refidx="3"/></ListItem>
+        <ListItem>Se estudiaron anticuerpos monoclonales anti-ligando de muerte programada 1 (PD-L1) en dos ensayos de fase II en adultos con carcinoma de nasofaringe resistente al tratamiento. Se observaron tasas de respuesta del 20,5 al 25,9 % (33 % en pacientes con tumores positivos para PD-L1) y evidencia de remisiones a largo plazo.<Reference refidx="4"/><Reference refidx="5"/></ListItem>
+      </ItemizedList></SummarySection><SummarySection id="_1470"><Title>Opciones de tratamiento en evaluación para el carcinoma de nasofaringe infantil en recaída o resistente al tratamiento</Title><Para id="_1873">La información en inglés sobre los ensayos clínicos patrocinados por el Instituto Nacional del Cáncer (NCI) se encuentra en el <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search">portal de Internet del NCI</ExternalRef>. Para obtener información en inglés sobre ensayos clínicos patrocinados por otras organizaciones, consultar el <ExternalRef xref="https://clinicaltrials.gov/">portal de Internet ClinicalTrials.gov</ExternalRef>.</Para></SummarySection><ReferenceSection><Citation idx="1" PMID="30318742">DeRenzo C, Lam C, Rodriguez-Galindo C, et al.: Salvage regimens for pediatric patients with relapsed nasopharyngeal carcinoma. Pediatr Blood Cancer 66 (1): e27469, 2019.</Citation><Citation idx="2" PMID="15542583">Straathof KC, Bollard CM, Popat U, et al.: Treatment of nasopharyngeal carcinoma with Epstein-Barr virus--specific T lymphocytes. Blood 105 (5): 1898-904, 2005.</Citation><Citation idx="3" PMID="20948438">Louis CU, Straathof K, Bollard CM, et al.: Adoptive transfer of EBV-specific T cells results in sustained clinical responses in patients with locoregional nasopharyngeal carcinoma. J Immunother 33 (9): 983-90, 2010 Nov-Dec.</Citation><Citation idx="4" PMID="28837405">Hsu C, Lee SH, Ejadi S, et al.: Safety and Antitumor Activity of Pembrolizumab in Patients With Programmed Death-Ligand 1-Positive Nasopharyngeal Carcinoma: Results of the KEYNOTE-028 Study. J Clin Oncol 35 (36): 4050-4056, 2017.</Citation><Citation idx="5" PMID="29584545">Ma BBY, Lim WT, Goh BC, et al.: Antitumor Activity of Nivolumab in Recurrent and Metastatic Nasopharyngeal Carcinoma: An International, Multicenter Study of the Mayo Clinic Phase 2 Consortium (NCI-9742). J Clin Oncol 36 (14): 1412-1418, 2018.</Citation></ReferenceSection></SummarySection><SummarySection id="_1559"><SectMetaData><SectionType>Changes to summary</SectionType></SectMetaData><Title>Actualizaciones más recientes a este resumen (08/02/2024)</Title><Para id="_1560">Los resúmenes del PDQ con información sobre el cáncer se revisan con regularidad y se actualizan a medida que se obtiene nueva información. Esta sección describe los cambios más recientes introducidos en este resumen a partir de la fecha arriba indicada.</Para><Para id="_2469">Este resumen fue objeto de revisión integral.</Para><Para id="_disclaimerHP_3">El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-pediatrico">Consejo editorial del PDQ sobre el tratamiento pediátrico</ExternalRef> es responsable de la redacción y actualización de este resumen y mantiene independencia editorial respecto del NCI. El resumen refleja una revisión independiente de la bibliografía médica y no representa las políticas del NCI ni de los NIH. Para obtener más  información sobre las políticas relativas a los resúmenes y la función de los  consejos editoriales  del PDQ responsables de su actualización, consultar <SummaryRef href="CDR0000791851#_AboutThis_1" url="/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">Información sobre este resumen del PDQ</SummaryRef> e   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq">Información del PDQ® sobre el cáncer dirigida a profesionales de la salud</ExternalRef>.</Para></SummarySection><SummarySection id="_AboutThis_1"><Title>Información sobre este resumen del PDQ</Title><SummarySection id="_AboutThis_2"><Title>Propósito de este resumen</Title><Para id="_AboutThis_3">Este resumen de información del PDQ sobre el cáncer dirigido a profesionales de la salud proporciona información integral revisada por expertos y basada en la evidencia  sobre el tratamiento del cáncer de nasofaringe infantil. El objetivo es servir como fuente de información y ayuda para los profesionales clínicos  durante la atención de pacientes. No  ofrece pautas ni recomendaciones formales para tomar decisiones relacionadas con la atención sanitaria.</Para></SummarySection><SummarySection id="_AboutThis_21"><Title>Revisores y actualizaciones</Title><Para id="_AboutThis_22">El   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-pediatrico">consejo editorial del PDQ sobre el tratamiento pediátrico</ExternalRef>, que mantiene independencia editorial respecto del  Instituto Nacional del Cáncer (NCI), revisa este resumen de manera periódica y, en caso necesario,   lo actualiza. Este resumen es el resultado de una revisión bibliográfica independiente y no constituye una declaración de política del NCI ni de los Institutos Nacionales de la Salud (NIH).</Para><Para id="_AboutThis_26">Cada mes, los integrantes de este consejo revisan los artículos  publicados recientemente para determinar lo siguiente:</Para><ItemizedList id="_AboutThis_23" Style="bullet"><ListItem>Si el artículo se debe analizar en una reunión del consejo.</ListItem><ListItem>Si conviene añadir texto acerca del artículo.</ListItem><ListItem>Si se debe reemplazar o actualizar un artículo que ya se citó.</ListItem></ItemizedList><Para id="_AboutThis_24">Los cambios en los resúmenes se deciden mediante consenso de los integrantes del consejo después de evaluar la solidez de la evidencia de los artículos publicados y determinar la forma de incorporar el artículo en el resumen.</Para><Para>Los revisores principales del sumario sobre Tratamiento del cáncer de nasofaringe infantil son:</Para><ItemizedList Style="bullet"><ListItem>Denise Adams, MD (Children's Hospital Boston)</ListItem><ListItem>Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)</ListItem><ListItem>William H. Meyer, MD</ListItem><ListItem>Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)</ListItem><ListItem>Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)</ListItem><ListItem>Alberto S. Pappo, MD (St. Jude Children's Research Hospital)</ListItem><ListItem>Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)</ListItem><ListItem>Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)</ListItem><ListItem>Stephen J. Shochat, MD (St. Jude Children's Research Hospital)</ListItem></ItemizedList><Para id="_AboutThis_25">Cualquier comentario o pregunta sobre el contenido de este resumen se debe enviar al   <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.  Por favor, no enviar preguntas o comentarios directamente a los integrantes del consejo, ya que no responderán consultas de manera individual.</Para></SummarySection><SummarySection id="_AboutThis_9"><Title>Niveles de evidencia</Title><Para id="_AboutThis_10">Algunas de las referencias bibliográficas de este resumen se acompañan del nivel de evidencia. El propósito de esto es ayudar al lector a evaluar la solidez de la evidencia que respalda el uso de  ciertas intervenciones  o abordajes. El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-pediatrico">consejo editorial del PDQ sobre el tratamiento pediátrico</ExternalRef> emplea un <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">sistema de jerarquización formal</SummaryRef> para asignar los niveles de evidencia científica.</Para></SummarySection><SummarySection id="_AboutThis_11"><Title>Permisos para el uso de este resumen</Title><Para id="_AboutThis_12">PDQ (Physician Data Query) es una marca registrada. Se autoriza el uso del texto  de los documentos del PDQ; sin embargo, no se podrá identificar como un resumen de información sobre cáncer del PDQ del  NCI,  salvo que el resumen se reproduzca en su totalidad y se actualice de manera periódica. Por otra parte, se permitirá que un autor  escriba una oración como “En el resumen del PDQ  del NCI de información sobre la prevención del cáncer de mama se describen, de manera concisa, los siguientes riesgos: [incluir fragmento del resumen]”.</Para><Para id="_AboutThis_13">Se sugiere citar la referencia bibliográfica de este resumen del PDQ de la siguiente forma:</Para><Para id="_AboutThis_14">PDQ® sobre el tratamiento pediátrico. PDQ Tratamiento del cáncer de nasofaringe infantil. Bethesda, MD: National Cancer Institute. Actualización:  &lt;MM/DD/YYYY&gt;. Disponible en: <ExternalRef xref="https://www.cancer.gov/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq">https://www.cancer.gov/espanol/tipos/cabeza-cuello/pro/infantil/tratamiento-nasofaringe-pdq</ExternalRef>.  Fecha de acceso: &lt;MM/DD/YYYY&gt;. </Para><Para id="_AboutThis_15">Las imágenes  en este resumen se reproducen  con autorización del autor, el artista o la  editorial para uso exclusivo en los resúmenes del PDQ. La utilización de las imágenes fuera del  PDQ requiere la autorización del propietario, que el Instituto Nacional del Cáncer no  puede otorgar. Para obtener más información sobre el uso de las ilustraciones de este resumen o de  otras imágenes relacionadas con el cáncer, consultar <ExternalRef xref="https://visualsonline.cancer.gov/">Visuals Online</ExternalRef>, una colección de más de 2000 imágenes científicas.</Para></SummarySection><SummarySection id="_AboutThis_16"><Title>Cláusula sobre el descargo de responsabilidad</Title><Para id="_AboutThis_17">Según la solidez de la evidencia, las opciones de tratamiento se clasifican  como “estándar” o “en evaluación clínica”. Estas clasificaciones no  se deben utilizar para justificar decisiones sobre reembolsos de seguros. Para obtener más información  sobre la cobertura de seguros, consultar la página <ExternalRef xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer">Manejo de la atención del cáncer</ExternalRef> en Cancer.gov/espanol.</Para></SummarySection><SummarySection id="_AboutThis_19"><Title>Comuníquese con el Instituto Nacional del Cáncer</Title><Para id="_AboutThis_20">Para obtener más información sobre las opciones para comunicarse con el NCI, incluso la dirección de correo electrónico, el número telefónico o el chat, consultar la página del <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.</Para></SummarySection></SummarySection><TranslationOf ref="CDR0000784522"/><DateFirstPublished>2018-02-28</DateFirstPublished><DateLastModified>2024-08-02</DateLastModified></Summary>

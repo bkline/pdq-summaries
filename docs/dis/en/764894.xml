@@ -1,0 +1,54 @@
+<DrugInformationSummary id="CDR0000764894"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This chemotherapy combination contains the drugs etoposide (VP-16),  ifosfamide, and cisplatin (Platinol). Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/VIP">VIP</DrugInfoURL><TerminologyLink ref="CDR0000759409">VIP regimen</TerminologyLink><GlossaryLink ref="CDR0000765056">VIP</GlossaryLink><PronunciationInfo/></DrugInfoMetaData><DrugInfoTitle>VIP</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the VIP combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>V</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000590263" url="/about-cancer/treatment/drugs/etoposidephosphate">Etoposide</DrugRef>
+      (VP-16)</entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>I</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000686471" url="/about-cancer/treatment/drugs/ifosfamide">Ifosfamide</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>P</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000533338" url="/about-cancer/treatment/drugs/cisplatin">Cisplatin</DrugRef>
+      (Platinol)</entry>
+     </Row>
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">VIP 
+         is used to treat:</Para>
+  <ItemizedList Style="bullet" id="_7">
+   <ListItem><Strong><GlossaryTermRef href="CDR0000445090" dictionary="Cancer.gov" audience="Patient">Testicular cancer</GlossaryTermRef></Strong> that is <GlossaryTermRef href="CDR0000478743" dictionary="Cancer.gov" audience="Patient">advanced</GlossaryTermRef>. It is often used in patients who cannot receive <GlossaryTermRef href="CDR0000637625" dictionary="Cancer.gov" audience="Patient">bleomycin sulfate</GlossaryTermRef>.</ListItem>
+   
+   </ItemizedList>
+  <Para id="_9">This combination may also be used with other drugs or 
+         treatments or to treat other types of cancer.</Para>
+ </Section><Section id="_About"><Title>More About VIP</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/759409">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2014-10-02</DateFirstPublished><DateLastModified>2023-05-19</DateLastModified></DrugInformationSummary>

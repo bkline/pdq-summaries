@@ -1,0 +1,49 @@
+<DrugInformationSummary id="CDR0000750865"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This chemotherapy combination contains the drugs gemcitabine hydrochloride and oxaliplatin. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/GEMCITABINE-OXALIPLATIN">GEMCITABINE-OXALIPLATIN</DrugInfoURL><TerminologyLink ref="CDR0000751389">gemcitabine-oxaliplatin regimen</TerminologyLink><GlossaryLink ref="CDR0000751402">gemcitabine-oxaliplatin</GlossaryLink><PronunciationInfo><TermPronunciation>jem-SY-tuh-been-ok-SA-lih-pla-tin</TermPronunciation><MediaLink ref="CDR0000754457" type="audio/mpeg" alt="" language="en" id="_3"/><MediaLink ref="CDR0000754458" type="audio/mpeg" alt="" language="es" id="_6"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>GEMCITABINE-OXALIPLATIN</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the GEMCITABINE-OXALIPLATIN combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right">
+      </entry>
+      <entry><DrugRef href="CDR0000495426" url="/about-cancer/treatment/drugs/gemcitabinehydrochloride">Gemcitabine Hydrochloride</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right">
+      </entry>
+      <entry><DrugRef href="CDR0000492041" url="/about-cancer/treatment/drugs/oxaliplatin">Oxaliplatin</DrugRef>
+      </entry>
+     </Row>
+     
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">GEMCITABINE-OXALIPLATIN 
+         is used to treat:</Para>
+  <ItemizedList Style="bullet" id="_7">
+   
+   <ListItem><Strong><GlossaryTermRef href="CDR0000044521" dictionary="Cancer.gov" audience="Patient">Pancreatic cancer</GlossaryTermRef>.</Strong></ListItem>
+   </ItemizedList>
+  <Para id="_8">This combination may also be used with other drugs or 
+         treatments or to treat other types of cancer.</Para>
+ </Section><Section id="_About"><Title>More About GEMCITABINE-OXALIPLATIN</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/751389">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2013-09-24</DateFirstPublished><DateLastModified>2023-05-05</DateLastModified></DrugInformationSummary>

@@ -1,0 +1,49 @@
+<DrugInformationSummary id="CDR0000698393"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This combination contains the chemotherapy drugs leucovorin calcium (folinic acid), fluorouracil, and irinotecan hydrochloride and the targeted therapy drug bevacizumab. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/FOLFIRI-BEVACIZUMAB">FOLFIRI-BEVACIZUMAB</DrugInfoURL><TerminologyLink ref="CDR0000657060">FOLFIRI-bevacizumab regimen</TerminologyLink><GlossaryLink ref="CDR0000710387">FOLFIRI-bevacizumab</GlossaryLink><PronunciationInfo><TermPronunciation>... beh-vuh-SIH-zoo-mab</TermPronunciation><MediaLink ref="CDR0000733305" type="audio/mpeg" alt="" language="en" id="_3"/><MediaLink ref="CDR0000733304" type="audio/mpeg" alt="" language="es" id="_4"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>FOLFIRI-BEVACIZUMAB</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the FOLFIRI-BEVACIZUMAB combination:</Title>
+   <TGroup Cols="3">
+    <ColSpec Align="Right" ColName="col1" ColNum="1" ColWidth="*"/><ColSpec Align="Left" ColName="col2" ColNum="2" ColWidth="*"/><ColSpec ColName="col3" ColNum="3" ColWidth="1.50*"/>
+    
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>FOL</Strong>
+      </entry><entry Align="Left" NameEnd="col3" NameSt="col2">= <DrugRef href="CDR0000599725" url="/about-cancer/treatment/drugs/leucovorincalcium">Leucovorin Calcium</DrugRef> (Folinic Acid)</entry>
+      
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>F</Strong>
+      </entry><entry Align="Left" NameEnd="col3" NameSt="col2">= <DrugRef href="CDR0000537894" url="/about-cancer/treatment/drugs/fluorouracil">Fluorouracil</DrugRef>
+      </entry>
+      
+     </Row><Row><entry Align="Right"><Strong>IRI</Strong>
+      </entry><entry Align="Left" NameEnd="col3" NameSt="col2">= <DrugRef href="CDR0000537382" url="/about-cancer/treatment/drugs/irinotecanhydrochloride">Irinotecan Hydrochloride</DrugRef>
+      </entry>
+      
+      
+     </Row><Row><entry Align="Right" ColSep="1"/><entry Align="Left" NameEnd="col3" NameSt="col2"> + <DrugRef href="CDR0000487564" url="/about-cancer/treatment/drugs/bevacizumab">Bevacizumab</DrugRef></entry></Row>
+     
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  <Para id="_4">Each of the 
+         drugs 
+         in this
+         combination
+         is approved by the
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef>
+         to treat 
+         cancer
+         or conditions related to cancer.</Para>                          
+  
+ </Section><Section id="_6"><Title>Use in Cancer</Title><Para id="_7">FOLFIRI-BEVACIZUMAB is used to treat:</Para><ItemizedList Style="bullet" id="_8"><ListItem><Strong><GlossaryTermRef href="CDR0000444983" dictionary="Cancer.gov" audience="Patient">Colorectal cancer</GlossaryTermRef></Strong> that has <GlossaryTermRef href="CDR0000046283" dictionary="Cancer.gov" audience="Patient">metastasized</GlossaryTermRef> (spread to other parts of the body).</ListItem></ItemizedList><Para id="_9">This combination may also be used with other drugs or treatments or to treat other types of cancer.</Para></Section><Section id="_About"><Title>More About FOLFIRI-BEVACIZUMAB</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/657060">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2011-08-16</DateFirstPublished><DateLastModified>2023-04-25</DateLastModified></DrugInformationSummary>

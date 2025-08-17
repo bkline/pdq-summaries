@@ -1,0 +1,48 @@
+<DrugInformationSummary id="CDR0000727225"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This chemotherapy combination contains the drugs capecitabine and oxaliplatin. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/CAPOX">CAPOX</DrugInfoURL><TerminologyLink ref="CDR0000727239">CAPOX regimen</TerminologyLink><GlossaryLink ref="CDR0000728861">CAPOX</GlossaryLink><PronunciationInfo><MediaLink ref="CDR0000738751" type="audio/mpeg" alt="" language="en" id="_3"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>CAPOX</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the CAPOX combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>CAP</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000496354" url="/about-cancer/treatment/drugs/capecitabine">Capecitabine</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>OX</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000492041" url="/about-cancer/treatment/drugs/oxaliplatin">Oxaliplatin</DrugRef>
+      </entry>
+     </Row>
+     
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">CAPOX 
+         is used to treat:</Para>
+  <ItemizedList Style="bullet" id="_7">
+   <ListItem><Strong><GlossaryTermRef href="CDR0000444983" dictionary="Cancer.gov" audience="Patient">Colorectal cancer</GlossaryTermRef></Strong> that is <GlossaryTermRef href="CDR0000478743" dictionary="Cancer.gov" audience="Patient">advanced</GlossaryTermRef>.</ListItem>
+   
+   </ItemizedList>
+  <Para id="_8">This combination may also be used with other drugs or treatments or to treat other types of cancer.</Para>
+ </Section><Section id="_About"><Title>More About CAPOX</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/727239">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2012-04-04</DateFirstPublished><DateLastModified>2023-04-20</DateLastModified></DrugInformationSummary>

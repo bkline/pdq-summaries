@@ -1,0 +1,359 @@
+<Summary id="CDR0000256729" LegacyPDQID=""><SummaryMetaData><SummaryType>Treatment</SummaryType><SummaryAudience>Health professionals</SummaryAudience><SummaryLanguage>Spanish</SummaryLanguage><SummaryDescription>Resumen de información revisada por expertos acerca del tratamiento del cáncer de uretra.</SummaryDescription><SummaryURL xref="https://www.cancer.gov/espanol/tipos/uretra/pro/tratamiento-uretra-pdq">Cáncer de uretra (PDQ®): Tratamiento</SummaryURL><SummaryToggleURL xref="https://www.cancer.gov/espanol/tipos/uretra/paciente/tratamiento-uretra-pdq">Cáncer de uretra (PDQ®): Tratamiento</SummaryToggleURL><SummaryEditorialBoard ref="CDR0000028327">PDQ Adult Treatment Editorial Board</SummaryEditorialBoard><MainTopics><TermRef ref="CDR0000039051">urethral cancer</TermRef></MainTopics><SummaryAbstract>
+      <Para id="_228">This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of urethral cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions.</Para>
+      <Para id="_229">This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board, which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).</Para>
+    </SummaryAbstract><SummaryKeyWords><SummaryKeyWord>urethral cancer</SummaryKeyWord></SummaryKeyWords></SummaryMetaData><SummaryTitle>Tratamiento del cáncer de uretra (PDQ®)–Versión para profesionales de salud</SummaryTitle><AltTitle TitleType="Browser">Tratamiento del cáncer de uretra (PDQ®)</AltTitle><AltTitle TitleType="CancerTypeHomePage">Tratamiento del cáncer de uretra</AltTitle><SummarySection id="_1"><SectMetaData><SpecificDiagnosis ref="CDR0000039051">urethral cancer</SpecificDiagnosis><SectionType>Prognosis--legacy</SectionType></SectMetaData><Title>Información general sobre el cáncer de uretra</Title><SummarySection id="_198"><Title>Incidencia y mortalidad</Title><Para id="_199">El cáncer de uretra es poco frecuente. La tasa de incidencia anual del cáncer de uretra en la base de datos del Surveillance, Epidemiology and End Results (SEER) Program durante el período de 1973 a 2002 en los Estados Unidos fue de 4,3 por millón de hombres y de 1,5 por millón de mujeres, con tendencia descendente durante las tres décadas.<Reference refidx="1"/> La incidencia fue 2 veces más alta en las personas afroamericanas que en las blancas (5 vs. 2,5 por millón de personas). Los cánceres de uretra parecen estar relacionados con la infección por el virus del papiloma humano (VPH), en especial el VPH 16, una cepa del VPH que se sabe que causa cáncer de cuello uterino.<Reference refidx="2"/><Reference refidx="3"/></Para><Para id="_200">Debido a su carácter poco frecuente, casi toda la información sobre el tratamiento del cáncer de uretra y los desenlaces del tratamiento proviene de series retrospectivas de casos de una sola institución y, por lo tanto, representa un <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>, muy bajo. La mayoría de la información proviene de casos acumulados en el transcurso de muchas décadas en centros académicos importantes.</Para></SummarySection><SummarySection id="_201"><Title>Características anatómicas</Title><Para id="_202">La uretra femenina está contenida en su mayor parte dentro de la pared vaginal anterior. En las mujeres adultas, su longitud aproximada es de 4 cm.</Para><Para id="_203">La uretra masculina tiene una longitud promedio de 20 cm y se divide en una porción distal y una porción proximal. La uretra distal, que se extiende de manera distal a proximal desde la punta del pene hasta justo antes de la próstata, comprende el meato, la fosa navicular, la uretra peneana o pendular y la uretra bulbar. La uretra proximal, que se extiende desde la uretra bulbar hasta el cuello de la vejiga, comprende la uretra membranosa (distal) y la uretra prostática (proximal).</Para><MediaLink ref="CDR0000765552" type="image/jpeg" alt="Anatomía del aparato urinario masculino (panel de la izquierda) y del aparato urinario femenino (panel de la derecha). En la imagen se muestran dos paneles en los que se observan los riñones derecho e izquierdo, los uréteres, la vejiga llena de orina y la uretra. En el interior del riñón izquierdo se observa la pelvis renal. En los recuadros se muestran los túbulos renales y la orina. También se muestra la próstata y el pene (panel de la izquierda), y el útero (panel de la derecha)." language="es" placement="image-center-medium" id="_227"><Caption language="es">Anatomía del aparato urinario masculino (panel de la izquierda) y del aparato urinario femenino (panel de la derecha). En la imagen se muestran los riñones, los uréteres, la vejiga y la uretra. En el interior del riñón izquierdo se observa la pelvis renal. En los recuadros se muestran los túbulos renales y la orina. También se muestra la próstata y el pene (panel de la izquierda), y el útero (panel de la derecha). La orina se elabora en los túbulos renales y se acumula en la pelvis renal de cada riñón.  La orina fluye desde los riñones, pasa por los uréteres y se almacena en la vejiga hasta que sale del cuerpo por la uretra.</Caption></MediaLink></SummarySection><SummarySection id="_205"><Title>Pronóstico</Title><Para id="_206">El pronóstico del cáncer de uretra depende de los siguientes factores:<Reference refidx="4"/><Reference refidx="5"/><Reference refidx="6"/></Para><ItemizedList id="_207" Style="bullet">
+        <ListItem>Ubicación anatómica.</ListItem>
+        <ListItem>Tamaño.</ListItem>
+        <ListItem>Estadio.</ListItem>
+        <ListItem>Profundidad de la invasión.</ListItem>
+      </ItemizedList><Para id="_208">Por lo general, los tumores superficiales en la uretra distal en mujeres y en hombres son curables. Sin embargo, las lesiones con invasión profunda casi nunca son curables con ninguna combinación de tratamientos. En los hombres, el pronóstico de los tumores de uretra distal (peneana) es mejor que para los tumores de uretra proximal (bulbomembranosa) y de uretra prostática, que tienden a presentarse en estadios más avanzados.<Reference refidx="7"/><Reference refidx="8"/> Asimismo, los tumores de uretra distal tienden a manifestarse en estadios más tempranos en las mujeres y tienen mejor pronóstico que los tumores proximales.<Reference refidx="9"/></Para></SummarySection><ReferenceSection><Citation idx="1" PMID="17141838">Swartz MA, Porter MP, Lin DW, et al.: Incidence of primary urethral carcinoma in the United States. Urology 68 (6): 1164-8, 2006.</Citation><Citation idx="2" PMID="1325290">Wiener JS, Liu ET, Walther PJ: Oncogenic human papillomavirus type 16 is associated with squamous cell cancer of the male urethra. Cancer Res 52 (18): 5018-23, 1992.</Citation><Citation idx="3" PMID="8254831">Wiener JS, Walther PJ: A high association of oncogenic human papillomaviruses with carcinomas of the female urethra: polymerase chain reaction-based analysis of multiple histological types. J Urol 151 (1): 49-53, 1994.</Citation><Citation idx="4">Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 767–76.</Citation><Citation idx="5" PMID="24048790">Rabbani F: Prognostic factors in male urethral cancer. Cancer 117 (11): 2426-34, 2011.</Citation><Citation idx="6" PMID="9883221">Dalbagni G, Zhang ZF, Lacombe L, et al.: Female urethral carcinoma: an analysis of treatment outcome and a plea for a standardized management strategy. Br J Urol 82 (6): 835-41, 1998.</Citation><Citation idx="7" PMID="8154072">Dinney CP, Johnson DE, Swanson DA, et al.: Therapy and prognosis for male anterior urethral carcinoma: an update. Urology 43 (4): 506-14, 1994.</Citation><Citation idx="8" PMID="10367840">Dalbagni G, Zhang ZF, Lacombe L, et al.: Male urethral carcinoma: analysis of treatment outcome. Urology 53 (6): 1126-32, 1999.</Citation><Citation idx="9" PMID="9730466">Gheiler EL, Tefilli MV, Tiguert R, et al.: Management of primary urethral cancer. Urology 52 (3): 487-93, 1998.</Citation></ReferenceSection></SummarySection><SummarySection id="_4"><SectMetaData><SpecificDiagnosis ref="CDR0000039051">urethral cancer</SpecificDiagnosis><SectionType>Cellular classification--legacy</SectionType></SectMetaData><Title>Clasificación celular del cáncer de uretra</Title><Para id="_178">En un análisis de datos del Surveillance, Epidemiology, and End Results (SEER) Program de 1973 a 2002, los tipos histológicos más comunes del cáncer de uretra fueron los siguientes:<Reference refidx="1"/></Para><ItemizedList id="_209" Style="bullet">
+      <ListItem>Células de transición (55 %).</ListItem>
+      <ListItem>Células escamosas (&lt;21,5 %).</ListItem>
+      <ListItem>Adenocarcinoma (16,4 %).</ListItem>
+    </ItemizedList><Para id="_210">Otros tipos celulares, como los melanomas, fueron muy infrecuentes.<Reference refidx="1"/></Para><Para id="_5">La uretra femenina proximal la reviste una mucosa de células de transición, y la uretra distal la reviste una mucosa de células escamosas estratificadas. Por consiguiente, el carcinoma de células de transición es más común en la uretra proximal y el carcinoma de células escamosas predomina en la uretra distal. Los adenocarcinomas a veces surgen en ambos sitios y se originan por metaplasia de las numerosas glándulas periuretrales.</Para><Para id="_6">En la uretra masculina, las células de transición revisten las porciones prostática y membranosa; luego hay un cambio de epitelio cilíndrico estratificado a epitelio escamoso estratificado en las porciones bulbosa y peneana. La submucosa de la uretra contiene numerosas glándulas. Por lo tanto, es posible que el cáncer de uretra en los hombres exhiba características histológicas de carcinoma de células de transición, carcinoma de células escamosas o adenocarcinoma.</Para><Para id="_7">Salvo en el caso de la uretra prostática, en el que el carcinoma de células de transición es más común, el carcinoma de células escamosas es el tipo histológico predominante en las neoplasias de uretra. Debido a que los carcinomas de células de transición de uretra prostática a veces se relacionan con los carcinomas de células de transición de vejiga o de conductos prostáticos, a menudo el tratamiento es similar al de estos tumores primarios y se deberán separar de los carcinomas de uretra más distales.</Para><ReferenceSection><Citation idx="1" PMID="17141838">Swartz MA, Porter MP, Lin DW, et al.: Incidence of primary urethral carcinoma in the United States. Urology 68 (6): 1164-8, 2006.</Citation></ReferenceSection></SummarySection><SummarySection id="_8"><SectMetaData><SpecificDiagnosis ref="CDR0000039051">urethral cancer</SpecificDiagnosis><SectionType>Stage explanation--legacy</SectionType></SectMetaData><Title>Información sobre los estadios del cáncer de uretra</Title><Para id="_9">Las decisiones sobre el pronóstico y el tratamiento se determinan de acuerdo a los siguientes aspectos:<Reference refidx="1"/></Para><ItemizedList id="_211" Style="bullet">
+      <ListItem>Ubicación anatómica del tumor primario.</ListItem>
+      <ListItem>Tamaño del tumor.</ListItem>
+      <ListItem>Estadio del cáncer.</ListItem>
+      <ListItem>Profundidad de la invasión del tumor.</ListItem>
+    </ItemizedList><Para id="_212">El tipo histológico del tumor primario tiene menor importancia para la predicción de la respuesta al tratamiento y la supervivencia.<Reference refidx="2"/> El examen endoscópico, la uretrografía y las imágenes por resonancia magnética son útiles para determinar la extensión local del tumor.<Reference refidx="3"/><Reference refidx="4"/></Para><SummarySection id="_10"><Title>Cáncer de uretra distal</Title><Para id="_11">Estas lesiones a menudo son superficiales.</Para><ItemizedList id="_73" Style="bullet">
+        <ListItem>Mujeres: lesiones del tercio distal de la uretra.</ListItem>
+        <ListItem>Hombres: porción anterior o peneana de la uretra, incluso el meato y la uretra pendular.</ListItem>
+      </ItemizedList></SummarySection><SummarySection id="_15"><Title>Cáncer de uretra proximal</Title><Para id="_16">Estas lesiones a menudo exhiben invasión profunda.</Para><ItemizedList id="_74" Style="bullet">
+        <ListItem>Mujeres: lesiones que no están claramente limitadas al tercio distal de la uretra.</ListItem>
+        <ListItem>Hombres: uretra bulbomembranosa y prostática.</ListItem>
+      </ItemizedList></SummarySection><SummarySection id="_19"><Title>Cáncer de uretra relacionado con el cáncer de vejiga invasivo</Title><Para id="_20">Es posible que de 5 a 10 % de los hombres que se someten a una cistectomía para un cáncer de vejiga presenten cáncer de uretra en un lugar distal al diafragma urogenital.<Reference refidx="5"/><Reference refidx="6"/></Para></SummarySection><SummarySection id="_116"><Title>Agrupamiento por estadios y definiciones TNM del American Joint Committee on Cancer</Title><Para id="_95">El American Joint Committee on Cancer (AJCC) designó los estadios mediante la clasificación TNM (tumor, ganglio linfático y metástasis) para definir el cáncer de uretra.<Reference refidx="1"/></Para><SummarySection id="_233"><Title>Uretra masculina peneana y uretra femenina</Title><Table id="_234">
+          <Title>Cuadro 1.  Definiciones TNM para los estadios 0is y 0a<Superscript>a</Superscript></Title>
+          <TGroup Cols="3">
+            <ColSpec ColName="col1" ColNum="1" ColWidth="20.96%"/>
+            <ColSpec ColName="col2" ColNum="2" ColWidth="25.36%"/>
+            <ColSpec ColName="col3" ColNum="3" ColWidth="53.66%"/>
+            <THead>
+              <Row>
+                <entry Align="Center">Estadio</entry>
+                <entry Align="Center">TNM</entry>
+                <entry Align="Center">Descripción</entry>
+              </Row>
+            </THead>
+            <TFoot>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Urethra. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 767–76.</entry>
+              </Row>
+            </TFoot>
+            <TBody>
+              <Row>
+                <entry MoreRows="2">0is</entry>
+                <entry MoreRows="2">Tis, N0, M0</entry>
+                <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+              </Row>
+              <Row>
+                <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry MoreRows="2">0a</entry>
+                <entry MoreRows="2">Ta, N0, M0</entry>
+                <entry>Ta = carcinoma papilar no invasivo.</entry>
+              </Row>
+              <Row>
+                <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+            </TBody>
+          </TGroup>
+        </Table><Table id="_239">
+          <Title>Cuadro 2.  Definiciones TNM para el estadio I<Superscript>a</Superscript></Title>
+          <TGroup Cols="3">
+            <ColSpec ColName="col1" ColNum="1" ColWidth="21.05%"/>
+            <ColSpec ColName="col2" ColNum="2" ColWidth="26.10%"/>
+            <ColSpec ColName="col3" ColNum="3" ColWidth="52.84%"/>
+            <THead>
+              <Row>
+                <entry Align="Center">Estadio</entry>
+                <entry Align="Center">TNM</entry>
+                <entry Align="Center">Descripción</entry>
+              </Row>
+            </THead>
+            <TFoot>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Urethra. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 767–76.</entry>
+              </Row>
+            </TFoot>
+            <TBody>
+              <Row>
+                <entry MoreRows="2">I</entry>
+                <entry MoreRows="2">T1, N0, M0</entry>
+                <entry>T1 = tumor con invasión del tejido conjuntivo subepitelial.</entry>
+              </Row>
+              <Row>
+                <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+            </TBody>
+          </TGroup>
+        </Table><Table id="_240">
+          <Title>Cuadro 3.  Definiciones TNM para el estadio II<Superscript>a</Superscript></Title>
+          <TGroup Cols="3">
+            <ColSpec ColName="col1" ColNum="1" ColWidth="20.53%"/>
+            <ColSpec ColName="col2" ColNum="2" ColWidth="25.66%"/>
+            <ColSpec ColName="col3" ColNum="3" ColWidth="53.79%"/>
+            <THead>
+              <Row>
+                <entry Align="Center">Estadio</entry>
+                <entry Align="Center">TNM</entry>
+                <entry Align="Center">Descripción</entry>
+              </Row>
+            </THead>
+            <TFoot>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Urethra. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 767–76.</entry>
+              </Row>
+            </TFoot>
+            <TBody>
+              <Row>
+                <entry MoreRows="2">II</entry>
+                <entry MoreRows="2">T2, N0, M0</entry>
+                <entry>T2 = tumor con invasión del cuerpo esponjoso o el músculo periuretral.</entry>
+              </Row>
+              <Row>
+                <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+            </TBody>
+          </TGroup>
+        </Table><Table id="_241">
+          <Title>Cuadro 4.  Definiciones TNM para el estadio III<Superscript>a</Superscript></Title>
+          <TGroup Cols="3">
+            <ColSpec ColName="col1" ColNum="1" ColWidth="21.45%"/>
+            <ColSpec ColName="col2" ColNum="2" ColWidth="25.96%"/>
+            <ColSpec ColName="col3" ColNum="3" ColWidth="52.57%"/>
+            <THead>
+              <Row>
+                <entry Align="Center">Estadio</entry>
+                <entry Align="Center">TNM</entry>
+                <entry Align="Center">Descripción</entry>
+              </Row>
+            </THead>
+            <TFoot>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Urethra. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 767–76.</entry>
+              </Row>
+            </TFoot>
+            <TBody>
+              <Row>
+                <entry MoreRows="11">III</entry>
+                <entry MoreRows="2">T1, N1, M0</entry>
+                <entry>T1 = tumor con invasión del tejido conjuntivo subepitelial.</entry>
+              </Row>
+              <Row>
+                <entry>N1 = una metástasis ganglionar regional en la región inguinal o la pelvis menor (perivesical, obturador, ilíaco interno [hipogástrico] e ilíaco externo), o metástasis en un ganglio linfático presacro.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry MoreRows="2">T2, N1, M0</entry>
+                <entry>T2 = tumor con invasión del cuerpo esponjoso o el músculo periuretral.</entry>
+              </Row>
+              <Row>
+                <entry>N1 = una metástasis ganglionar regional en la región inguinal o la pelvis menor (perivesical, obturador, ilíaco interno [hipogástrico] e ilíaco externo), o metástasis en un ganglio linfático presacro.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry MoreRows="2">T3, N0, M0</entry>
+                <entry>T3 = tumor con invasión del cuerpo cavernoso o la vagina anterior.</entry>
+              </Row>
+              <Row>
+                <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry MoreRows="2">T3, N1, M0</entry>
+                <entry>T3 = tumor con invasión del cuerpo cavernoso o la vagina anterior.</entry>
+              </Row>
+              <Row>
+                <entry>N1 = una metástasis ganglionar regional en la región inguinal o la pelvis menor (perivesical, obturador, ilíaco interno [hipogástrico] e ilíaco externo), o metástasis en un ganglio linfático presacro.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+            </TBody>
+          </TGroup>
+        </Table><Table id="_242">
+          <Title>Cuadro 5.  Definiciones TNM para el estadio IV<Superscript>a</Superscript></Title>
+          <TGroup Cols="3">
+            <ColSpec ColName="col1" ColNum="1" ColWidth="22.07%"/>
+            <ColSpec ColName="col2" ColNum="2" ColWidth="26.26%"/>
+            <ColSpec ColName="col3" ColNum="3" ColWidth="51.65%"/>
+            <THead>
+              <Row>
+                <entry Align="Center">Estadio</entry>
+                <entry Align="Center">TNM</entry>
+                <entry Align="Center">Descripción</entry>
+              </Row>
+            </THead>
+            <TFoot>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1">T = tumor primario; N = ganglio linfático regional; M = metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry NameEnd="col3" NameSt="col1"><Superscript>a</Superscript>Reproducción autorizada de AJCC: Urethra. En: Amin MB, Edge SB, Greene FL, et al., eds.: <Emphasis>AJCC Cancer Staging Manual</Emphasis>. 8th ed. New York, NY: Springer, 2017, pp. 767–76.</entry>
+              </Row>
+            </TFoot>
+            <TBody>
+              <Row>
+                <entry MoreRows="21">IV</entry>
+                <entry MoreRows="2">T4, N0, M0</entry>
+                <entry>T4 = tumor con invasión de otros órganos adyacentes (por ejemplo, invasión de la pared vesical).</entry>
+              </Row>
+              <Row>
+                <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry MoreRows="2">T4, N1, M0</entry>
+                <entry>T4 = tumor con invasión de otros órganos adyacentes (por ejemplo, invasión de la pared vesical).</entry>
+              </Row>
+              <Row>
+                <entry>N1 = una metástasis ganglionar regional en la región inguinal o la pelvis menor (perivesical, obturador, ilíaco interno [hipogástrico] e ilíaco externo), o metástasis en un ganglio linfático presacro.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry MoreRows="9">Cualquier T, N2, M0</entry>
+                <entry>TX = tumor primario no evaluable.</entry>
+              </Row>
+              <Row>
+                <entry>T0 = sin indicios de tumor primario.</entry>
+              </Row>
+              <Row>
+                <entry>Ta = carcinoma papilar no invasivo.</entry>
+              </Row>
+              <Row>
+                <entry>Tis = carcinoma <Emphasis>in situ</Emphasis>.</entry>
+              </Row>
+              <Row>
+                <entry>T1 = tumor con invasión del tejido conjuntivo subepitelial.</entry>
+              </Row>
+              <Row>
+                <entry>T2 = tumor con invasión del cuerpo esponjoso o el músculo periuretral.</entry>
+              </Row>
+              <Row>
+                <entry>T3 = tumor con invasión del cuerpo cavernoso o la vagina anterior.</entry>
+              </Row>
+              <Row>
+                <entry>T4 = tumor con invasión de otros órganos adyacentes (por ejemplo, invasión de la pared vesical).</entry>
+              </Row>
+              <Row>
+                <entry>N2 = múltiples metástasis ganglionares regionales en la región inguinal o en la pelvis menor (perivesical, obturador, ilíaco interno [hipogástrico] e ilíaco externo), o metástasis en un ganglio linfático presacro.</entry>
+              </Row>
+              <Row>
+                <entry>M0 = sin metástasis a distancia.</entry>
+              </Row>
+              <Row>
+                <entry MoreRows="5">Cualquier T, cualquier N, M1</entry>
+                <entry>Cualquier T = consultar las descripciones del estadio IV, cualquier T, N2, M0 en este cuadro.</entry>
+              </Row>
+              <Row>
+                <entry>NX = ganglios linfáticos regionales no evaluables.</entry>
+              </Row>
+              <Row>
+                <entry>N0 = sin metástasis en ganglios linfáticos regionales.</entry>
+              </Row>
+              <Row>
+                <entry>N1 = una metástasis ganglionar regional en la región inguinal o la pelvis menor (perivesical, obturador, ilíaco interno [hipogástrico] e ilíaco externo), o metástasis en un ganglio linfático presacro.</entry>
+              </Row>
+              <Row>
+                <entry>N2 = múltiples metástasis ganglionares regionales en la región inguinal o en la pelvis menor (perivesical, obturador, ilíaco interno [hipogástrico] e ilíaco externo), o metástasis en un ganglio linfático presacro.</entry>
+              </Row>
+              <Row>
+                <entry>M1 = metástasis a distancia.</entry>
+              </Row>
+            </TBody>
+          </TGroup>
+        </Table></SummarySection></SummarySection><ReferenceSection><Citation idx="1">Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 767–76.</Citation><Citation idx="2" PMID="1593679" MedlineID="92277738">Grigsby PW, Corn BW: Localized urethral tumors in women: indications for conservative versus exenterative therapies. J Urol 147 (6): 1516-20, 1992.</Citation><Citation idx="3" PMID="11553824">Ryu J, Kim B: MR imaging of the male and female urethra. Radiographics 21 (5): 1169-85, 2001 Sep-Oct.</Citation><Citation idx="4" PMID="12835971">Pavlica P, Barozzi L, Menchi I: Imaging of male urethra. Eur Radiol 13 (7): 1583-96, 2003.</Citation><Citation idx="5">Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles &amp; Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.</Citation><Citation idx="6" PMID="8646239">Erckert M, Stenzl A, Falk M, et al.: Incidence of urethral tumor involvement in 910 men with bladder cancer. World J Urol 14 (1): 3-8, 1996.</Citation></ReferenceSection></SummarySection><SummarySection id="_179"><SectMetaData><SpecificDiagnosis ref="CDR0000039051">urethral cancer</SpecificDiagnosis><SectionType>Treatment option overview--legacy</SectionType></SectMetaData><Title>Aspectos generales de las opciones de tratamiento del cáncer de uretra</Title><Para id="_180">La información sobre el tratamiento del cáncer de uretra y su desenlace proviene de series retrospectivas de casos de una sola institución y, por lo tanto, representa un <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>, muy bajo. Gran parte de la información proviene de pocos casos acumulados en el transcurso de muchas décadas en centros académicos importantes. Por lo tanto, el tratamiento en estos informes no suele estar estandarizado y cubre períodos de cambios en las prácticas de cuidados médicos de apoyo. Debido a la infrecuencia del cáncer de uretra, su tratamiento también refleja una extrapolación del tratamiento de otras neoplasias malignas uroteliales, como el cáncer de vejiga en el caso de los cánceres de transición y el cáncer de ano en el caso de los carcinomas de células escamosas.</Para><SummarySection id="_181"><Title>Función de la cirugía</Title><Para id="_182">La cirugía es el pilar del tratamiento de los cánceres de uretra en hombres y mujeres.[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>] El abordaje quirúrgico depende del estadio del tumor y la ubicación anatómica; el grado del tumor cumple una función menos importante para las decisiones terapéuticas.<Reference refidx="1"/><Reference refidx="2"/> Si bien la recomendación tradicional es obtener un margen libre de compromiso tumoral de por lo menos 2 cm, el margen quirúrgico óptimo no se ha estudiado de manera estricta y no está bien definido. La función de la disección ganglionar no está clara cuando no hay compromiso clínico, y la función de la disección profiláctica es polémica.<Reference refidx="2"/> Es posible añadir radioterapia o quimioterapia en algunos pacientes con enfermedad extensa o en un intento de conservar el órgano; pero no hay pautas bien definidas sobre la selección de los pacientes, y el bajo nivel de evidencia impide llegar a conclusiones claras sobre un beneficio creciente.<Reference refidx="2"/><Reference refidx="3"/></Para><Para id="_183">Las técnicas de ablación, como la resección transuretral, la electrorresección y la fulguración, o la vaporización-coagulación por láser, se usan para conservar el funcionamiento de los órganos en casos de tumores anteriores superficiales, aunque la bibliografía médica que sustenta estas prácticas es escasa.<Reference refidx="2"/></Para></SummarySection><SummarySection id="_184"><Title>Función de la radioterapia</Title><Para id="_185">La radioterapia de haz externo, la braquiterapia o una combinación de ambas a veces se usan en el tratamiento primario de los cánceres de uretra proximal en estadio temprano, en especial en mujeres.[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>] La braquiterapia se puede administrar con fuentes de iridio Ir 192 de dosis bajas mediante el empleo de una rejilla o un catéter uretral. A veces también se usa radiación definitiva para los tumores en estadio avanzado, aunque es más frecuente que se incorpore a un tratamiento de modalidad combinada después de la cirugía o la quimioterapia porque la monoterapia para tumores grandes demuestra poco control tumoral.<Reference refidx="4"/> No hay comparaciones directas de estos abordajes, y la selección de los pacientes quizás explique las diferencias en los desenlaces entre los regímenes.[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>]</Para><Para id="_186">Las dosis que se usan más comúnmente en los tumores oscilan entre 60 y 70 Gy. Las tasas de complicaciones graves de la radioterapia definitiva son del 16 % al 20 %, e incluyen la formación de una fístula, en especial en tumores grandes que invaden la vagina, la vejiga o el recto. Las estenosis uretrales también se presentan en el entorno del tratamiento con conservación de la uretra. Las tasas de toxicidad aumentan con dosis por encima de 65 a 70 Gy. La radioterapia de intensidad modulada se comenzó a usar más en un intento de disminuir la morbilidad local de la radiación.<Reference refidx="4"/></Para></SummarySection><SummarySection id="_187"><Title>Función de la quimioterapia</Title><Para id="_219">La bibliografía médica sobre la quimioterapia para el carcinoma de uretra es de naturaleza anecdótica y está limitada a series de casos o informes de casos retrospectivos de una sola institución.<Reference refidx="5"/>[<LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>] Con el transcurso de los años, se ha notificado el empleo de una gran variedad de fármacos solos o en combinación y, en gran medida, se extrapoló el uso de estos a partir de la experiencia con otros tumores de vías urinarias.</Para><Para id="_220">Para los cánceres de células escamosas, los fármacos que se han usado para el cáncer de pene o el carcinoma de ano son los siguientes:<Reference refidx="3"/><Reference refidx="5"/></Para><ItemizedList id="_221" Style="bullet">
+        <ListItem>Cisplatino.</ListItem>
+        <ListItem>Fluorouracilo.</ListItem>
+        <ListItem>Bleomicina.</ListItem>
+        <ListItem>Metotrexato.</ListItem>
+        <ListItem>Irinotecán.</ListItem>
+        <ListItem>Gemcitabina.</ListItem>
+        <ListItem>Paclitaxel.</ListItem>
+        <ListItem>Docetaxel.</ListItem>
+        <ListItem>Mitomicina.</ListItem>
+      </ItemizedList><Para id="_223">La administración de la quimioterapia para los tumores de células de transición en la uretra se extrapola de la experiencia con los tumores de células de transición en la vejiga y, en general, contiene los siguientes fármacos:<Reference refidx="1"/><Reference refidx="4"/><Reference refidx="5"/><Reference refidx="6"/><Reference refidx="7"/></Para><ItemizedList id="_224" Style="bullet">
+        <ListItem>Metotrexato, vinblastina, doxorrubicina y cisplatino (MVAC).</ListItem>
+        <ListItem>Paclitaxel.</ListItem>
+        <ListItem>Carboplatino.</ListItem>
+        <ListItem>Ifosfamida, con respuestas completas de vez en cuando.</ListItem>
+      </ItemizedList><Para id="_197">La quimioterapia se ha utilizado sola para la enfermedad metastásica o en combinación con la radioterapia o cirugía para el cáncer de uretra localmente avanzado. En ocasiones se usa en el entorno neoadyuvante en combinación con radioterapia con el fin de aumentar la tasa de resecabilidad o la conservación del órgano.<Reference refidx="3"/> Sin embargo, se desconoce la repercusión en la supervivencia del uso de cualquiera de estos regímenes en cualquier estadio o entorno.</Para><SummarySection id="_260"><Title>Administración de fluorouracilo</Title><SummarySection id="_sm_CDR0000813954_3"><Para id="_sm_CDR0000813954_4">El gen <GeneName>DPYD</GeneName> codifica la enzima que cataboliza las pirimidinas y las fluoropirimidinas, como la capecitabina y el fluorouracilo. Se estima que entre el 1 % y el 2 % de la población tiene variantes defectuosas de  <GeneName>DPYD</GeneName> que reducen la función de la proteína DPD y la acumulación de pirimidinas y fluoropirimidinas en el cuerpo.<Reference refidx="8"/><Reference refidx="9"/> Los pacientes con la variante <GeneName>DPYD*2A</GeneName> que reciben fluoropirimidinas quizás presenten efectos tóxicos graves que ponen en riesgo la salud, y a veces son mortales. Se han identificado muchas otras variantes de <GeneName>DPYD</GeneName>, con diferentes efectos clínicos.<Reference refidx="8"/><Reference refidx="9"/><Reference refidx="10"/> Es posible que se recomiende evitar la fluoropirimidina o reducir la dosis al 50 % según el genotipo <GeneName>DPYD</GeneName> del paciente y el número de alelos funcionales de <GeneName>DPYD</GeneName>.<Reference refidx="11"/><Reference refidx="12"/><Reference refidx="13"/> Las pruebas genéticas para <GeneName>DPYD</GeneName> cuestan menos de $200, pero la cobertura del seguro varía debido a la falta de directrices nacionales.<Reference refidx="14"/> Además, es posible que las pruebas retrasen el tratamiento por 2 semanas, lo que no sería aconsejable en casos de urgencia. Este tema es objeto de controversia y requiere evaluación adicional.<Reference refidx="15"/></Para></SummarySection></SummarySection></SummarySection><ReferenceSection><Citation idx="1">Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles &amp; Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.</Citation><Citation idx="2" PMID="20674699">Karnes RJ, Breau RH, Lightner DJ: Surgery for urethral cancer. Urol Clin North Am 37 (3): 445-57, 2010.</Citation><Citation idx="3" PMID="18076921">Cohen MS, Triaca V, Billmeyer B, et al.: Coordinated chemoradiation therapy with genital preservation for the treatment of primary invasive carcinoma of the male urethra. J Urol 179 (2): 536-41; discussion 541, 2008.</Citation><Citation idx="4" PMID="20674700">Koontz BF, Lee WR: Carcinoma of the urethra: radiation oncology. Urol Clin North Am 37 (3): 459-66, 2010.</Citation><Citation idx="5" PMID="20674701">Trabulsi EJ, Hoffman-Censits J: Chemotherapy for penile and urethral carcinoma. Urol Clin North Am 37 (3): 467-74, 2010.</Citation><Citation idx="6" PMID="11901541">VanderMolen LA, Sheehy PF, Dillman RO: Successful treatment of transitional cell carcinoma of the urethra with chemotherapy. Cancer Invest 20 (2): 206-7, 2002.</Citation><Citation idx="7" PMID="17162009">Lin CC, Hsu CH, Huang CY, et al.: Phase II trial of weekly paclitaxel, cisplatin plus infusional high dose 5-fluorouracil and leucovorin for metastatic urothelial carcinoma. J Urol 177 (1): 84-9; discussion 89, 2007.</Citation><Citation idx="8" PMID="34506675">Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021.</Citation><Citation idx="9" PMID="27569869">Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016.</Citation><Citation idx="10" PMID="33410339">Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021.</Citation><Citation idx="11" PMID="29152729">Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018.</Citation><Citation idx="12" PMID="30348537">Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018.</Citation><Citation idx="13" PMID="34996412">Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022.</Citation><Citation idx="14" PMID="35668003">Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022.</Citation><Citation idx="15" PMID="36821823">Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023.</Citation></ReferenceSection></SummarySection><SummarySection id="_32"><SectMetaData><SpecificDiagnosis ref="CDR0000040241">distal urethral cancer</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Cáncer de uretra distal</Title><SummarySection id="_33"><Title>Opciones de tratamiento del cáncer de uretra distal femenino</Title><Para id="_34">Si la neoplasia maligna se encuentra en el meato o cerca de este y exhibe parámetros superficiales (estadio 0/Tis, Ta), es posible efectuar una extirpación abierta o una electrorresección y fulguración. La destrucción del tumor con granate de itrio y aluminio dopado con neodimio (Nd:YAG) o la vaporización-coagulación con láser de CO<Subscript>2</Subscript> constituyen otra opción. En el caso de lesiones grandes (T1) y lesiones más invasivas (T2), la braquiterapia o una combinación de braquiterapia y radioterapia de haz externo (RHE) son otras opciones alternativas a la resección quirúrgica del tercio distal de la uretra. Los pacientes con lesiones T3 en la uretra distal o lesiones que recidivan después del tratamiento por extirpación local o radioterapia, requieren exenteración anterior y derivación urinaria.</Para><Para id="_35">Si los ganglios inguinales son palpables, se debe obtener confirmación del tumor en secciones congeladas. Si se confirma una neoplasia maligna, se indica una disección ganglionar ipsilateral. Si no hay adenopatía inguinal, no se suele hacer una disección ganglionar, y se realiza el seguimiento clínico de los ganglios.</Para><Para id="_36">
+        Las opciones de tratamiento del cáncer de uretra distal femenino incluyen las siguientes:</Para><OrderedList id="_76" Style="Arabic">
+        <ListItem>Extirpación abierta y tratamiento quirúrgico tradicional con conservación del órgano.<Reference refidx="1"/></ListItem>
+        <ListItem>Técnicas de ablación, como la resección transuretral, la electrorresección y la fulguración, o la vaporización-coagulación por láser (lesiones Tis, Ta, T1).<Reference refidx="2"/><Reference refidx="3"/>
+</ListItem>
+        <ListItem>RHE, braquiterapia o una combinación de las dos (lesiones T1, T2).<Reference refidx="4"/>
+</ListItem>
+        <ListItem>Exenteración anterior con radiación preoperatoria o sin esta y derivación (lesiones T3 o lesiones recidivantes).<Reference refidx="2"/><Reference refidx="3"/></ListItem>
+      </OrderedList><Para id="_189">El nivel de evidencia para estas opciones de tratamiento es <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>.</Para></SummarySection><SummarySection id="_40"><Title>Opciones de tratamiento del cáncer de uretra distal masculino</Title><Para id="_41">Si la neoplasia maligna está en la uretra peneana y es superficial, existe la posibilidad de supervivencia sin enfermedad a largo plazo. En los casos poco frecuentes que comprometen solo la mucosa (Tis, Ta), es posible usar resección y fulguración. En el caso de lesiones infiltrantes en la fosa navicular, el tratamiento apropiado quizás sea la amputación del glande del pene. En el caso de lesiones que afectan secciones más proximales de la uretra distal, quizás sea factible la extirpación del segmento de la uretra comprometido con conservación de los cuerpos peneanos, en el caso de tumores superficiales. Se utiliza la amputación del pene para las lesiones infiltrantes. Es tradicional el uso de un margen de 2 cm proximal al tumor pero no se ha estudiado bien el margen óptimo. Es infrecuente observar recidivas locales tras la amputación.</Para><Para id="_213">La función de la radioterapia en el tratamiento del carcinoma de uretra anterior masculina no está bien definida. Algunos cánceres de uretra anterior se curan solo con radiación o una combinación de quimioterapia y radioterapia.<Reference refidx="4"/><Reference refidx="5"/></Para><Para id="_42">Si los ganglios inguinales son palpables, se indica la disección ganglionar ipsilateral después de la confirmación del tumor en secciones congeladas, porque es posible lograr la curación en pacientes con metástasis ganglionares regionales limitadas. Si no hay adenopatía inguinal, no se suele hacer una disección ganglionar, y se realiza el seguimiento clínico de los ganglios.</Para><Para id="_43">
+        Las opciones de tratamiento del cáncer de uretra distal masculino incluyen las siguientes:</Para><OrderedList id="_77" Style="Arabic">
+        <ListItem>Extirpación abierta y tratamiento quirúrgico tradicional con conservación del órgano.<Reference refidx="1"/><Reference refidx="3"/></ListItem>
+        <ListItem>Técnicas de ablación, como la resección transuretral, la electrorresección y la fulguración, o la vaporización-coagulación por láser (lesiones Tis, Ta, T1).<Reference refidx="2"/><Reference refidx="3"/></ListItem>
+        <ListItem>Amputación del pene (lesiones T1, T2, T3).</ListItem>
+        <ListItem>Radiación (lesiones T1, T2, T3 si se rechaza la amputación).<Reference refidx="4"/>
+</ListItem>
+        <ListItem>Quimioterapia y radioterapia combinadas.<Reference refidx="5"/></ListItem>
+      </OrderedList><Para id="_190">El nivel de evidencia para estas opciones de tratamiento es <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>.</Para></SummarySection><SummarySection id="_TrialSearch_32_sid_5"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_32_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="9933060">Davis JW, Schellhammer PF, Schlossberg SM: Conservative surgical therapy for penile and urethral carcinoma. Urology 53 (2): 386-92, 1999.</Citation><Citation idx="2">Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles &amp; Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.</Citation><Citation idx="3" PMID="20674699">Karnes RJ, Breau RH, Lightner DJ: Surgery for urethral cancer. Urol Clin North Am 37 (3): 445-57, 2010.</Citation><Citation idx="4" PMID="20674700">Koontz BF, Lee WR: Carcinoma of the urethra: radiation oncology. Urol Clin North Am 37 (3): 459-66, 2010.</Citation><Citation idx="5" PMID="18076921">Cohen MS, Triaca V, Billmeyer B, et al.: Coordinated chemoradiation therapy with genital preservation for the treatment of primary invasive carcinoma of the male urethra. J Urol 179 (2): 536-41; discussion 541, 2008.</Citation></ReferenceSection></SummarySection><SummarySection id="_47"><SectMetaData><SpecificDiagnosis ref="CDR0000040242">proximal urethral cancer</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Cáncer de uretra proximal</Title><SummarySection id="_48"><Title>Opciones de tratamiento del cáncer de uretra proximal femenino</Title><Para id="_49">A menudo las lesiones en la uretra proximal o en toda su longitud se relacionan con invasión y una incidencia alta de metástasis ganglionares pélvicas. Las probabilidades de curación son limitadas, salvo en el caso de tumores pequeños. Los mejores resultados se lograron con la exenteración y la derivación urinaria; las tasas de supervivencia a 5 años oscilaron entre un 10 % y un 20 %.</Para><Para id="_214">Es razonable el uso de radioterapia adyuvante prequirúrgica con el fin de achicar los márgenes del tumor, aumentar la tasa de resecabilidad del tumor macroscópico y reducir la recidiva local. La linfadenectomía pélvica se hace al mismo tiempo. Solo se indica una disección ganglionar ipsilateral si las piezas de biopsia de la adenopatía palpable ipsilateral son positivas en el estudio de sección congelada. En los tumores que no exceden 2 cm en su dimensión mayor, la radiación sola, la cirugía sin exenteración sola o una combinación de ambas a veces son suficientes para lograr un resultado excelente.</Para><Para id="_50">Es razonable considerar la resección de una parte de la sínfisis púbica y las ramas inferiores del pubis para ampliar al máximo los márgenes quirúrgicos y reducir la recidiva local. El uso de colgajos musculocutáneos permite el cierre perineal y la reconstrucción vaginal.</Para><Para id="_51">El pronóstico del cáncer de uretra femenina se relaciona con el tamaño de la lesión en el momento de su presentación inicial. En el caso de lesiones de menos de 2 cm de diámetro, se anticipa una tasa de supervivencia a 5 años del 60 %; en el caso de lesiones que exceden 4 cm de diámetro, la tasa de supervivencia a 5 años se reduce al 13 %.</Para><Para id="_52">
+        Las opciones de tratamiento del cáncer de uretra proximal femenino incluyen las siguientes:</Para><OrderedList id="_78" Style="Arabic">
+        <ListItem>Radiación preoperatoria seguida de exenteración anterior y derivación urinaria con disección ganglionar pélvica bilateral y disección ganglionar inguinal o sin esta.<Reference refidx="1"/>
+</ListItem>
+        <ListItem>En los tumores que no exceden 2 cm en su dimensión mayor, la radiación sola, la cirugía sin exenteración sola o una combinación de ambas a veces es suficiente para lograr un resultado excelente.<Reference refidx="1"/><Reference refidx="2"/></ListItem>
+      </OrderedList><Para id="_191">El nivel de evidencia para estas opciones de tratamiento es <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>.</Para></SummarySection><SummarySection id="_55"><Title>Opciones de tratamiento del cáncer de uretra proximal masculino</Title><Para id="_56">Las lesiones de la uretra bulbomembranosa exigen una cistoprostatectomía radical y penectomía en bloque para obtener márgenes de resección apropiados, minimizar la recidiva local y lograr una supervivencia sin enfermedad a largo plazo. También se hace linfadenectomía pélvica en vista de la incidencia alta de compromiso ganglionar y la elevada morbilidad agregada.</Para><Para id="_215">A pesar del uso de procedimientos quirúrgicos extensivos, la recidiva local es común y esto se relaciona invariablemente con la muerte a causa de la enfermedad. Se anticipa una supervivencia a 5 años en solo un 15 % al 20 % de los pacientes. Es posible considerar el uso de radioterapia adyuvante prequirúrgica con el fin de achicar los márgenes del tumor. Se ha usado la resección de las ramas inferiores del pubis y la porción inferior de la sínfisis púbica para ampliar los márgenes quirúrgicos de la disección. Es necesario efectuar una derivación urinaria.<Reference refidx="3"/></Para><Para id="_57">Se indica una disección ganglionar inguinal ipsilateral si hay adenopatía inguinal ipsilateral palpable en el examen físico y se confirma una neoplasia mediante estudio de sección congelada.</Para><Para id="_58">
+        Las opciones de tratamiento del cáncer de uretra proximal masculino incluyen las siguientes:</Para><OrderedList id="_263"><ListItem>Radiación prequirúrgica o quimioterapia y radioterapia combinadas, seguidas por cistoprostatectomía, derivación urinaria y penectomía, acompañadas de disección ganglionar pélvica bilateral con disección ganglionar inguinal o sin esta.<Reference refidx="4"/>
+</ListItem></OrderedList><Para id="_192">El nivel de evidencia para estas opciones de tratamiento es <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>.</Para></SummarySection><SummarySection id="_TrialSearch_47_sid_6"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_47_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1" PMID="20674700">Koontz BF, Lee WR: Carcinoma of the urethra: radiation oncology. Urol Clin North Am 37 (3): 459-66, 2010.</Citation><Citation idx="2" PMID="1593679" MedlineID="92277738">Grigsby PW, Corn BW: Localized urethral tumors in women: indications for conservative versus exenterative therapies. J Urol 147 (6): 1516-20, 1992.</Citation><Citation idx="3">Su LM, Smith JA Jr.: Laparoscopic and robotic-assisted laparoscopic radical prostatectomy and pelvic lymphadenectomy. In: Wein AJ, Kavoussi LR, Novick AC, et al.: Campbell-Walsh Urology. 10th ed. Elsevier Saunders, 2012, pp 2830-2849.</Citation><Citation idx="4" PMID="20674699">Karnes RJ, Breau RH, Lightner DJ: Surgery for urethral cancer. Urol Clin North Am 37 (3): 445-57, 2010.</Citation></ReferenceSection></SummarySection><SummarySection id="_60"><SectMetaData><SpecificDiagnosis ref="CDR0000040243">urethral cancer associated with invasive bladder cancer</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Tratamiento del cáncer de uretra relacionado con cáncer de vejiga invasivo</Title><Para id="_61">Se anticipa que alrededor del 10 % (intervalo, 4–17 %) de los pacientes sometidos a cistectomía debido a un cáncer de vejiga luego presenten una neoplasia clínica en la uretra en un sitio distal al diafragma urogenital. Los factores relacionados con el riesgo de una recidiva uretral tras la cistectomía son los siguientes:<Reference refidx="1"/><Reference refidx="2"/></Para><ItemizedList id="_193" Style="bullet">
+      <ListItem>Multiplicidad del tumor.</ListItem>
+      <ListItem>Conformación papilar.</ListItem>
+      <ListItem>Carcinoma <Emphasis>in situ</Emphasis>.</ListItem>
+      <ListItem>Ubicación del tumor en el cuello de la vejiga.</ListItem>
+      <ListItem>Compromiso de la mucosa o el estroma de la uretra prostática.</ListItem>
+    </ItemizedList><Para id="_62">Se deben sopesar los beneficios de una uretrectomía en el momento de efectuar una cistectomía con respecto a los factores de morbilidad, que incluyen un tiempo operatorio más largo, hemorragia y posibilidad de hernia perineal. Los tumores que se encuentran de forma incidental durante un examen patológico tienen una mayor posibilidad de ser superficiales o <Emphasis>in situ</Emphasis>, en comparación con los que se presentan con síntomas clínicos en una fecha posterior, cuando la probabilidad de invasión en los cuerpos es alta. El primer tipo de lesiones a menudo son curables, y el segundo tipo rara vez se curan. Las indicaciones de uretrectomía con cistoprostatectomía son las siguientes:</Para><ItemizedList id="_63" Style="bullet">
+      <ListItem>Tumor visible en la uretra.</ListItem>
+      <ListItem>Resultado positivo en el estudio citológico de la muestra uretral.</ListItem>
+      <ListItem>Compromiso de márgenes de la uretra membranosa en estudio de sección congelada obtenida en el momento de la cistoprostatectomía.</ListItem>
+      <ListItem>Múltiples tumores de vejiga <Emphasis>in situ</Emphasis>, que se extienden al cuello de la vejiga y la uretra prostática proximal.</ListItem>
+    </ItemizedList><Para id="_64">Si la uretra no se extrae en el momento de la cistectomía, el seguimiento deberá incluir una evaluación citológica periódica mediante irrigaciones salinas uretrales.<Reference refidx="2"/></Para><Para id="_65">
+      Las opciones de tratamiento del cáncer de uretra relacionado con cáncer de vejiga invasivo incluyen las siguientes:
+    </Para><OrderedList id="_80" Style="Arabic">
+      <ListItem>Cistouretrectomía simultánea.</ListItem>
+      <ListItem>Vigilancia citológica uretral y uretrectomía diferida si es necesaria.</ListItem>
+    </OrderedList><Para id="_194">El nivel de evidencia para estas opciones de tratamiento es <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>.</Para><SummarySection id="_TrialSearch_60_sid_7"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_60_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1">Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles &amp; Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.</Citation><Citation idx="2" PMID="16818191">Sherwood JB, Sagalowsky AI: The diagnosis and treatment of urethral recurrence after radical cystectomy. Urol Oncol 24 (4): 356-61, 2006 Jul-Aug.</Citation></ReferenceSection></SummarySection><SummarySection id="_68"><SectMetaData><SpecificDiagnosis ref="CDR0000040225">recurrent urethral cancer</SpecificDiagnosis><SectionType>Treatment options by stage</SectionType></SectMetaData><Title>Tratamiento del cáncer de uretra metastásico o recidivante</Title><Para id="_195">Las recidivas locales del cáncer de uretra a veces responden al tratamiento de modalidad local con radiación o cirugía, con quimioterapia o sin esta. (Para obtener más información, consultar la sección de este resumen sobre <SummaryRef href="CDR0000256729#_179" url="/espanol/tipos/uretra/pro/tratamiento-uretra-pdq">Aspectos generales de las opciones de tratamiento del cáncer de uretra</SummaryRef>). Es posible tratar la enfermedad metastásica con regímenes de uso frecuente en otros carcinomas uroteliales de células de transición o de células escamosas o carcinomas de ano, según el tipo histológico.<Reference refidx="1"/><Reference refidx="2"/><Reference refidx="3"/></Para><Para id="_69">
+      Las opciones de tratamiento del cáncer de uretra metastásico o recidivante incluyen las siguientes:</Para><OrderedList id="_81" Style="Arabic">
+      <ListItem>Si es posible, se debe considerar la extirpación quirúrgica del cáncer de uretra recidivante local después de la radioterapia.</ListItem>
+      <ListItem>Para el cáncer de uretra recidivante después de cirugía sola, se debe considerar el uso de radioterapia combinada con una resección quirúrgica más amplia.</ListItem>
+      <ListItem>Para el cáncer de uretra metastásico se debe considerar la participación en ensayos clínicos de quimioterapia. El cáncer de uretra de células de transición quizás responda de manera favorable a los mismos regímenes de quimioterapia que se usan para el cáncer de células de transición de vejiga en estadio avanzado.<Reference refidx="1"/><Reference refidx="2"/><Reference refidx="3"/><Reference refidx="4"/></ListItem>
+    </OrderedList><Para id="_196">El nivel de evidencia para estas opciones de tratamiento es <LOERef href="CDR0000810039" dictionary="NotSet" audience="Health professional">Nivel de evidencia C3</LOERef>.</Para><SummarySection id="_TrialSearch_68_sid_8"><Title>Ensayos clínicos en curso</Title><Para id="_TrialSearch_68_25">Realizar una <ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials-search/advanced">búsqueda avanzada</ExternalRef> en inglés de los ensayos clínicos sobre cáncer auspiciados por el NCI que ahora aceptan pacientes. La búsqueda se puede simplificar por ubicación del ensayo, tipo de tratamiento, nombre del fármaco y otros criterios. También se dispone de <ExternalRef xref="https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos">información general</ExternalRef> sobre los ensayos clínicos. </Para></SummarySection><ReferenceSection><Citation idx="1">Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles &amp; Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.</Citation><Citation idx="2" PMID="20674701">Trabulsi EJ, Hoffman-Censits J: Chemotherapy for penile and urethral carcinoma. Urol Clin North Am 37 (3): 467-74, 2010.</Citation><Citation idx="3" PMID="17162009">Lin CC, Hsu CH, Huang CY, et al.: Phase II trial of weekly paclitaxel, cisplatin plus infusional high dose 5-fluorouracil and leucovorin for metastatic urothelial carcinoma. J Urol 177 (1): 84-9; discussion 89, 2007.</Citation><Citation idx="4" PMID="11901541">VanderMolen LA, Sheehy PF, Dillman RO: Successful treatment of transitional cell carcinoma of the urethra with chemotherapy. Cancer Invest 20 (2): 206-7, 2002.</Citation></ReferenceSection></SummarySection><SummarySection id="_83"><SectMetaData><SectionType>Changes to summary</SectionType></SectMetaData><Title>Actualizaciones más recientes a este resumen (08/09/2024)</Title><Para id="_84">Los resúmenes del PDQ con información sobre el cáncer se revisan con regularidad y se actualizan a medida que se obtiene nueva información.  Esta sección describe los cambios más recientes hechos a este resumen a partir de la fecha arriba indicada.</Para><Para id="_261"><Strong><SummaryRef href="CDR0000256729#_179" url="/espanol/tipos/uretra/pro/tratamiento-uretra-pdq">Aspectos generales de las opciones de tratamiento del cáncer de uretra</SummaryRef></Strong></Para><Para id="_262">Se añadió la subsección nueva <SummaryRef href="CDR0000256729#_260" url="/espanol/tipos/uretra/pro/tratamiento-uretra-pdq">Administración de fluorouracilo</SummaryRef>.</Para><Para id="_disclaimerHP_3">El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">Consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> es responsable de la redacción y actualización de este resumen y mantiene independencia editorial respecto del NCI. El resumen refleja una revisión independiente de la bibliografía médica y no representa las políticas del NCI ni de los NIH. Para obtener más  información sobre las políticas relativas a los resúmenes y la función de los  consejos editoriales  del PDQ responsables de su actualización, consultar <SummaryRef href="CDR0000256729#_AboutThis_1" url="/espanol/tipos/uretra/pro/tratamiento-uretra-pdq">Información sobre este resumen del PDQ</SummaryRef> e   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq">Información del PDQ® sobre el cáncer dirigida a profesionales de la salud</ExternalRef>.</Para></SummarySection><SummarySection id="_AboutThis_1"><Title>Información sobre este resumen del PDQ</Title><SummarySection id="_AboutThis_2"><Title>Propósito de este resumen</Title><Para id="_AboutThis_3">Este resumen de información del PDQ sobre el cáncer dirigido a profesionales de la salud proporciona información integral revisada por expertos y basada en la evidencia  sobre el tratamiento del cáncer de uretra. El objetivo es servir como fuente de información y ayuda para los profesionales clínicos  durante la atención de pacientes. No  ofrece pautas ni recomendaciones formales para tomar decisiones relacionadas con la atención sanitaria.</Para></SummarySection><SummarySection id="_AboutThis_21"><Title>Revisores y actualizaciones</Title><Para id="_AboutThis_22">El   <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef>, que mantiene independencia editorial respecto del  Instituto Nacional del Cáncer (NCI), revisa este resumen de manera periódica y, en caso necesario,   lo actualiza. Este resumen es el resultado de una revisión bibliográfica independiente y no constituye una declaración de política del NCI ni de los Institutos Nacionales de la Salud (NIH).</Para><Para id="_AboutThis_26">Cada mes, los integrantes de este consejo revisan los artículos  publicados recientemente para determinar lo siguiente:</Para><ItemizedList id="_AboutThis_23" Style="bullet"><ListItem>Si el artículo se debe analizar en una reunión del consejo.</ListItem><ListItem>Si conviene añadir texto acerca del artículo.</ListItem><ListItem>Si se debe reemplazar o actualizar un artículo que ya se citó.</ListItem></ItemizedList><Para id="_AboutThis_24">Los cambios en los resúmenes se deciden mediante consenso de los integrantes del consejo después de evaluar la solidez de la evidencia de los artículos publicados y determinar la forma de incorporar el artículo en el resumen.</Para><Para>Los revisores principales del sumario sobre Tratamiento del cáncer de uretra son:</Para><ItemizedList Style="bullet"><ListItem>Juskaran S. Chadha, DO (Moffitt Cancer Center)</ListItem><ListItem>Jad Chahoud, MD, MPH (Moffitt Cancer Center)</ListItem><ListItem>Timothy Gilligan, MD (Cleveland Clinic Taussig Cancer Institute)</ListItem></ItemizedList><Para id="_AboutThis_25">Cualquier comentario o pregunta sobre el contenido de este resumen se debe enviar al   <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.  Por favor, no enviar preguntas o comentarios directamente a los integrantes del consejo, ya que no responderán consultas de manera individual.</Para></SummarySection><SummarySection id="_AboutThis_9"><Title>Niveles de evidencia</Title><Para id="_AboutThis_10">Algunas de las referencias bibliográficas de este resumen se acompañan del nivel de evidencia. El propósito de esto es ayudar al lector a evaluar la solidez de la evidencia que respalda el uso de  ciertas intervenciones  o abordajes. El <ExternalRef xref="https://www.cancer.gov/espanol/publicaciones/pdq/consejos-editoriales/tratamiento-adultos">consejo editorial del PDQ sobre el tratamiento para adultos</ExternalRef> emplea un <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">sistema de jerarquización formal</SummaryRef> para asignar los niveles de evidencia científica.</Para></SummarySection><SummarySection id="_AboutThis_11"><Title>Permisos para el uso de este resumen</Title><Para id="_AboutThis_12">PDQ (Physician Data Query) es una marca registrada. Se autoriza el uso del texto  de los documentos del PDQ; sin embargo, no se podrá identificar como un resumen de información sobre cáncer del PDQ del  NCI,  salvo que el resumen se reproduzca en su totalidad y se actualice de manera periódica. Por otra parte, se permitirá que un autor  escriba una oración como “En el resumen del PDQ  del NCI de información sobre la prevención del cáncer de mama se describen, de manera concisa, los siguientes riesgos: [incluir fragmento del resumen]”.</Para><Para id="_AboutThis_13">Se sugiere citar la referencia bibliográfica de este resumen del PDQ de la siguiente forma:</Para><Para id="_AboutThis_14">PDQ® sobre el tratamiento para adultos. PDQ Tratamiento del cáncer de uretra. Bethesda, MD: National Cancer Institute. Actualización:  &lt;MM/DD/YYYY&gt;. Disponible en: <ExternalRef xref="https://www.cancer.gov/espanol/tipos/uretra/pro/tratamiento-uretra-pdq">https://www.cancer.gov/espanol/tipos/uretra/pro/tratamiento-uretra-pdq</ExternalRef>.  Fecha de acceso: &lt;MM/DD/YYYY&gt;. </Para><Para id="_AboutThis_15">Las imágenes  en este resumen se reproducen  con autorización del autor, el artista o la  editorial para uso exclusivo en los resúmenes del PDQ. La utilización de las imágenes fuera del  PDQ requiere la autorización del propietario, que el Instituto Nacional del Cáncer no  puede otorgar. Para obtener más información sobre el uso de las ilustraciones de este resumen o de  otras imágenes relacionadas con el cáncer, consultar <ExternalRef xref="https://visualsonline.cancer.gov/">Visuals Online</ExternalRef>, una colección de más de 2000 imágenes científicas.</Para></SummarySection><SummarySection id="_AboutThis_16"><Title>Cláusula sobre el descargo de responsabilidad</Title><Para id="_AboutThis_17">Según la solidez de la evidencia, las opciones de tratamiento se clasifican  como “estándar” o “en evaluación clínica”. Estas clasificaciones no  se deben utilizar para justificar decisiones sobre reembolsos de seguros. Para obtener más información  sobre la cobertura de seguros, consultar la página <ExternalRef xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer">Manejo de la atención del cáncer</ExternalRef> en Cancer.gov/espanol.</Para></SummarySection><SummarySection id="_AboutThis_19"><Title>Comuníquese con el Instituto Nacional del Cáncer</Title><Para id="_AboutThis_20">Para obtener más información sobre las opciones para comunicarse con el NCI, incluso la dirección de correo electrónico, el número telefónico o el chat, consultar la página del <ExternalRef xref="https://www.cancer.gov/espanol/contactenos">Servicio de Información de Cáncer del Instituto Nacional del Cáncer</ExternalRef>.</Para></SummarySection></SummarySection><TranslationOf ref="CDR0000062925"/><DateLastModified>2024-08-09</DateLastModified></Summary>

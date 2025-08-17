@@ -1,0 +1,48 @@
+<DrugInformationSummary id="CDR0000716088"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This chemotherapy combination contains the drugs carboplatin and paclitaxel (Taxol). Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/CARBOPLATIN-TAXOL">CARBOPLATIN-TAXOL</DrugInfoURL><TerminologyLink ref="CDR0000657273">carboplatin/paclitaxel regimen</TerminologyLink><GlossaryLink ref="CDR0000716092">carboplatin-Taxol</GlossaryLink><PronunciationInfo><TermPronunciation>KAR-boh-pla-tin-TAK-sol</TermPronunciation><MediaLink ref="CDR0000733205" type="audio/mpeg" alt="" language="en" id="_3"/><MediaLink ref="CDR0000733204" type="audio/mpeg" alt="" language="es" id="_4"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>CARBOPLATIN-TAXOL</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the CARBOPLATIN-TAXOL combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right">
+      </entry>
+      <entry><DrugRef href="CDR0000557107" url="/about-cancer/treatment/drugs/carboplatin">Carboplatin</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right">
+      </entry>
+      <entry><DrugRef href="CDR0000502187" url="/about-cancer/treatment/drugs/paclitaxel">Paclitaxel</DrugRef> (Taxol)
+      </entry>
+     </Row>
+     
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">CARBOPLATIN-TAXOL 
+         is used to treat:</Para>
+  <ItemizedList Style="bullet" id="_7">
+   
+   
+   <ListItem><Strong><GlossaryTermRef href="CDR0000527198" dictionary="Cancer.gov" audience="Patient">Carcinoma of unknown primary</GlossaryTermRef>.</Strong></ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000444973" dictionary="Cancer.gov" audience="Patient">Cervical cancer</GlossaryTermRef>.</Strong></ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000444987" dictionary="Cancer.gov" audience="Patient">Endometrial cancer</GlossaryTermRef>.</Strong></ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000045323" dictionary="Cancer.gov" audience="Patient">Non-small cell lung cancer</GlossaryTermRef>.</Strong> </ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000445074" dictionary="Cancer.gov" audience="Patient">Ovarian cancer</GlossaryTermRef>.</Strong></ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000046002" dictionary="Cancer.gov" audience="Patient">Thymoma</GlossaryTermRef> or <GlossaryTermRef href="CDR0000455462" dictionary="Cancer.gov" audience="Patient">thymic carcinoma</GlossaryTermRef></Strong> that is <GlossaryTermRef href="CDR0000478743" dictionary="Cancer.gov" audience="Patient">advanced</GlossaryTermRef> and has not been treated.</ListItem></ItemizedList>
+  <Para id="_8">This combination may also be used with other drugs or treatments or to treat other types of cancer.</Para>
+ </Section><Section id="_About"><Title>More About CARBOPLATIN-TAXOL</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/657273">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2012-05-30</DateFirstPublished><DateLastModified>2023-03-22</DateLastModified></DrugInformationSummary>

@@ -1,0 +1,30 @@
+<DrugInformationSummary id="CDR0000681132"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This chemotherapy combination contains the drugs doxorubicin hydrochloride (Adriamycin), bleomycin, vincristine sulfate, and etoposide phosphate. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/ABVE">ABVE</DrugInfoURL><TerminologyLink ref="CDR0000657148">ABVE regimen</TerminologyLink><GlossaryLink ref="CDR0000662469">ABVE</GlossaryLink><PronunciationInfo/></DrugInfoMetaData><DrugInfoTitle>ABVE</DrugInfoTitle><Section id="_1">                                                              
+  
+  <Table Frame="None" id="_5"><Title>Drugs in the ABVE combination:</Title><TGroup Cols="2"><ColSpec ColName="col1" ColNum="1" ColWidth="*"/><ColSpec ColName="col2" ColNum="2" ColWidth="*"/><TBody><Row><entry Align="Right"><Strong>A</Strong>
+      </entry><entry>= <DrugRef href="CDR0000542867" url="/about-cancer/treatment/drugs/doxorubicinhydrochloride">Doxorubicin Hydrochloride</DrugRef> (Adriamycin)
+      </entry></Row><Row><entry Align="Right"><Strong>B</Strong>
+      </entry><entry>= <DrugRef href="CDR0000615384" url="/about-cancer/treatment/drugs/bleomycin">Bleomycin</DrugRef>
+      </entry></Row><Row><entry Align="Right"><Strong>V</Strong>
+      </entry><entry>= <DrugRef href="CDR0000599877" url="/about-cancer/treatment/drugs/vincristinesulfate">Vincristine Sulfate</DrugRef>
+      </entry></Row><Row><entry Align="Right"><Strong>E</Strong>
+      </entry><entry>= <DrugRef href="CDR0000590263" url="/about-cancer/treatment/drugs/etoposidephosphate">Etoposide Phosphate</DrugRef>
+      </entry></Row></TBody></TGroup></Table><Para id="_3">Each of the 
+         drugs 
+         in this
+         combination
+         is approved by the
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef>
+         to treat cancer or conditions related to 
+         cancer.</Para>                          
+  
+ </Section><Section id="_7"><Title>Use in Cancer</Title><Para id="_8">ABVE is used to treat:</Para><ItemizedList Style="bullet" id="_9"><ListItem><Strong><GlossaryTermRef href="CDR0000270800" dictionary="Cancer.gov" audience="Patient">Hodgkin lymphoma</GlossaryTermRef></Strong> in children.</ListItem></ItemizedList><Para id="_10">This combination may also be used with other drugs or treatments or to treat other types of cancer.</Para></Section><Section id="_About"><Title>More About ABVE</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/657148">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2010-11-19</DateFirstPublished><DateLastModified>2023-05-10</DateLastModified></DrugInformationSummary>

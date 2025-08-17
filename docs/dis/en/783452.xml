@@ -1,0 +1,54 @@
+<DrugInformationSummary id="CDR0000783452"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This chemotherapy combination contains the drugs carboplatin (JM8),  etoposide phosphate, and bleomycin. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/JEB">JEB</DrugInfoURL><TerminologyLink ref="CDR0000657033">JEB regimen</TerminologyLink><GlossaryLink ref="CDR0000662477">JEB</GlossaryLink><PronunciationInfo/></DrugInfoMetaData><DrugInfoTitle>JEB</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the JEB combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>J</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000557107" url="/about-cancer/treatment/drugs/carboplatin">Carboplatin</DrugRef> (JM8)
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>E</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000590263" url="/about-cancer/treatment/drugs/etoposidephosphate">Etoposide Phosphate</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>B</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000615384" url="/about-cancer/treatment/drugs/bleomycin">Bleomycin</DrugRef>
+      </entry>
+     </Row>
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">JEB 
+         is used in children to treat the following <GlossaryTermRef href="CDR0000045772" dictionary="Cancer.gov" audience="Patient">malignant</GlossaryTermRef> <GlossaryTermRef href="CDR0000444992" dictionary="Cancer.gov" audience="Patient">extracranial germ cell tumors</GlossaryTermRef>:</Para>
+  <ItemizedList Style="bullet" id="_7">
+   
+   <ListItem><Strong><GlossaryTermRef href="CDR0000446560" dictionary="Cancer.gov" audience="Patient">Ovarian germ cell tumors</GlossaryTermRef>.</Strong></ListItem>
+   <ListItem><Strong><GlossaryTermRef href="CDR0000695185" dictionary="Cancer.gov" audience="Patient">Testicular germ cell tumors</GlossaryTermRef>.</Strong></ListItem></ItemizedList>
+  <Para id="_8">This combination may also be used with other drugs or 
+         treatments or to treat other types of cancer.</Para>
+ </Section><Section id="_About"><Title>More About JEB</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/657033">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2016-09-20</DateFirstPublished><DateLastModified>2023-05-08</DateLastModified></DrugInformationSummary>

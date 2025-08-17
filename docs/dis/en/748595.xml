@@ -1,0 +1,64 @@
+<DrugInformationSummary id="CDR0000748595"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This combination contains the chemotherapy drugs cyclophosphamide, vincristine sulfate (Oncovin), procarbazine hydrochloride, doxorubicin hydrochloride (Adriamycin), bleomycin, and vinblastine sulfate and the steroid hormone prednisone. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/COPP-ABV">COPP-ABV</DrugInfoURL><TerminologyLink ref="CDR0000749986">COPP-ABV regimen</TerminologyLink><GlossaryLink ref="CDR0000750028">COPP-ABV</GlossaryLink><PronunciationInfo><MediaLink ref="CDR0000802515" type="audio/mpeg" alt="" language="en" id="_3"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>COPP-ABV</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the COPP-ABV combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>C</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000557430" url="/about-cancer/treatment/drugs/cyclophosphamide">Cyclophosphamide</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>O</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000599877" url="/about-cancer/treatment/drugs/vincristinesulfate">Vincristine Sulfate</DrugRef> (Oncovin)
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>P</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000652391" url="/about-cancer/treatment/drugs/prednisone">Prednisone</DrugRef>
+      </entry>
+     </Row><Row>
+      <entry Align="Right"><Strong>P</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000675532" url="/about-cancer/treatment/drugs/procarbazinehydrochloride">Procarbazine Hydrochloride</DrugRef>
+      </entry>
+     </Row><Row><entry Align="Right"><Strong>A</Strong>
+      </entry><entry>= <DrugRef href="CDR0000542867" url="/about-cancer/treatment/drugs/doxorubicinhydrochloride">Doxorubicin Hydrochloride</DrugRef> (Adriamycin)</entry></Row><Row><entry Align="Right"><Strong>B</Strong>
+      </entry><entry>= <DrugRef href="CDR0000615384" url="/about-cancer/treatment/drugs/bleomycin">Bleomycin</DrugRef>
+      </entry></Row><Row><entry Align="Right"><Strong>V</Strong>
+      </entry><entry>= <DrugRef href="CDR0000688288" url="/about-cancer/treatment/drugs/vinblastinesulfate">Vinblastine Sulfate</DrugRef>
+      </entry></Row>
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  
+  <Para id="_4">Each of the drugs in this combination is approved by the 
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef> 
+         to treat cancer or conditions related to cancer.</Para>
+ </Section><Section id="_5">
+  <Title>Use in Cancer</Title>
+  <Para id="_6">COPP-ABV 
+         is used to treat:</Para>
+  <ItemizedList Style="bullet" id="_7">
+   <ListItem><Strong><GlossaryTermRef href="CDR0000270800" dictionary="Cancer.gov" audience="Patient">Hodgkin lymphoma</GlossaryTermRef></Strong> in children. It may be used with <GlossaryTermRef href="CDR0000044971" dictionary="Cancer.gov" audience="Patient">radiation therapy</GlossaryTermRef>.</ListItem>
+   
+   </ItemizedList>
+  <Para id="_8">This combination may also be used with other drugs or 
+         treatments or to treat other types of cancer.</Para>
+ </Section><Section id="_About"><Title>More About COPP-ABV</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/749986">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2013-06-21</DateFirstPublished><DateLastModified>2023-04-27</DateLastModified></DrugInformationSummary>

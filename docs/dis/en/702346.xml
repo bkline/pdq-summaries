@@ -1,0 +1,47 @@
+<DrugInformationSummary id="CDR0000702346"><DrugInfoMetaData><DrugInfoType Combination="Yes">Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This chemotherapy combination contains the drugs fluorouracil and leucovorin calcium. Combinations usually work better than single drugs because 
+         different drugs kill 
+         cancer 
+         cells in different ways.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/FU-LV">FU-LV</DrugInfoURL><TerminologyLink ref="CDR0000657271">FU-LV regimen</TerminologyLink><GlossaryLink ref="CDR0000662493">5-FU-leucovorin calcium</GlossaryLink><PronunciationInfo><TermPronunciation>… LOO-koh-VOR-in KAL-see-um</TermPronunciation><MediaLink ref="CDR0000798063" type="audio/mpeg" alt="" language="en" id="_3"/><MediaLink ref="CDR0000798061" type="audio/mpeg" alt="" language="es" id="_4"/></PronunciationInfo></DrugInfoMetaData><DrugInfoTitle>FU-LV</DrugInfoTitle><Section id="_1">                                                              
+  <Table Frame="None" id="_2">
+   <Title>Drugs in the FU-LV combination:</Title>
+   <TGroup Cols="2">
+    <ColSpec ColName="col1" ColNum="1" ColWidth="*"/>
+    <ColSpec ColName="col2" ColNum="2" ColWidth="*"/>
+    <TBody>
+     <Row>
+      <entry Align="Right"><Strong>FU</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000537894" url="/about-cancer/treatment/drugs/fluorouracil">Fluorouracil</DrugRef>
+      </entry>
+     </Row>
+     <Row>
+      <entry Align="Right"><Strong>LV</Strong>
+      </entry>
+      <entry>= <DrugRef href="CDR0000599725" url="/about-cancer/treatment/drugs/leucovorincalcium">Leucovorin Calcium</DrugRef>
+      </entry>
+     </Row>
+     
+     
+    </TBody>
+   </TGroup>
+  </Table>
+  <Para id="_4">Each of the 
+         drugs 
+         in this
+         combination
+         are approved by the
+         <GlossaryTermRef href="CDR0000454785" dictionary="Cancer.gov" audience="Patient">Food and Drug 
+         Administration (FDA)</GlossaryTermRef>
+         to treat 
+         cancer
+         or conditions related to cancer.</Para>                          
+  
+ </Section><Section id="_5">
+        <Title>Use in Cancer</Title>
+        <Para id="_6">FU-LV is used to treat:</Para><ItemizedList Style="bullet" id="_7"><ListItem><Strong><GlossaryTermRef href="CDR0000444983" dictionary="Cancer.gov" audience="Patient">Colorectal cancer</GlossaryTermRef>.</Strong></ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000444989" dictionary="Cancer.gov" audience="Patient">Esophageal cancer</GlossaryTermRef>.</Strong></ListItem><ListItem><Strong><GlossaryTermRef href="CDR0000454513" dictionary="Cancer.gov" audience="Patient">Gastric cancer</GlossaryTermRef>.</Strong></ListItem></ItemizedList><Para id="_8">This combination may also be used with other drugs or treatments or to treat other types of cancer.</Para></Section><Section id="_About"><Title>More About FU-LV</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/657271">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2011-09-06</DateFirstPublished><DateLastModified>2023-04-27</DateLastModified></DrugInformationSummary>

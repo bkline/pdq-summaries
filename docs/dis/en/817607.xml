@@ -1,0 +1,19 @@
+<DrugInformationSummary id="CDR0000817607"><DrugInfoMetaData><DrugInfoType>Brief</DrugInfoType><DrugInfoAudience>Patients</DrugInfoAudience><DrugInfoDescription>This page contains brief information about treosulfan
+         and a collection of links to more information about the use of 
+         this drug, research results, and ongoing clinical trials.</DrugInfoDescription><DrugInfoURL xref="https://www.cancer.gov/about-cancer/treatment/drugs/treosulfan">Treosulfan</DrugInfoURL><FDAApproved>Yes</FDAApproved><TerminologyLink ref="CDR0000039720">treosulfan</TerminologyLink><GlossaryLink ref="CDR0000045243">treosulfan</GlossaryLink><USBrandNames><USBrandName>Grafapex</USBrandName></USBrandNames><PronunciationInfo><TermPronunciation>TREE-oh-SUL-fan</TermPronunciation><MediaLink ref="CDR0000730827" type="audio/mpeg" alt="" language="en" id="_3"/><MediaLink ref="CDR0000730826" type="audio/mpeg" alt="" language="es" id="_4"/></PronunciationInfo><FDAExternalRef xref="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d06b03c-17aa-0492-e063-6294a90abd8f&amp;audience=consumer">FDA label information for this drug is available at DailyMed.</FDAExternalRef></DrugInfoMetaData><DrugInfoTitle>Treosulfan</DrugInfoTitle><Section id="_FDA"><Para><ExternalRef xref="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d06b03c-17aa-0492-e063-6294a90abd8f&amp;audience=consumer">FDA label information for this drug is available at DailyMed.</ExternalRef></Para></Section><Section id="_1"><Title>Use in Cancer</Title>                                                              
+  <Para id="_2">Treosulfan
+         is approved to be given with <GlossaryTermRef href="CDR0000613209" dictionary="Cancer.gov" audience="Patient">fludarabine phosphate</GlossaryTermRef> before a donor <GlossaryTermRef href="CDR0000765906" dictionary="Cancer.gov" audience="Patient">blood stem cell</GlossaryTermRef> <GlossaryTermRef href="CDR0000270732" dictionary="Cancer.gov" audience="Patient">transplant</GlossaryTermRef> in adults and children aged 1 year and older with:</Para>                          
+  <ItemizedList Style="bullet" id="_3">
+   <ListItem><Strong><GlossaryTermRef href="CDR0000046347" dictionary="Cancer.gov" audience="Patient">acute myeloid leukemia</GlossaryTermRef></Strong></ListItem>
+   <ListItem><Strong><GlossaryTermRef href="CDR0000045266" dictionary="Cancer.gov" audience="Patient">myelodysplastic syndrome</GlossaryTermRef></Strong></ListItem>
+   </ItemizedList>
+  <Para id="_4">Treosulfan
+         is also being studied in the treatment of other types of
+         cancer.</Para>
+ </Section><Section id="_About"><Title>More About Treosulfan</Title><Para id="_Dict_1"><ExternalRef xref="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/39720">Definition from the NCI Drug Dictionary</ExternalRef> - Detailed scientific definition and other names for this drug.</Para></Section><Section id="_ClinicalTrial_1"><Title>Clinical Trials Accepting Patients</Title><Para id="_ClinicalTrial_2"><ExternalRef xref="https://www.cancer.gov/research/participate/clinical-trials/intervention/C1257">Find Clinical Trials for Treosulfan</ExternalRef> - Check for trials from NCI's list of cancer clinical trials now accepting patients.</Para></Section> 
+  <DrugInfoDisclaimer>
+
+
+<Para id="_Disclaimer_4"><Strong>Important: </Strong>The drug information on this page is meant to be educational. It is not a substitute for medical advice. The information may not cover all possible uses, actions, interactions, or side effects of this drug, or precautions to be taken while using it. Please see your health care professional for more information about your specific medical condition and the use of this drug.
+</Para></DrugInfoDisclaimer> 
+  <DateFirstPublished>2025-03-13</DateFirstPublished></DrugInformationSummary>
