@@ -28,6 +28,18 @@ There are several ways to specify which summaries should be processed. The most 
 
 If you include the `--dump` option the software will write the generated JSON to local files instead of pushing the values to the CMS server. This takes about five seconds for the entire set of all the summaries.
 
+## Authentication
+
+Unless you are running with the `--dump` option, the software will need the credentials required for connecting to the CMS as a user with permission to push PDQ content. When running as part of GitHub Action, the `PDQ_PASSWORD` value must be provided as part of the secrets provided to the runner's environment. When running locally, make sure that the file `.secrets.json` exists in the `src` directory (the same directory in which the script is stored). For example:
+
+```json
+{
+    "PDQ_PASSWORD": "vewy.secwet"
+}
+```
+
+Of course, this file must not be committed to the repository.
+
 ## TODO
 
 A possible future enhancement would be to determine for each summary document whether what we have in the repository has changed since the last time it was pushed to the CMS. One approach for doing this would be to remember what we sent the last time for each document and compare what we generate during the current job to find out if it has changed. There are a couple of drawbacks to this technique, which was basically how the original CDR system determined whether to optimize away the push of each document. For one thing, while it works pretty well on the production tier, which is relatively stable, it is easily confused when pushing to non-production servers, which are much more volatile. In addition, even on the production server the summary documents can be modified manually by users, which this technique would not detect.
