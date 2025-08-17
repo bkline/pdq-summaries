@@ -1,3 +1,5 @@
 *~
 dumps/
 *.log
+.venv
+venv
