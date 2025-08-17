@@ -30,7 +30,7 @@ If you include the `--dump` option the software will write the generated JSON to
 
 ## Authentication
 
-Unless you are running with the `--dump` option, the software will need the credentials required for connecting to the CMS as a user with permission to push PDQ content. When running as part of GitHub Action, the `PDQ_PASSWORD` value must be provided as part of the secrets provided to the runner's environment. When running locally, make sure that the file `.secrets.json` exists in the `src` directory (the same directory in which the script is stored). For example:
+Unless you are running with the `--dump` option, the software will need the credentials required for connecting to the CMS as a user with permission to push PDQ content. When running as part of a GitHub Action, the `PDQ_PASSWORD` value must be provided as part of the secrets provided to the runner's environment. When running locally, make sure that the file `.secrets.json` exists in the `src` directory (the same directory in which the script is stored). For example:
 
 ```json
 {
