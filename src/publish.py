@@ -131,7 +131,7 @@ class Control:
         """Processing options."""
 
         types = "cis", "dis"
-        base_help = "base URL for CMS"
+        base_help = "base URL for CMS (default: http://www.devbox)"
         batch_help = "number to mark as publishable in each call"
         debug_help = "enable debug logging"
         dump_help = "store summary JSON locally instead of pushing it"
